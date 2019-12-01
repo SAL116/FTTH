@@ -25,7 +25,7 @@ STORED;
 query2 = """
 ALTER TABLE {}
 ADD COLUMN HighSpeed tinyint(1)
-GENERATED ALWAYS AS (IF(MaxAdDown>100,1,0))
+GENERATED ALWAYS AS (IF(MaxAdDown>=100,1,0))
 STORED;
 """.format(t)
 
