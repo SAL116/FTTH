@@ -69,16 +69,18 @@ year = sys.argv[1]
 out_list = list()
 #for year in table_list:
 for state in state_list:
-	query = """
-	SELECT BlockCode,TechType,MAX(HighSpeed) AS HighSpeed
-	FROM {0}
-	WHERE StateAbbr = \"{1}\"
-	AND Consumer = 1
-	GROUP BY BlockCode,TechType
-	;
-	""".format(year,state)
-	df = pd.read_sql(query, engine)
-	df.to_csv("/home/analysis/Final/population/{0}/{1}.csv".format(year[:7],state),index=False)
+	# query = """
+	# SELECT BlockCode,TechType,MAX(HighSpeed) AS HighSpeed
+	# FROM {0}
+	# WHERE StateAbbr = \"{1}\"
+	# AND Consumer = 1
+	# GROUP BY BlockCode,TechType
+	# ;
+	# """.format(year,state)
+	#df = pd.read_sql(query, engine)
+	df = pd.read_csv("/home/analysis/Final/population/{0}/{1}.csv".format(year[:7],state),dtype=object)
+	df['BlockCode'] = df['BlockCode'].astype(str)
+	#df.to_csv("/home/analysis/Final/population/{0}/{1}.csv".format(year[:7],state),index=False)
 	df['population'] = df['BlockCode'].apply(lambda x: int(ref[state][x]))
 	df = df.groupby(['TechType','HighSpeed'])['population'].sum().reset_index()
 	df['state'] = state
