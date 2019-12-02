@@ -78,12 +78,12 @@ for state in state_list:
 	;
 	""".format(year,state)
 	df = pd.read_sql(query, engine)
-	df.to_csv("/home/analysis/Final/ISP/blocks/{0}/{1}_techtype.csv".format(year[:7],state),index=False)
+	df.to_csv("/home/analysis/Final/ISP/blocks_type/{0}/{1}_techtype.csv".format(year[:7],state),index=False)
 	df['population'] = df['BlockCode'].apply(lambda x: int(ref[state][x]))
 	df = df.groupby(['HocoNum','TechType','HighSpeed'])['population'].sum().reset_index()
 	df['state'] = state
 	out_list.append(df)
 allstates = pd.concat(out_list)
-allstates.to_csv("/home/analysis/Final/ISP/poplulation/{0}/ISP_techtype_each_state.csv".format(year[:7]),index=False)
+allstates.to_csv("/home/analysis/Final/ISP/population_type/{0}/ISP_techtype_each_state.csv".format(year[:7]),index=False)
 out = allstates.groupby(['HocoNum','TechType','HighSpeed'])['population'].sum().reset_index()
-out.to_csv("/home/analysis/Final/ISP/poplulation/{0}/ISP_techtype_pop.csv".format(year[:7]),index=False)
+out.to_csv("/home/analysis/Final/ISP/population_type/{0}/ISP_techtype_pop.csv".format(year[:7]),index=False)
