@@ -1,0 +1,3133 @@
+HocoNum,TechType,HighSpeed,population,HoldingCompanyName
+130002,DSL,0,26068,"3 Rivers Telephone Cooperative, Inc."
+130002,FTTH,0,12263,"3 Rivers Telephone Cooperative, Inc."
+130005,DSL,0,93,"Absaraka Cooperative Telephone Co., Inc."
+130008,DSL,0,53004,Ace Telephone Association
+130008,FTTH,1,56343,Ace Telephone Association
+130008,Other,0,20892,Ace Telephone Association
+130010,DSL,0,10755,"Action Communications, Inc."
+130010,Other,0,81428,"Action Communications, Inc."
+130011,FTTH,0,80,"Adak Eagle Enterprises, LLC"
+130012,DSL,0,18443,Adams Telephone Co-Operative
+130012,FTTH,1,56360,Adams Telephone Co-Operative
+130012,Other,0,63163,Adams Telephone Co-Operative
+130017,DSL,0,385,Agate Mutual Telephone Cooperative Association
+130018,DSL,0,48291,"Agri-Valley Communications, Inc."
+130018,Other,0,23969,"Agri-Valley Communications, Inc."
+130019,FTTH,1,102445,"Air Advantage, LLC"
+130019,Other,0,619093,"Air Advantage, LLC"
+130028,DSL,0,285896,"Alaska Communications Systems Holdings, Inc."
+130028,FTTH,0,277,"Alaska Communications Systems Holdings, Inc."
+130029,DSL,0,12790,"Alaska Power & Telephone, Inc."
+130029,Other,0,9699,"Alaska Power & Telephone, Inc."
+130031,FTTH,1,9650,Albany Mutual Telephone Association
+130032,DSL,0,6321,"Albion Telephone Company, Inc."
+130032,FTTH,1,6451,"Albion Telephone Company, Inc."
+130032,Other,0,4,"Albion Telephone Company, Inc."
+130034,DOCSIS,0,283,"Alenco Communications, Inc."
+130034,DSL,0,3690,"Alenco Communications, Inc."
+130034,FTTH,0,33300,"Alenco Communications, Inc."
+130034,Other,0,5675,"Alenco Communications, Inc."
+130035,DOCSIS,0,9333,Algona Municipal Utilities
+130035,FTTH,1,9333,Algona Municipal Utilities
+130036,DSL,0,3004,"Alhambra-Grantfork Communications, Inc."
+130036,FTTH,0,3322,"Alhambra-Grantfork Communications, Inc."
+130037,DOCSIS,0,53422,"All West Communications, Inc."
+130037,DSL,0,15526,"All West Communications, Inc."
+130037,FTTH,1,29029,"All West Communications, Inc."
+130037,Other,0,14429,"All West Communications, Inc."
+130039,DOCSIS,1,41347,"Allen's TV Cable Service, Inc."
+130039,FTTH,0,32098,"Allen's TV Cable Service, Inc."
+130040,FTTH,0,35185,"Alliance Communications Cooperative, Inc."
+130043,FTTH,0,741,Alma Communications Company
+130044,DOCSIS,0,29279,"Alma Telecom, Inc."
+130044,DSL,0,9761,"Alma Telecom, Inc."
+130044,FTTH,0,1886,"Alma Telecom, Inc."
+130045,DSL,0,5626,"Alpine Communications, LLC"
+130045,FTTH,0,6332,"Alpine Communications, LLC"
+130046,DOCSIS,0,1916,Alta Municipal Utilities
+130057,DOCSIS,0,21583,"Amery Telcom, Inc."
+130057,DSL,0,21682,"Amery Telcom, Inc."
+130057,FTTH,1,1917,"Amery Telcom, Inc."
+130058,DSL,0,11896,Amherst Telephone Company
+130058,FTTH,1,13867,Amherst Telephone Company
+130059,FTTH,1,1457,"Amplex Electric, Inc."
+130059,Other,0,442937,"Amplex Electric, Inc."
+130061,Other,0,9792,Ansteorria Inc.
+130062,Other,0,382681,"Antelecom, Inc."
+130065,DOCSIS,0,771,Arapahoe Telephone Company
+130065,DSL,0,4828,Arapahoe Telephone Company
+130065,Other,0,76387,Arapahoe Telephone Company
+130066,DSL,0,663,Arcadia Telephone Cooperative
+130066,FTTH,0,6109,Arcadia Telephone Cooperative
+130067,DSL,0,5197,"Arctic Slope Telephone Association Cooperative, Inc."
+130067,FTTH,0,2942,"Arctic Slope Telephone Association Cooperative, Inc."
+130068,DSL,0,30727,"Synergy Technology Partners, Inc."
+130068,FTTH,1,64489,"Synergy Technology Partners, Inc."
+130069,DSL,0,14839,"Arkansas Telephone Company, Inc."
+130070,FTTH,1,11660,"Arkwest Communications, Inc."
+130071,DOCSIS,1,987986,"Armstrong Holdings, Inc."
+130071,DSL,0,49713,"Armstrong Holdings, Inc."
+130073,FTTH,0,3728,The Arthur Mutual Telephone Company
+130074,DOCSIS,0,58044,"Arvig Enterprises, Inc."
+130074,DSL,0,116454,"Arvig Enterprises, Inc."
+130074,FTTH,1,33161,"Arvig Enterprises, Inc."
+130074,Other,0,84171,"Arvig Enterprises, Inc."
+130077,DSL,0,122849582,AT&T Inc.
+130077,FTTH,1,25052084,AT&T Inc.
+130077,Other,0,2743567,AT&T Inc.
+130079,DOCSIS,1,5413061,ABRY Partners
+130079,DSL,0,28444,ABRY Partners
+130079,FTTH,1,1007322,ABRY Partners
+130081,Other,0,387419,Atlantic Tele-Network
+130082,DOCSIS,1,50302,Atlantic Telephone Membership Corporation
+130082,DSL,0,65682,Atlantic Telephone Membership Corporation
+130082,FTTH,1,39399,Atlantic Telephone Membership Corporation
+130083,DSL,0,1692,"Atlas Telephone Company, Inc."
+130084,DOCSIS,0,1191,"Atwood Cable Systems, Inc."
+130086,DOCSIS,0,1066,Axxis Communications/Gorge Networks
+130086,DSL,0,19686,Axxis Communications/Gorge Networks
+130086,FTTH,1,2220,Axxis Communications/Gorge Networks
+130086,Other,0,32744,Axxis Communications/Gorge Networks
+130087,DSL,0,2506,Ayersville Telephone Company
+130087,FTTH,0,380,Ayersville Telephone Company
+130090,DSL,0,1180,"Baca Valley Telephone Company, Inc."
+130090,FTTH,1,938,"Baca Valley Telephone Company, Inc."
+130090,Other,0,7742,"Baca Valley Telephone Company, Inc."
+130092,FTTH,0,3011,"Baldwin Nashville Telephone Company, Inc."
+130093,DOCSIS,0,17242,"Baldwin Telecom, Inc."
+130093,DSL,0,2198,"Baldwin Telecom, Inc."
+130093,FTTH,0,22586,"Baldwin Telecom, Inc."
+130094,FTTH,0,12918,"Ballard Rural Telephone Cooperative Corporation, Inc."
+130095,DSL,0,11610,Baraga Telephone Company
+130095,FTTH,0,6617,Baraga Telephone Company
+130095,Other,0,287,Baraga Telephone Company
+130096,DSL,0,1072,Barnes City Cooperative Telephone Company
+130097,DSL,0,17370,Barry County Services Company
+130097,FTTH,0,4874,Barry County Services Company
+130097,Other,0,143670,Barry County Services Company
+130098,FTTH,1,12330,Bascom Mutual Telephone Company
+130098,Other,0,141730,Bascom Mutual Telephone Company
+130103,DOCSIS,0,1814,"Beamspeed, L.L.C."
+130103,Other,0,61446,"Beamspeed, L.L.C."
+130104,DOCSIS,0,9215,Beaver Creek Cooperative Telephone Company
+130104,DSL,0,7735,Beaver Creek Cooperative Telephone Company
+130104,FTTH,0,1941,Beaver Creek Cooperative Telephone Company
+130105,Other,0,23496,"Bee Creek Communications, Inc."
+130107,DSL,0,5128,"Beggs Telephone Company, Inc."
+130108,FTTH,1,27322,BEK Communications Cooperative
+130112,DSL,0,95085,Ben Lomand
+130112,FTTH,1,24772,Ben Lomand
+130114,DSL,0,3570,BW Telcom
+130114,FTTH,0,2693,BW Telcom
+130114,Other,0,19254,BW Telcom
+130115,DOCSIS,0,9552,Benton Cooperative Telephone Company
+130115,DSL,0,10358,Benton Cooperative Telephone Company
+130115,FTTH,0,5133,Benton Cooperative Telephone Company
+130115,Other,0,19514,Benton Cooperative Telephone Company
+130116,DSL,0,1809,Benton Ridge Telephone Company
+130116,FTTH,0,131444,Benton Ridge Telephone Company
+130116,Other,0,2956047,Benton Ridge Telephone Company
+130118,DSL,0,2101,Beresford Municipal Telephone Company
+130119,DSL,0,374,Bergen Telephone Company
+130119,FTTH,0,658,Bergen Telephone Company
+130120,FTTH,0,11236,"Bernard Telephone Company, Inc."
+130120,Other,0,7107,"Bernard Telephone Company, Inc."
+130122,DSL,0,212242,Biddeford Internet Corporation
+130122,FTTH,1,1285,Biddeford Internet Corporation
+130122,Other,0,353,Biddeford Internet Corporation
+130123,DSL,0,19068,"Big Bend Telephone Co., Inc."
+130123,FTTH,1,5194,"Big Bend Telephone Co., Inc."
+130123,Other,0,41349,"Big Bend Telephone Co., Inc."
+130124,DSL,0,17901,"Big River Telephone, LLC"
+130124,Other,0,59691,"Big River Telephone, LLC"
+130126,DSL,0,2356,"Bijou Telephone Co-Op Association, Inc."
+130126,FTTH,0,1036,"Bijou Telephone Co-Op Association, Inc."
+130126,Other,0,20351,"Bijou Telephone Co-Op Association, Inc."
+130127,DSL,0,44777,Birch Communications Inc.
+130130,DSL,1,31582,Bixby Telephone Company
+130130,FTTH,1,35526,Bixby Telephone Company
+130132,DSL,0,76576,"Blackfoot Telephone Cooperative, Inc."
+130132,FTTH,1,10993,"Blackfoot Telephone Cooperative, Inc."
+130132,Other,0,9976,"Blackfoot Telephone Cooperative, Inc."
+130133,DSL,0,578,Blanca Telephone Company/Jade Communications LLC
+130133,FTTH,1,4638,Blanca Telephone Company/Jade Communications LLC
+130133,Other,1,39752,Blanca Telephone Company/Jade Communications LLC
+130134,DSL,0,3798,"Blanchard Telephone Association, Inc."
+130136,DSL,0,30548,Bledsoe Telephone Cooperative Inc.
+130136,FTTH,1,11837,Bledsoe Telephone Cooperative Inc.
+130137,DOCSIS,1,821257,"Block Communications, Inc."
+130137,FTTH,1,14479,"Block Communications, Inc."
+130138,DSL,0,50,Bloomer Telephone Company
+130138,FTTH,1,7185,Bloomer Telephone Company
+130139,DSL,0,1637,Bloomingdale Home Telephone Company
+130139,FTTH,0,2902,Bloomingdale Home Telephone Company
+130140,DSL,0,5289,"Bloomingdale Telephone Company, Inc."
+130140,FTTH,1,10909,"Bloomingdale Telephone Company, Inc."
+130141,DSL,0,4058,"Blossom Telephone Co., Inc."
+130141,FTTH,0,3461,"Blossom Telephone Co., Inc."
+130142,DOCSIS,0,4423,Rural Communications Holding Corporation
+130142,DSL,0,49468,Rural Communications Holding Corporation
+130142,FTTH,1,16641,Rural Communications Holding Corporation
+130144,DOCSIS,0,3374,"Blue Valley Tele-Communications, Inc."
+130144,FTTH,0,8302,"Blue Valley Tele-Communications, Inc."
+130144,Other,0,10268,"Blue Valley Tele-Communications, Inc."
+130146,Other,0,671405,Brandenburg Cellular Corporation
+130148,DSL,0,3504,"BPM, Inc.?"
+130149,DOCSIS,1,34899,Braintree Electric Light Department
+130150,DSL,0,148066,Brandenburg Communications Corp.
+130150,FTTH,1,104118,Brandenburg Communications Corp.
+130151,FTTH,1,18254,"Brantley Telephone Company, Inc."
+130152,DOCSIS,0,14215,Brazoria Telephone Company
+130152,DSL,0,12242,Brazoria Telephone Company
+130152,FTTH,1,420,Brazoria Telephone Company
+130153,DSL,0,10297,"Brazos Telephone Cooperative, Inc."
+130153,FTTH,0,7497,"Brazos Telephone Cooperative, Inc."
+130154,DSL,0,14531,Breda Telephone Corp.
+130154,FTTH,1,12660,Breda Telephone Corp.
+130154,Other,0,14079,Breda Telephone Corp.
+130160,DSL,0,1739,Bristol Bay Telephone Cooperative
+130161,FTTH,1,271,Broadband Corp.
+130161,Other,0,50890,Broadband Corp.
+130168,DOCSIS,0,8136,Broken Bow TV Cable
+130169,DOCSIS,0,234,Brooklyn Mutual Telecommunications Cooperative
+130169,DSL,0,2906,Brooklyn Mutual Telecommunications Cooperative
+130169,FTTH,0,2906,Brooklyn Mutual Telecommunications Cooperative
+130170,DSL,0,3115,"Bruce Telephone Company, Inc."
+130170,FTTH,0,349,"Bruce Telephone Company, Inc."
+130171,DSL,0,352,Bryan Family Inc.
+130171,Other,0,1024,Bryan Family Inc.
+130175,DSL,0,8207,Buggs Island Telephone Cooperative
+130175,Other,0,63302,Buggs Island Telephone Cooperative
+130176,DSL,1,124492,"Bulloch County Rural Telephone Cooperative, Inc."
+130178,FTTH,0,238,"Burke's Garden Telephone Co., Inc."
+130179,DOCSIS,0,1763,Butler-Bremer Mutual Telephone Company
+130179,DSL,0,1559,Butler-Bremer Mutual Telephone Company
+130179,FTTH,0,7863,Butler-Bremer Mutual Telephone Company
+130183,DOCSIS,1,4346198,"Cable One, Inc."
+130183,FTTH,1,4192,"Cable One, Inc."
+130184,DOCSIS,1,22947,"Cable Services, Inc."
+130189,DSL,0,8182,Calaveras Communications Company
+130189,FTTH,1,2024,Calaveras Communications Company
+130189,Other,0,3415,Calaveras Communications Company
+130192,DSL,0,5999,"Cambridge TelCom, Inc."
+130192,FTTH,1,2997,"Cambridge TelCom, Inc."
+130193,DSL,0,8042,"Cambridge Telephone Company, Inc."
+130193,FTTH,1,8558,"Cambridge Telephone Company, Inc."
+130193,Other,0,1957,"Cambridge Telephone Company, Inc."
+130195,DSL,0,3072,Canadian Valley Telephone Company
+130196,DSL,0,20547,Canby Telephone Association
+130196,FTTH,1,21317,Canby Telephone Association
+130199,DSL,0,995,"Cap Rock Telephone Cooperative, Inc."
+130199,FTTH,0,6462,"Cap Rock Telephone Cooperative, Inc."
+130199,Other,0,1,"Cap Rock Telephone Cooperative, Inc."
+130201,DSL,0,1225,Carnegie Telephone Company
+130201,FTTH,1,1830,Carnegie Telephone Company
+130202,DOCSIS,0,48056,Carolina Mountain/Country Cablevision
+130203,DSL,0,2325,"Carr Communications, Inc."
+130204,FTTH,1,3878,Cascade Communications Company
+130206,DSL,0,20314,Day Management Corporation
+130206,FTTH,0,27674,Day Management Corporation
+130206,Other,0,0,Day Management Corporation
+130207,DSL,0,1085,Casey Mutual Telephone Company
+130207,FTTH,1,1085,Casey Mutual Telephone Company
+130208,DOCSIS,0,44640,"Cass Communications Management, Inc."
+130208,DSL,0,6327,"Cass Communications Management, Inc."
+130208,FTTH,1,5693,"Cass Communications Management, Inc."
+130208,Other,0,33192,"Cass Communications Management, Inc."
+130210,DSL,0,2615,Castleberry Communications
+130218,FTTH,1,40971,Cedar Falls Municipal Communications Utility
+130218,Other,0,27027,Cedar Falls Municipal Communications Utility
+130223,DSL,0,1108,"Center Junction Telephone Company, Inc."
+130224,DSL,0,7196,"Central Arkansas Telephone Cooperative, Inc."
+130224,FTTH,1,1553,"Central Arkansas Telephone Cooperative, Inc."
+130226,DSL,0,10128,Central Oklahoma Telephone Co.
+130226,FTTH,0,2039,Central Oklahoma Telephone Co.
+130226,Other,0,12996,Central Oklahoma Telephone Co.
+130227,DSL,0,7829,"Central Texas Telephone Cooperative, Inc."
+130227,FTTH,1,9953,"Central Texas Telephone Cooperative, Inc."
+130227,Other,0,415451,"Central Texas Telephone Cooperative, Inc."
+130228,DSL,1,49300155,"CenturyLink, Inc."
+130228,FTTH,1,6151555,"CenturyLink, Inc."
+130228,Other,0,1083,"CenturyLink, Inc."
+130233,DSL,0,2279,Chapin Communications Corporation
+130234,DSL,0,7858,Chariton Valley Telephone Corporation
+130234,FTTH,1,21828,Chariton Valley Telephone Corporation
+130234,Other,0,113025,Chariton Valley Telephone Corporation
+130235,DOCSIS,1,102726027,Charter Communications
+130235,FTTH,1,638969,Charter Communications
+130237,DOCSIS,0,16453,Chatmoss Cablevision
+130238,DSL,0,8521,Chazy & Westport Telephone
+130238,FTTH,0,5472,Chazy & Westport Telephone
+130239,DSL,0,6020,"Chequamegon Communications Cooperative, Inc."
+130239,FTTH,1,11403,"Chequamegon Communications Cooperative, Inc."
+130240,DSL,0,16345,Cherokee Telephone Company
+130240,FTTH,0,640,Cherokee Telephone Company
+130242,DOCSIS,1,95998,Chester Telephone Company
+130242,DSL,0,40382,Chester Telephone Company
+130242,FTTH,1,9546,Chester Telephone Company
+130243,FTTH,0,6597,Cheyenne River Sioux Tribe Telephone Authority
+130244,DSL,1,25550,"Chibardun Telephone Cooperative, Inc."
+130244,FTTH,1,4839,"Chibardun Telephone Cooperative, Inc."
+130245,DSL,0,70393,Chickasaw Holding Company
+130245,FTTH,1,94,Chickasaw Holding Company
+130250,DSL,0,3423,Christensen Communications Company
+130250,FTTH,0,1304,Christensen Communications Company
+130250,Other,0,1287,Christensen Communications Company
+130252,DSL,0,15942,"Churchill County, State of Nevada"
+130252,FTTH,0,17347,"Churchill County, State of Nevada"
+130254,DOCSIS,0,20168,Cincinnati Bell Inc.
+130254,DSL,0,1427063,Cincinnati Bell Inc.
+130254,FTTH,1,1375465,Cincinnati Bell Inc.
+130258,DSL,0,33290459,Frontier Communications Corporation
+130258,FTTH,0,10926625,Frontier Communications Corporation
+130259,DSL,0,4182,Citizens Mutual Telephone Cooperative
+130259,FTTH,1,7094,Citizens Mutual Telephone Cooperative
+130263,DOCSIS,0,13310,"Citizens Telephone Company of Higginsville, Missouri"
+130263,DSL,0,7907,"Citizens Telephone Company of Higginsville, Missouri"
+130263,FTTH,0,729,"Citizens Telephone Company of Higginsville, Missouri"
+130264,DSL,0,61,Citizens Telephone Company of Kecksburg
+130264,FTTH,1,20544,Citizens Telephone Company of Kecksburg
+130265,DOCSIS,0,4113,"Citizens Telephone Company, Inc. (GA)"
+130265,DSL,0,10314,"Citizens Telephone Company, Inc. (GA)"
+130265,FTTH,0,3065,"Citizens Telephone Company, Inc. (GA)"
+130266,DOCSIS,0,11025,Citizens Telephone Cooperative (VA)
+130266,DSL,0,16427,Citizens Telephone Cooperative (VA)
+130266,FTTH,1,5459,Citizens Telephone Cooperative (VA)
+130267,DSL,1,1198,"Citizens Telephone Cooperative, Inc. (WI)"
+130267,FTTH,1,5211,"Citizens Telephone Cooperative, Inc. (WI)"
+130268,DSL,0,3768,Citizens Telephone Corporation
+130268,FTTH,0,1868,Citizens Telephone Corporation
+130269,DOCSIS,0,758,"Citizens-Vermont Acquisition Company, Inc."
+130269,DSL,0,4756,"Citizens-Vermont Acquisition Company, Inc."
+130269,FTTH,0,7429,"Citizens-Vermont Acquisition Company, Inc."
+130270,FTTH,0,2622,City of Barnesville Municipal Telephone
+130271,DSL,0,21994,City of Brookings Telephone Fund
+130271,FTTH,1,21994,City of Brookings Telephone Fund
+130272,DOCSIS,0,8973,City of Cairo
+130274,DSL,0,422,City of Faith Municipal Telephone Company
+130274,FTTH,0,214,City of Faith Municipal Telephone Company
+130275,DSL,0,13108,City of Ketchikan
+130275,FTTH,1,12995,City of Ketchikan
+130275,Other,0,28,City of Ketchikan
+130278,DOCSIS,0,28277,City of San Bruno
+130278,FTTH,1,1498,City of San Bruno
+130279,FTTH,0,7388,City of Scottsburg
+130279,Other,0,105522,City of Scottsburg
+130281,DOCSIS,0,29702,City of Thomasville Utilities
+130282,DOCSIS,1,25738,City of Wadsworth
+130282,FTTH,0,25738,City of Wadsworth
+130283,FTTH,0,4851,City of Windom
+130285,DSL,0,3541,"Clarence Telephone Company, Inc."
+130285,FTTH,0,4910,"Clarence Telephone Company, Inc."
+130285,Other,0,3541,"Clarence Telephone Company, Inc."
+130287,DSL,0,654,Clarksville Mutual Telephone Company
+130288,FTTH,1,34831,"Clay County Rural Telephone Cooperative, Inc."
+130289,DOCSIS,0,11881,Clear Creek Mutual Telephone Company
+130289,DSL,0,341,Clear Creek Mutual Telephone Company
+130290,DSL,0,803,Clear Lake Independent Telephone Company
+130290,FTTH,1,13460,Clear Lake Independent Telephone Company
+130291,DOCSIS,0,2593,Clear Lake Telephone Company
+130291,DSL,0,3606,Clear Lake Telephone Company
+130291,FTTH,0,28,Clear Lake Telephone Company
+130292,DSL,0,448939,"Clear Rate Communications, Inc."
+130299,DSL,0,5390,Climax Telephone Company
+130299,FTTH,0,3644,Climax Telephone Company
+130300,DSL,0,13046,Clinton County Telephone Company
+130300,FTTH,1,20540,Clinton County Telephone Company
+130302,FTTH,0,7657,C-M-L Telephone Cooperative Association
+130303,DOCSIS,1,7417,Coast Communications Co. Inc.
+130305,FTTH,1,3221,Cochrane Cooperative Telephone Company
+130307,DSL,0,1214,"Coleman County Telephone Cooperative, Inc."
+130307,FTTH,0,2749,"Coleman County Telephone Cooperative, Inc."
+130307,Other,0,7887,"Coleman County Telephone Cooperative, Inc."
+130309,DOCSIS,0,64,COLI Inc.
+130309,FTTH,1,1475,COLI Inc.
+130309,Other,0,149722,COLI Inc.
+130310,FTTH,0,4623,Colo Telephone Company
+130311,DSL,0,12613,"Colorado Valley Telephone Cooperative, Inc."
+130311,FTTH,1,2511,"Colorado Valley Telephone Cooperative, Inc."
+130311,Other,0,25463,"Colorado Valley Telephone Cooperative, Inc."
+130312,DSL,0,155,Colton Telephone Company
+130312,FTTH,0,3296,Colton Telephone Company
+130314,FTTH,1,12924,Columbus Telephone Company
+130315,DSL,0,18286,"First American Holdings, LLC"
+130315,FTTH,1,6595,"First American Holdings, LLC"
+130315,Other,0,47023,"First American Holdings, LLC"
+130316,Other,0,14780,"Combined Technologies, Inc."
+130317,DOCSIS,1,110565393,Comcast Corporation
+130317,FTTH,1,17963,Comcast Corporation
+130321,FTTH,0,7821,"Communications 1 Network, Inc."
+130322,DOCSIS,1,85543,"Community Antenna Service, Inc."
+130324,FTTH,0,463,"Community Digital Wireless, LLC"
+130324,Other,0,5515,"Community Digital Wireless, LLC"
+130325,Other,0,3751,Community Internet Service (IA)
+130326,DSL,0,2681,"Community Internet Systems, Inc. (NE)"
+130326,Other,0,2509,"Community Internet Systems, Inc. (NE)"
+130327,DSL,0,1515,"Community Telephone Co., Inc."
+130327,FTTH,0,2119,"Community Telephone Co., Inc."
+130329,DSL,1,8773,"Computer 5, Inc."
+130329,Other,0,46044,"Computer 5, Inc."
+130331,Other,0,225717,"Computer Sales & Services, Inc."
+130335,DOCSIS,0,185373,Hickory Tech Corporation
+130335,DSL,0,4519414,Hickory Tech Corporation
+130335,FTTH,1,965022,Hickory Tech Corporation
+130335,Other,0,14585,Hickory Tech Corporation
+130337,DOCSIS,1,16470,Consolidated Telcom
+130337,FTTH,1,36524,Consolidated Telcom
+130337,Other,0,34521,Consolidated Telcom
+130338,DSL,0,10520,Consolidated Telephone Company
+130338,FTTH,1,55662,Consolidated Telephone Company
+130338,Other,0,1100,Consolidated Telephone Company
+130340,DOCSIS,0,60799,Conway Corporation
+130343,DSL,0,6358,Coon Creek Telephone Company
+130344,DSL,0,5646,"Coon Valley Cooperative Telephone Association, Inc."
+130344,FTTH,1,5646,"Coon Valley Cooperative Telephone Association, Inc."
+130344,Other,0,5646,"Coon Valley Cooperative Telephone Association, Inc."
+130345,DSL,0,3961,"Coon Valley Farmers Telephone Company, Inc."
+130345,FTTH,0,1903,"Coon Valley Farmers Telephone Company, Inc."
+130346,DSL,0,3237,Cooperative Telephone Company
+130346,FTTH,0,3237,Cooperative Telephone Company
+130346,Other,0,2196,Cooperative Telephone Company
+130347,FTTH,0,3377,Cooperative Telephone Exchange
+130349,DSL,0,6467,Copper Valley Telephone Cooperative
+130352,DSL,0,2145,"Cordova Telephone Cooperative, Inc."
+130353,FTTH,0,2505,Corn Belt Telephone Company
+130353,Other,0,1302,Corn Belt Telephone Company
+130360,DOCSIS,1,20798327,"Cox Communications, Inc."
+130360,FTTH,1,1143908,"Cox Communications, Inc."
+130361,DSL,0,1150,Cozad Telephone Company
+130361,FTTH,0,4059,Cozad Telephone Company
+130362,DSL,0,14239,"CP-Tel Holdings, Inc."
+130362,FTTH,0,19216,"CP-Tel Holdings, Inc."
+130363,DSL,0,3329,"Craigville Telephone Company, Inc."
+130363,FTTH,1,10834,"Craigville Telephone Company, Inc."
+130364,DSL,0,30952,Craw-Kan
+130364,FTTH,1,18959,Craw-Kan
+130366,DSL,0,19707,Cross Telephone Company LLC
+130366,FTTH,1,5341,Cross Telephone Company LLC
+130368,DSL,0,736,"Crossville Consolidated Communications, Inc."
+130369,DSL,0,1119,Crown Point Telephone Corporation
+130369,FTTH,0,5406,Crown Point Telephone Corporation
+130370,DOCSIS,1,19259006,"CSC Holdings, LLC"
+130370,FTTH,1,360134,"CSC Holdings, LLC"
+130374,DSL,0,4207,Cumberland Telephone Company
+130374,FTTH,0,4207,Cumberland Telephone Company
+130374,Other,0,5940,Cumberland Telephone Company
+130375,DSL,0,8853,"Cumby Telephone Cooperative, Inc."
+130375,FTTH,0,3072,"Cumby Telephone Cooperative, Inc."
+130378,DOCSIS,0,3403,Custer Telephone Cooperative Inc.
+130378,DSL,0,2872,Custer Telephone Cooperative Inc.
+130378,FTTH,0,5531,Custer Telephone Cooperative Inc.
+130378,Other,0,5684,Custer Telephone Cooperative Inc.
+130380,DSL,0,11126,"Cutter Communications, Inc."
+130380,FTTH,1,4009,"Cutter Communications, Inc."
+130380,Other,0,1548,"Cutter Communications, Inc."
+130385,DOCSIS,1,51332,"D & P Communications, Inc."
+130385,DSL,0,14063,"D & P Communications, Inc."
+130385,Other,0,20963,"D & P Communications, Inc."
+130386,DSL,0,24308,"D D & B, Inc."
+130386,FTTH,1,7467,"D D & B, Inc."
+130387,FTTH,1,25520,Dakota Central Telecommunications Cooperative
+130387,Other,0,1166,Dakota Central Telecommunications Cooperative
+130390,DSL,0,3467,Danville Mutual Telephone Company (iconnectyou)
+130390,FTTH,1,13270,Danville Mutual Telephone Company (iconnectyou)
+130390,Other,0,13270,Danville Mutual Telephone Company (iconnectyou)
+130391,DOCSIS,0,12295,"Darien Telephone Company, Inc."
+130391,DSL,0,3787,"Darien Telephone Company, Inc."
+130391,FTTH,0,3779,"Darien Telephone Company, Inc."
+130393,DSL,0,15231,Daviess-Martin County RTC
+130393,FTTH,0,15231,Daviess-Martin County RTC
+130395,DSL,0,9291,"Decatur Holding Company, Inc."
+130396,DSL,0,47130,"DeKalb Telephone Cooperative, Inc."
+130396,FTTH,0,12130,"DeKalb Telephone Cooperative, Inc."
+130398,DSL,0,5540,Delcambre Telephone Co.
+130398,FTTH,0,5540,Delcambre Telephone Co.
+130399,DSL,0,1425,Delhi Telephone Company
+130399,FTTH,0,10831,Delhi Telephone Company
+130400,DSL,0,29927,"Dell Telephone Cooperative, Inc."
+130400,FTTH,0,28789,"Dell Telephone Cooperative, Inc."
+130400,Other,0,29255,"Dell Telephone Cooperative, Inc."
+130401,DSL,0,22676,Delta Communications
+130401,FTTH,0,203,Delta Communications
+130401,Other,0,324,Delta Communications
+130402,Other,0,8714,"DerbyTech, Inc."
+130405,FTTH,1,19276,Dickey Rural Telephone Cooperative
+130416,DOCSIS,0,10424,Doylestown Telephone Company
+130416,DSL,0,10491,Doylestown Telephone Company
+130416,FTTH,0,16148,Doylestown Telephone Company
+130419,FTTH,1,3474,Dumont Telephone Company
+130420,DSL,0,4809,"Dunbarton Telephone Company, Inc."
+130420,FTTH,0,1460,"Dunbarton Telephone Company, Inc."
+130421,DSL,0,2004,Dunkerton Telephone Cooperative
+130421,FTTH,0,2004,Dunkerton Telephone Cooperative
+130423,DOCSIS,0,11899,Duo County Telephone Cooperative Inc.
+130423,DSL,0,19195,Duo County Telephone Cooperative Inc.
+130423,FTTH,1,19458,Duo County Telephone Cooperative Inc.
+130425,DSL,0,35233,DWL Holding Company
+130425,Other,0,6789,DWL Holding Company
+130427,DOCSIS,0,124303,"E. Ritter Communications Holdings, Inc."
+130427,DSL,0,86928,"E. Ritter Communications Holdings, Inc."
+130427,FTTH,1,26630,"E. Ritter Communications Holdings, Inc."
+130429,DOCSIS,0,69886,"Eagle Communications, Inc."
+130429,Other,0,5929,"Eagle Communications, Inc."
+130431,DSL,0,384,"Eagle Telephone Systems, Inc."
+130431,FTTH,0,485,"Eagle Telephone Systems, Inc."
+130432,DOCSIS,0,37474,EATEL Corp.
+130432,DSL,0,130294,EATEL Corp.
+130432,FTTH,1,147237,EATEL Corp.
+130433,DSL,0,3095,East Buchanan Telephone Cooperative
+130433,Other,0,1702,East Buchanan Telephone Cooperative
+130437,FTTH,1,29,"Eastern Indiana WIFI, Inc."
+130437,Other,1,6206,"Eastern Indiana WIFI, Inc."
+130439,DSL,0,6053,"Eastern Slope Rural Telephone Association, Inc."
+130439,FTTH,0,4968,"Eastern Slope Rural Telephone Association, Inc."
+130440,DSL,0,77347,"Eastex Telephone Cooperative, Inc."
+130440,FTTH,1,4951,"Eastex Telephone Cooperative, Inc."
+130444,DSL,0,10189,Egyptian Telephone Cooperative Association
+130444,Other,0,4524,Egyptian Telephone Cooperative Association
+130445,DOCSIS,0,51201,Electric and Water Plant Board of the City of Frankfort
+130446,DOCSIS,0,13548,"Electric Plant Board of the City of Glasgow, KY"
+130448,DSL,0,5650,Ellerbe Telephone Company
+130448,FTTH,0,524,Ellerbe Telephone Company
+130448,Other,0,21458,Ellerbe Telephone Company
+130449,DSL,0,3594,Ellington Telephone Company
+130449,FTTH,0,1912,Ellington Telephone Company
+130450,FTTH,0,2784,Ellsworth Cooperative Telephone Association
+130453,DOCSIS,0,41800,Emery Telcom
+130453,DSL,0,32084,Emery Telcom
+130453,FTTH,1,28622,Emery Telcom
+130454,FTTH,1,2407,Emily Cooperative Telephone Company
+130455,DSL,0,25161,Empire Telephone Corporation/North Penn Telephone Company
+130455,FTTH,1,93930,Empire Telephone Corporation/North Penn Telephone Company
+130458,DSL,0,7104,"ENMR Telephone Cooperative, Inc."
+130458,FTTH,1,79831,"ENMR Telephone Cooperative, Inc."
+130458,Other,1,82160,"ENMR Telephone Cooperative, Inc."
+130459,DOCSIS,1,543270,"En-Touch Systems, Inc."
+130459,FTTH,1,543270,"En-Touch Systems, Inc."
+130460,FTTH,0,2539,Epic Touch Company
+130464,DSL,0,38473,"Etex Telephone Cooperative, Inc."
+130464,FTTH,1,25160,"Etex Telephone Cooperative, Inc."
+130464,Other,1,7085,"Etex Telephone Cooperative, Inc."
+130472,FTTH,0,6741,Farmers & Merchants Mutual Telephone Company
+130472,Other,0,7121,Farmers & Merchants Mutual Telephone Company
+130473,DSL,0,4185,"F&B Communications, Inc."
+130473,FTTH,1,4014,"F&B Communications, Inc."
+130475,DSL,0,4842,Farmers Cooperative Telephone Company-Dysart
+130475,FTTH,1,4842,Farmers Cooperative Telephone Company-Dysart
+130476,DOCSIS,0,1039,Farmers Independent Telephone Company
+130476,DSL,0,4310,Farmers Independent Telephone Company
+130476,FTTH,1,3507,Farmers Independent Telephone Company
+130477,DOCSIS,0,229,Farmers Mutual Cooperative Telephone Company-Harlan
+130477,DSL,0,2382,Farmers Mutual Cooperative Telephone Company-Harlan
+130477,FTTH,0,7346,Farmers Mutual Cooperative Telephone Company-Harlan
+130477,Other,0,1078,Farmers Mutual Cooperative Telephone Company-Harlan
+130478,FTTH,0,1235,Farmers Mutual Cooperative Telephone Company-Moulton
+130479,DSL,0,5447,Farmers Mutual Telephone Company (ID)
+130479,FTTH,1,4130,Farmers Mutual Telephone Company (ID)
+130481,DSL,0,618,Farmers Mutual Telephone Company (OH)
+130481,FTTH,0,1489,Farmers Mutual Telephone Company (OH)
+130481,Other,0,90418,Farmers Mutual Telephone Company (OH)
+130482,DSL,0,6434,"Farmers Mutual Telephone Company of Stanton, Iowa"
+130482,FTTH,1,6434,"Farmers Mutual Telephone Company of Stanton, Iowa"
+130483,DSL,0,1088,Farmers Mutual Telephone Company-Jessup
+130483,FTTH,1,5377,Farmers Mutual Telephone Company-Jessup
+130484,DOCSIS,1,4951,Farmers Mutual Telephone Company-Nora Springs
+130484,DSL,0,4951,Farmers Mutual Telephone Company-Nora Springs
+130484,FTTH,1,16987,Farmers Mutual Telephone Company-Nora Springs
+130485,DOCSIS,0,38046,Farmers Mutual Telephone Cooperative
+130485,DSL,0,38046,Farmers Mutual Telephone Cooperative
+130485,FTTH,0,38046,Farmers Mutual Telephone Cooperative
+130485,Other,0,38046,Farmers Mutual Telephone Cooperative
+130487,DSL,0,818,"Farmers Telephone Company, Inc."
+130487,FTTH,0,562,"Farmers Telephone Company, Inc."
+130488,DSL,0,1102,Farmers Telephone Company-Batavia
+130489,FTTH,1,1296,Farmers Telephone Company-Essex
+130489,Other,0,2936,Farmers Telephone Company-Essex
+130490,DSL,0,185398,"Farmers Telephone Cooperative, Inc. (SC)"
+130490,FTTH,1,62835,"Farmers Telephone Cooperative, Inc. (SC)"
+130490,Other,0,26107,"Farmers Telephone Cooperative, Inc. (SC)"
+130491,DOCSIS,0,130,Fayetteville Public Utilities
+130492,DSL,0,8220,FDF Communications Co.
+130492,FTTH,0,619,FDF Communications Co.
+130492,Other,0,196913,FDF Communications Co.
+130494,FTTH,1,18416,Farmers Mutual Telephone Company (MN & SD)
+130494,Other,0,588,Farmers Mutual Telephone Company (MN & SD)
+130495,FTTH,0,586,Fenton Cooperative Telephone Company
+130497,DOCSIS,1,384532,Fidelity Communications Company
+130497,DSL,0,27357,Fidelity Communications Company
+130497,FTTH,1,14583,Fidelity Communications Company
+130500,DSL,0,1231,"First Step Internet, LLC"
+130500,FTTH,0,1401,"First Step Internet, LLC"
+130500,Other,0,161490,"First Step Internet, LLC"
+130502,DSL,0,2754,"Five Area Telephone Cooperative, Inc."
+130502,FTTH,1,10505,"Five Area Telephone Cooperative, Inc."
+130502,Other,0,15926,"Five Area Telephone Cooperative, Inc."
+130503,DSL,0,1242,"Flat Rock Telephone Co-Op, Inc."
+130507,DSL,1,1215,"Foothills Rural Telephone Cooperative Corporation, Inc."
+130507,FTTH,1,43149,"Foothills Rural Telephone Cooperative Corporation, Inc."
+130509,FTTH,0,1548,"Fort Mojave Telecommunications, Inc."
+130511,DSL,0,1710,Waldron Communication Company
+130511,Other,0,29769,Waldron Communication Company
+130513,Other,0,129181,"Fox Valley Internet, Inc."
+130514,DSL,0,1960,"Franklin Telephone Co., Inc."
+130514,FTTH,0,1348,"Franklin Telephone Co., Inc."
+130524,DSL,0,4051,"Ganado Telephone Company, Inc."
+130524,FTTH,1,3312,"Ganado Telephone Company, Inc."
+130526,DSL,0,4306,Garden Valley Telephone Company
+130526,FTTH,1,23454,Garden Valley Telephone Company
+130527,DSL,0,5340,Gardonville Cooperative Telephone Association
+130527,FTTH,1,10206,Gardonville Cooperative Telephone Association
+130527,Other,0,120973,Gardonville Cooperative Telephone Association
+130528,FTTH,1,815,"Gargoyle Technologies, Inc."
+130528,Other,0,3510,"Gargoyle Technologies, Inc."
+130532,DSL,0,1587,Geetingsville Telephone Company Inc.
+130532,FTTH,0,644,Geetingsville Telephone Company Inc.
+130532,Other,0,4040,Geetingsville Telephone Company Inc.
+130534,DOCSIS,1,554752,"General Communication, Inc."
+130534,DSL,0,13546,"General Communication, Inc."
+130534,Other,0,26579,"General Communication, Inc."
+130535,DSL,0,14568,"Geneseo Communications, Inc."
+130535,FTTH,0,22048,"Geneseo Communications, Inc."
+130538,DSL,0,5621,"Germantown Telephone Company, Inc."
+130538,FTTH,0,3487,"Germantown Telephone Company, Inc."
+130539,DSL,0,3644,Gervais Telephone Company
+130539,FTTH,1,18347,Gervais Telephone Company
+130540,DOCSIS,0,27250,GEUS
+130542,DSL,0,18710,"Gila River Telecommunications, Inc."
+130543,DSL,0,2949,"Glandorf Telephone Co., Inc."
+130543,FTTH,0,2092,"Glandorf Telephone Co., Inc."
+130544,DSL,0,3374,Glasford Telephone Company
+130544,FTTH,0,278,Glasford Telephone Company
+130545,DSL,0,1575,Glenwood Telephone Company
+130546,DOCSIS,0,2040,Glenwood Telephone Membership Corporation
+130546,DSL,0,1154,Glenwood Telephone Membership Corporation
+130546,FTTH,1,23075,Glenwood Telephone Membership Corporation
+130546,Other,0,137701,Glenwood Telephone Membership Corporation
+130550,DOCSIS,0,34266,"Golden West Telecommunications Cooperative, Inc."
+130550,DSL,0,61782,"Golden West Telecommunications Cooperative, Inc."
+130550,FTTH,0,55483,"Golden West Telecommunications Cooperative, Inc."
+130551,FTTH,0,5575,"Golden Wheat, Inc."
+130552,DSL,0,22107,Goldfield Telephone Company
+130553,FTTH,1,887,Gonthier Inc.
+130553,Other,0,149515,Gonthier Inc.
+130555,FTTH,0,1134,"Gorham Communications, Inc."
+130557,DSL,0,14751,"Grafton Communications, Inc."
+130557,FTTH,0,3448,"Grafton Communications, Inc."
+130558,DSL,0,5153,Granby Telephone Company
+130558,FTTH,1,8285,Granby Telephone Company
+130559,DSL,0,1428,Grand Mound Cooperative Telephone Association
+130559,FTTH,0,7053,Grand Mound Cooperative Telephone Association
+130559,Other,0,12256,Grand Mound Cooperative Telephone Association
+130560,DSL,0,20025,Grand River Mutual Telephone Corporation
+130560,FTTH,1,36086,Grand River Mutual Telephone Corporation
+130561,DSL,0,9406,Grand Telephone Company
+130561,FTTH,1,2531,Grand Telephone Company
+130565,FTTH,1,3692,Grauer Management Inc.
+130567,Other,0,14203,Great Lakes Communication Corp.
+130569,DOCSIS,0,23359,"Great Plains Communications, Inc."
+130569,DSL,0,42518,"Great Plains Communications, Inc."
+130569,FTTH,0,2023,"Great Plains Communications, Inc."
+130570,DSL,0,6858,Green Hills Telephone Corporation
+130570,FTTH,0,7285,Green Hills Telephone Corporation
+130570,Other,0,12280,Green Hills Telephone Corporation
+130574,FTTH,1,3673,Griswold Cooperative Telephone Company
+130576,DOCSIS,1,63923,"Thames Valley Communications, Inc."
+130578,DOCSIS,0,34734,"Guadalupe Valley Telephone Cooperative, Inc."
+130578,DSL,0,100774,"Guadalupe Valley Telephone Cooperative, Inc."
+130578,FTTH,1,109581,"Guadalupe Valley Telephone Cooperative, Inc."
+130580,DSL,0,5992,Gunnison Telephone Company
+130580,FTTH,0,15,Gunnison Telephone Company
+130581,DOCSIS,0,615,"H&B Communications, Inc."
+130581,FTTH,0,6384,"H&B Communications, Inc."
+130581,Other,0,10426,"H&B Communications, Inc."
+130583,DSL,0,1653,Halstad Telephone Company
+130583,FTTH,1,7397,Halstad Telephone Company
+130583,Other,0,8610,Halstad Telephone Company
+130584,DSL,0,7105,Hamilton County Telephone Co-Op
+130584,FTTH,1,10966,Hamilton County Telephone Co-Op
+130584,Other,0,40634,Hamilton County Telephone Co-Op
+130586,DSL,0,8372,Hancock Rural Telephone Corporation
+130586,FTTH,1,63107,Hancock Rural Telephone Corporation
+130586,Other,0,251,Hancock Rural Telephone Corporation
+130587,DSL,0,1374623,Harbor Communications
+130587,FTTH,0,1371638,Harbor Communications
+130587,Other,0,1371638,Harbor Communications
+130588,DSL,0,14203,"Hardy Telecommunications, Inc."
+130588,FTTH,0,12287,"Hardy Telecommunications, Inc."
+130588,Other,1,5752,"Hardy Telecommunications, Inc."
+130589,DOCSIS,0,208398,"Hargray Communications Group, Inc."
+130589,DSL,0,61736,"Hargray Communications Group, Inc."
+130589,FTTH,0,118156,"Hargray Communications Group, Inc."
+130590,DSL,0,2145,Harmony Telephone Company
+130590,Other,0,5441,Harmony Telephone Company
+130592,FTTH,0,2872,"Hartington Telecommunications Co., Inc."
+130594,Other,0,87397,"Haug Communications, Inc."
+130595,DSL,0,1262172,"Hawaiian Telcom Communications, Inc."
+130595,FTTH,1,698328,"Hawaiian Telcom Communications, Inc."
+130596,FTTH,1,1571,Hawkeye Telephone Company
+130597,DSL,0,26684,"Hayneville Holding Company, Inc."
+130598,FTTH,0,21136,Heart of Iowa Communications Cooperative
+130598,Other,0,16636,Heart of Iowa Communications Cooperative
+130601,DSL,0,371,Helix Telephone Company
+130602,DOCSIS,0,997,Hemingford Cooperative Telephone Company
+130602,DSL,0,14350,Hemingford Cooperative Telephone Company
+130602,FTTH,0,3187,Hemingford Cooperative Telephone Company
+130602,Other,0,18164,Hemingford Cooperative Telephone Company
+130603,FTTH,0,1667,Henderson Cooperative Telephone Company
+130603,Other,0,3318,Henderson Cooperative Telephone Company
+130604,DSL,0,2895,"Henry County Communications, Inc."
+130604,FTTH,0,63,"Henry County Communications, Inc."
+130605,DSL,0,973,Hershey Cooperative Telephone Company
+130605,FTTH,0,851,Hershey Cooperative Telephone Company
+130605,Other,0,29761,Hershey Cooperative Telephone Company
+130606,DOCSIS,1,38057,"Hiawatha Broadband Communications, Inc."
+130606,FTTH,1,47471,"Hiawatha Broadband Communications, Inc."
+130606,Other,0,338194,"Hiawatha Broadband Communications, Inc."
+130607,DSL,0,14396,"Hiawatha Communications, Inc."
+130607,FTTH,1,3942,"Hiawatha Communications, Inc."
+130609,DSL,1,4665,"Hickory Utility Services, Inc."
+130609,FTTH,1,6545,"Hickory Utility Services, Inc."
+130610,DSL,0,1719,Highland Telephone Cooperative (VA)
+130612,DSL,0,28718,"Hill Country Telephone Cooperative, Inc."
+130612,FTTH,1,24685,"Hill Country Telephone Cooperative, Inc."
+130612,Other,0,1109,"Hill Country Telephone Cooperative, Inc."
+130613,DSL,0,1279,"Hillsboro Telephone Company, Inc."
+130613,FTTH,0,638,"Hillsboro Telephone Company, Inc."
+130614,DSL,0,8835,Hinton Holding Company
+130614,Other,0,40863,Hinton Holding Company
+130616,DOCSIS,0,428,"Home Enterprises, Inc."
+130616,FTTH,0,7760,"Home Enterprises, Inc."
+130617,DOCSIS,1,60488,"Home Telephone Company, Inc. (SC)"
+130617,DSL,0,52472,"Home Telephone Company, Inc. (SC)"
+130617,FTTH,1,80274,"Home Telephone Company, Inc. (SC)"
+130619,DSL,0,80777,Horizon Telecom
+130620,DOCSIS,1,205334,Bluewave Communications
+130620,DSL,0,225518,Bluewave Communications
+130620,FTTH,1,213977,Bluewave Communications
+130621,DOCSIS,0,8705,"Hospers Telephone Exchange, Inc."
+130621,FTTH,0,4113,"Hospers Telephone Exchange, Inc."
+130622,DSL,0,1393,Hot Springs Telephone Company
+130622,FTTH,0,57,Hot Springs Telephone Company
+130622,Other,0,1106,Hot Springs Telephone Company
+130623,DOCSIS,1,28115,"Hotwire Communications, Ltd."
+130623,DSL,1,18521,"Hotwire Communications, Ltd."
+130623,FTTH,1,195049,"Hotwire Communications, Ltd."
+130623,Other,1,7603,"Hotwire Communications, Ltd."
+130624,DSL,1,40261,HTC Holding Co.
+130624,FTTH,1,5548,HTC Holding Co.
+130624,Other,0,162337,HTC Holding Co.
+130626,DOCSIS,0,1437,Hubbard Cooperative Telephone Association
+130626,DSL,0,1437,Hubbard Cooperative Telephone Association
+130626,FTTH,0,1437,Hubbard Cooperative Telephone Association
+130630,DSL,0,54,Huxley Communications Cooperative
+130630,FTTH,1,10062,Huxley Communications Cooperative
+130631,FTTH,1,2993,IAMO Telephone Company
+130631,Other,0,566,IAMO Telephone Company
+130634,Other,0,24469,ICON Technologies Inc.
+130641,DOCSIS,1,6962,Independence Light and Power
+130641,FTTH,1,344,Independence Light and Power
+130645,DSL,0,5088,Industry Telephone Company
+130647,Other,0,3052,"Info-Ed, Inc."
+130648,DOCSIS,0,16406,InfoStructure Inc.
+130648,FTTH,1,2569,InfoStructure Inc.
+130651,DOCSIS,0,3028,Western Elite Incorporated Services
+130651,DSL,0,6114,Western Elite Incorporated Services
+130651,FTTH,0,2398,Western Elite Incorporated Services
+130651,Other,0,1109,Western Elite Incorporated Services
+130655,DOCSIS,1,91793,"Inter Mountain Cable, Inc."
+130655,DSL,0,14464,"Inter Mountain Cable, Inc."
+130657,DSL,0,2460,"InterBel Telephone Cooperative, Inc."
+130657,FTTH,1,3856,"InterBel Telephone Cooperative, Inc."
+130662,DSL,0,9813,"Interstate Telecommunications Cooperative, Inc."
+130662,FTTH,0,30435,"Interstate Telecommunications Cooperative, Inc."
+130663,Other,0,253383,"Inventive Wireless of Nebraska, LLC"
+130667,DSL,0,22075,Ironton Telephone Company
+130668,DOCSIS,0,10372,"Irvine Community Television, Inc."
+130673,DSL,0,34132,James Valley Cooperative Telephone Company
+130673,FTTH,0,6355,James Valley Cooperative Telephone Company
+130673,Other,0,51359,James Valley Cooperative Telephone Company
+130674,DSL,0,2088,"JED Enterprises, Inc."
+130674,FTTH,0,113,"JED Enterprises, Inc."
+130677,DSL,0,62,Jefferson Telephone Company
+130677,FTTH,0,5235,Jefferson Telephone Company
+130678,DSL,0,3172,Johnson Telephone Company
+130678,FTTH,0,857,Johnson Telephone Company
+130679,DSL,0,881,"K & M Telephone Company, Inc."
+130679,FTTH,0,337,"K & M Telephone Company, Inc."
+130681,FTTH,0,3785,"Kalida Telephone Company, Inc."
+130682,FTTH,1,5951,Kalona Cooperative Telephone Company
+130683,DSL,0,8154,"KALTELCO, Inc."
+130684,DSL,0,2043,"KanOkla Telephone Association, Inc."
+130684,FTTH,0,10903,"KanOkla Telephone Association, Inc."
+130684,Other,0,441940,"KanOkla Telephone Association, Inc."
+130685,DSL,0,105006,"Kaplan Telephone Company, Inc."
+130685,FTTH,0,105006,"Kaplan Telephone Company, Inc."
+130685,Other,0,105006,"Kaplan Telephone Company, Inc."
+130686,DSL,0,15308,Kasson & Mantorville Telephone Company
+130686,FTTH,1,8248,Kasson & Mantorville Telephone Company
+130690,DOCSIS,0,1091,"Keene Valley Video, Inc."
+130690,FTTH,0,4,"Keene Valley Video, Inc."
+130691,DSL,0,205,"Kennebec Telephone Company, Inc."
+130691,FTTH,1,1616,"Kennebec Telephone Company, Inc."
+130692,FTTH,1,11950,"Kentec Communications, Inc."
+130692,Other,0,63454,"Kentec Communications, Inc."
+130693,FTTH,0,3060,Keystone Farmers Cooperative Telephone Company
+130695,DSL,0,2214,Killduff Telephone Company
+130696,DSL,0,4328,"Kinex Networking Solutions, Inc."
+130696,FTTH,1,1015,"Kinex Networking Solutions, Inc."
+130696,Other,0,2260,"Kinex Networking Solutions, Inc."
+130697,DSL,0,8137,Kingdom Telephone Company
+130697,FTTH,1,14844,Kingdom Telephone Company
+130697,Other,0,54473,Kingdom Telephone Company
+130699,DSL,0,186,Kinsman Mutual Telephone Co.
+130705,DOCSIS,0,16369,Kraus Electronics Systems Inc.
+130707,Other,0,29841,La Canada Wireless Association
+130708,DSL,0,3008,La Jicarita Rural Telephone Cooperative
+130708,FTTH,0,1565,La Jicarita Rural Telephone Cooperative
+130708,Other,0,24,La Jicarita Rural Telephone Cooperative
+130709,DSL,0,2075,La Motte Telephone Company
+130709,FTTH,0,1727,La Motte Telephone Company
+130710,DSL,0,2095,"La Ward Telephone Exchange, Inc."
+130710,FTTH,0,240,"La Ward Telephone Exchange, Inc."
+130711,FTTH,0,1084,"LaHarpe Telephone Company, Inc."
+130711,Other,0,262,"LaHarpe Telephone Company, Inc."
+130712,DSL,0,7144,Lake Livingston Telephone Company
+130712,FTTH,0,6337,Lake Livingston Telephone Company
+130714,DOCSIS,0,3589,"Lakeland Communications, Inc."
+130714,DSL,0,4122,"Lakeland Communications, Inc."
+130714,FTTH,1,6309,"Lakeland Communications, Inc."
+130718,DSL,0,4346,"Larson Utilities, Inc."
+130718,FTTH,0,101,"Larson Utilities, Inc."
+130721,DSL,1,7111,"Laurel Highland Total Communications, Inc."
+130721,FTTH,1,21189,"Laurel Highland Total Communications, Inc."
+130724,DOCSIS,0,1269,Laurens Municipal Broadband Communications Utility
+130725,FTTH,1,7287,"Lavaca Telephone Company, Inc."
+130726,DSL,0,4344,"LaValle Telephone Cooperative, Inc."
+130726,FTTH,1,1588,"LaValle Telephone Cooperative, Inc."
+130728,DSL,0,636,"Leaco Rural Telephone Cooperative, Inc."
+130728,FTTH,0,2036,"Leaco Rural Telephone Cooperative, Inc."
+130728,Other,0,16219,"Leaco Rural Telephone Cooperative, Inc."
+130732,FTTH,1,3685,Lehigh Valley Telephone Cooperative Association
+130733,DSL,0,1624,Lemonweir Valley Telephone Company
+130733,FTTH,1,7684,Lemonweir Valley Telephone Company
+130733,Other,0,53,Lemonweir Valley Telephone Company
+130734,DOCSIS,0,17462,Lennon Telephone Company
+130734,DSL,0,4571,Lennon Telephone Company
+130735,DSL,0,327,"Leonore Mutual Telephone Co., Inc."
+130736,DSL,0,4888,Le-Ru Telephone Company
+130742,DSL,0,6889,"Ligonier Telephone Co., Inc."
+130742,FTTH,1,10235,"Ligonier Telephone Co., Inc."
+130742,Other,0,112477,"Ligonier Telephone Co., Inc."
+130743,DSL,1,5048,"Lincoln Communications, Inc."
+130743,FTTH,0,2960,"Lincoln Communications, Inc."
+130744,DSL,0,1450,Lincoln Telephone Company
+130744,FTTH,0,57,Lincoln Telephone Company
+130745,DSL,0,20043,Lincolnville Telephone Company
+130745,FTTH,0,26964,Lincolnville Telephone Company
+130746,DOCSIS,0,23200,"Lintel, Inc."
+130746,DSL,0,19901,"Lintel, Inc."
+130746,FTTH,0,734,"Lintel, Inc."
+130747,DSL,0,4457,"Lipan Telephone Company, Inc."
+130748,FTTH,0,717,Lismore Cooperative Telephone Company
+130748,Other,0,17180,Lismore Cooperative Telephone Company
+130749,Other,0,36974,"LiteWire Internet Services, Inc."
+130754,DSL,0,13515,"Logan Telephone Cooperative, Inc."
+130754,FTTH,1,10665,"Logan Telephone Cooperative, Inc."
+130756,DSL,0,700,Lone Rock Cooperative Telephone Company
+130756,Other,0,700,Lone Rock Cooperative Telephone Company
+130757,DOCSIS,1,59009,Long Lines
+130757,DSL,1,13654,Long Lines
+130757,FTTH,1,24,Long Lines
+130759,FTTH,0,3962,Lost Nation-Elwood Telephone Company
+130762,DSL,0,16408,"LTC Holding Company, Inc."
+130764,DOCSIS,1,12351,Lycom Communications
+130766,DSL,0,901,Lynnville Telephone Company
+130766,FTTH,0,1765,Lynnville Telephone Company
+130767,DSL,0,3735,Mabel Cooperative Telephone Company
+130767,FTTH,0,1517,Mabel Cooperative Telephone Company
+130768,DSL,0,4198,MADCO Holding Company
+130768,FTTH,1,5490,MADCO Holding Company
+130769,DOCSIS,0,19267,"Schwartz Ventures, Inc."
+130769,DSL,0,6640,"Schwartz Ventures, Inc."
+130769,FTTH,0,3309,"Schwartz Ventures, Inc."
+130771,FTTH,0,2972,Madison Telephone Company
+130772,DSL,0,2852,"Magazine Telephone Company, Inc."
+130772,Other,0,2852,"Magazine Telephone Company, Inc."
+130774,FTTH,1,23383,"Mahaska Communication Group, LLC"
+130774,Other,0,12809,"Mahaska Communication Group, LLC"
+130777,FTTH,0,1651,Manchester-Hartland Telephone Company
+130778,DSL,0,10191,Manti Telephone Company
+130778,FTTH,1,9867,Manti Telephone Company
+130778,Other,0,1824,Manti Telephone Company
+130780,DOCSIS,0,8141,"Margaretville Telephone Company, Inc."
+130780,DSL,0,4460,"Margaretville Telephone Company, Inc."
+130780,FTTH,1,11723,"Margaretville Telephone Company, Inc."
+130781,DSL,0,14039,Mark Twain Rural Telephone Company
+130781,FTTH,1,288,Mark Twain Rural Telephone Company
+130781,Other,0,96926,Mark Twain Rural Telephone Company
+130782,DOCSIS,0,5017,Marne & Elk Horn Telephone Company
+130782,DSL,0,3724,Marne & Elk Horn Telephone Company
+130782,FTTH,1,4971,Marne & Elk Horn Telephone Company
+130782,Other,0,9388,Marne & Elk Horn Telephone Company
+130783,DSL,0,2047,"Marquette-Adams Telephone Cooperative, Inc."
+130783,FTTH,1,14842,"Marquette-Adams Telephone Cooperative, Inc."
+130784,DOCSIS,0,1090,"Martell Enterprises, Inc."
+130784,DSL,0,4823,"Martell Enterprises, Inc."
+130784,FTTH,0,152,"Martell Enterprises, Inc."
+130785,DOCSIS,0,18143,Martelle Cooperative Telephone Association
+130785,DSL,0,18143,Martelle Cooperative Telephone Association
+130786,DOCSIS,1,42174,Mashell Inc.
+130786,DSL,0,16133,Mashell Inc.
+130786,FTTH,1,11140,Mashell Inc.
+130787,DSL,0,775,Massena Telephone Company
+130787,FTTH,0,121,Massena Telephone Company
+130787,Other,0,1354,Massena Telephone Company
+130788,DOCSIS,0,170241,"Massillon Cable TV, Inc."
+130788,FTTH,0,10802,"Massillon Cable TV, Inc."
+130790,Other,0,681,Master Mind Productions Inc.
+130791,DSL,0,125207,"Matanuska Telephone Association, Inc."
+130791,FTTH,1,25650,"Matanuska Telephone Association, Inc."
+130791,Other,0,73799,"Matanuska Telephone Association, Inc."
+130794,DSL,0,27952,MBO Corporation
+130794,FTTH,0,15706,MBO Corporation
+130795,DOCSIS,0,22553,Alteva Inc.
+130795,DSL,0,41929,Alteva Inc.
+130795,FTTH,0,1030,Alteva Inc.
+130796,FTTH,0,2441,McClure Telephone Company
+130797,FTTH,0,5965,"TrioTel Communications, Inc."
+130798,DSL,0,9178,McDonald County Telephone Company
+130798,FTTH,0,4467,McDonald County Telephone Company
+130799,DSL,0,5625,McDonough Telephone Cooperative Inc.
+130799,FTTH,0,35456,McDonough Telephone Cooperative Inc.
+130799,Other,0,13270,McDonough Telephone Cooperative Inc.
+130802,DSL,0,908,"McNabb Communications, Inc."
+130802,FTTH,0,538,"McNabb Communications, Inc."
+130803,FTTH,1,3502,Mechanicsville Telephone Company
+130804,DOCSIS,1,7604431,Mediacom Communications Corp.
+130805,FTTH,1,7064,Mediapolis Telephone Company
+130808,Other,0,39065,Merrill Information Systems
+130810,DSL,0,3507,"Mescalero Apache Telecom, Inc."
+130814,DSL,0,2201,"MGW Communications, Inc."
+130814,FTTH,1,3920,"MGW Communications, Inc."
+130814,Other,0,158521,"MGW Communications, Inc."
+130817,Other,0,328199,"Micrologic, Inc."
+130819,DSL,0,10011,Mid Century Telephone Co-operative
+130819,FTTH,1,21614,Mid Century Telephone Co-operative
+130821,DOCSIS,1,1317394,Midcontinent Communications
+130821,Other,1,22628,Midcontinent Communications
+130825,DSL,0,5567,"Mid-Plains Rural Telephone Cooperative, Inc."
+130825,FTTH,1,12053,"Mid-Plains Rural Telephone Cooperative, Inc."
+130826,DOCSIS,1,30954,"Mid-Rivers Telephone Cooperative, Inc."
+130826,DSL,0,64114,"Mid-Rivers Telephone Cooperative, Inc."
+130826,FTTH,1,13136,"Mid-Rivers Telephone Cooperative, Inc."
+130826,Other,0,1034,"Mid-Rivers Telephone Cooperative, Inc."
+130827,DSL,0,3302,"Midstate Communications, Inc. (ND)"
+130827,FTTH,0,3302,"Midstate Communications, Inc. (ND)"
+130828,FTTH,1,13026,"Midstate Communications, Inc. (SD)"
+130829,Other,0,10733,"Mid-States Services, LLC"
+130831,DSL,0,8944,Midvale Telephone Exchange
+130831,FTTH,0,3551,Midvale Telephone Exchange
+130831,Other,0,3910,Midvale Telephone Exchange
+130833,Other,0,192977,Midwest Mobile Radio
+130834,Other,0,522872,"Midwest Telecom of America, Inc."
+130837,FTTH,0,1924,Miles Cooperative Telephone Assoc.
+130838,DOCSIS,0,3916,"Miles Enterprises, Inc."
+130838,DSL,0,18974,"Miles Enterprises, Inc."
+130838,FTTH,1,32758,"Miles Enterprises, Inc."
+130838,Other,0,45776,"Miles Enterprises, Inc."
+130839,DOCSIS,0,3478,"Milford Communications, LLC"
+130839,FTTH,0,710,"Milford Communications, LLC"
+130844,DSL,0,15802,Millry Corporation
+130845,FTTH,1,6355,Minburn Telephone Company
+130845,Other,0,17513,Minburn Telephone Company
+130846,DSL,0,4561,"Minerva Valley Telephone Company, Inc."
+130847,DSL,0,10938,Minford Telephone Company
+130847,FTTH,0,9373,Minford Telephone Company
+130849,DSL,0,2908,Modern Cooperative Telephone Company
+130850,FTTH,1,17167,Molalla Communications Company
+130851,FTTH,0,4811,"Mon-Cre Telephone Cooperative, Inc."
+130852,DSL,0,3258,Monitor Cooperative Telephone Company
+130852,FTTH,0,3258,Monitor Cooperative Telephone Company
+130853,FTTH,0,3996,Monon Telephone Company Inc.
+130853,Other,0,10087,Monon Telephone Company Inc.
+130854,DSL,0,5334,Monroe Telephone Company
+130854,FTTH,0,1844,Monroe Telephone Company
+130856,DOCSIS,1,1579,MLGC
+130856,FTTH,1,5323,MLGC
+130856,Other,1,19,MLGC
+130860,DSL,0,7373,The Moundridge Telephone Company
+130860,FTTH,1,7373,The Moundridge Telephone Company
+130861,DSL,0,5151,"Moundville Communications, Inc."
+130861,FTTH,0,478,"Moundville Communications, Inc."
+130862,DSL,0,17070,Mount Horeb Telephone Company
+130862,FTTH,0,4192,Mount Horeb Telephone Company
+130862,Other,0,14750,Mount Horeb Telephone Company
+130865,FTTH,1,23902,"Mountain Rural Telephone Cooperative Corporation, Inc."
+130868,DOCSIS,0,1401,Town of Mountain Village
+130872,DSL,0,170630,MTCO Corporation
+130872,FTTH,1,23460,MTCO Corporation
+130874,DSL,0,2256,"Mud Lake Telephone Cooperative Assn., Inc."
+130874,FTTH,0,934,"Mud Lake Telephone Cooperative Assn., Inc."
+130874,Other,0,3147,"Mud Lake Telephone Cooperative Assn., Inc."
+130875,DSL,0,7513,Mulberry Cooperative Telephone Co. Inc.
+130875,FTTH,0,2855,Mulberry Cooperative Telephone Co. Inc.
+130877,DOCSIS,1,20134,Mutual Telephone Company (IA)
+130877,DSL,0,21192,Mutual Telephone Company (IA)
+130877,FTTH,1,33776,Mutual Telephone Company (IA)
+130877,Other,0,1149,Mutual Telephone Company (IA)
+130878,DSL,0,14528,Mutual Telephone Company of Morning Sun
+130878,FTTH,1,2896,Mutual Telephone Company of Morning Sun
+130878,Other,0,14528,Mutual Telephone Company of Morning Sun
+130880,FTTH,0,11110,"Myakka Technologies, Inc."
+130880,Other,0,8819,"Myakka Technologies, Inc."
+130882,DSL,0,12984,"NATCO Communications, Inc."
+130882,FTTH,1,7858,"NATCO Communications, Inc."
+130885,DSL,0,5306,North Dakota Telephone Company
+130885,FTTH,1,25764,North Dakota Telephone Company
+130886,Other,0,442449,"N.E. Colorado Cellular, Inc."
+130887,DSL,0,10964,"Nedelco, Incorporated"
+130887,FTTH,1,1095,"Nedelco, Incorporated"
+130887,Other,0,123613,"Nedelco, Incorporated"
+130889,DOCSIS,0,3764,Nelson Telephone Cooperative
+130889,DSL,0,505,Nelson Telephone Cooperative
+130889,FTTH,1,8713,Nelson Telephone Cooperative
+130890,DSL,0,43340,"Nemont Telephone Cooperative, Inc."
+130890,FTTH,1,17770,"Nemont Telephone Cooperative, Inc."
+130890,Other,0,40722,"Nemont Telephone Cooperative, Inc."
+130901,DSL,0,2927,New Hope Telephone Cooperative (VA)
+130902,FTTH,1,17003,"New Hope Telephone Cooperative, Inc. (AL)"
+130903,DOCSIS,1,8504,"New Knoxville Telephone Company/GoldStar Communications, LLC"
+130903,DSL,0,2025,"New Knoxville Telephone Company/GoldStar Communications, LLC"
+130903,FTTH,1,24643,"New Knoxville Telephone Company/GoldStar Communications, LLC"
+130903,Other,1,33099,"New Knoxville Telephone Company/GoldStar Communications, LLC"
+130904,DSL,0,1544,"New Lisbon Telephone Company, Inc."
+130904,FTTH,1,8993,"New Lisbon Telephone Company, Inc."
+130904,Other,0,66240,"New Lisbon Telephone Company, Inc."
+130905,DOCSIS,0,15133,"New Paris Telephone Company, Inc."
+130905,DSL,0,4213,"New Paris Telephone Company, Inc."
+130905,FTTH,0,167,"New Paris Telephone Company, Inc."
+130905,Other,0,2572,"New Paris Telephone Company, Inc."
+130906,DOCSIS,0,9490,"New Ulm Telecom, Inc."
+130906,DSL,0,68207,"New Ulm Telecom, Inc."
+130906,FTTH,0,3988,"New Ulm Telecom, Inc."
+130906,Other,0,51255,"New Ulm Telecom, Inc."
+130908,DSL,0,1184,"New Windsor Communications, Inc."
+130908,FTTH,0,875,"New Windsor Communications, Inc."
+130914,Other,0,12957,NexGenAccess Inc.
+130919,DOCSIS,0,1668,Wittenberg Telephone Company
+130919,DSL,0,5941,Wittenberg Telephone Company
+130919,FTTH,0,9283,Wittenberg Telephone Company
+130919,Other,0,47171,Wittenberg Telephone Company
+130920,DSL,0,5590,"Nicholville Telephone Company, Inc."
+130920,FTTH,1,54546,"Nicholville Telephone Company, Inc."
+130921,DOCSIS,0,8484,NITCO Holding Corporation
+130921,DSL,0,30254,NITCO Holding Corporation
+130921,FTTH,0,5795,NITCO Holding Corporation
+130921,Other,0,308139,NITCO Holding Corporation
+130925,DOCSIS,0,5946,Nortex Communications
+130925,DSL,0,4522,Nortex Communications
+130925,FTTH,1,14880,Nortex Communications
+130925,Other,0,9108,Nortex Communications
+130927,Other,0,179816,North Carolina Wireless
+130929,DSL,0,12310,"North Central Telephone Cooperative, Inc."
+130929,FTTH,1,55766,"North Central Telephone Cooperative, Inc."
+130930,DSL,0,1725,North English Cooperative Telephone Company
+130930,FTTH,0,4,North English Cooperative Telephone Company
+130937,DSL,0,54252,"Northeast Communications of Wisconsin, Inc."
+130937,FTTH,1,13005,"Northeast Communications of Wisconsin, Inc."
+130937,Other,0,1587998,"Northeast Communications of Wisconsin, Inc."
+130938,DSL,0,5921,Northeast Iowa Telephone Company
+130938,FTTH,1,5594,Northeast Iowa Telephone Company
+130938,Other,0,16898,Northeast Iowa Telephone Company
+130939,FTTH,1,5483,"Northeast Louisiana Telephone Co., Inc."
+130940,DSL,0,3672,Northeast Missouri Rural Telephone Company
+130940,FTTH,0,12224,Northeast Missouri Rural Telephone Company
+130940,Other,0,3267,Northeast Missouri Rural Telephone Company
+130941,FTTH,0,17205,Northeast Nebraska Telephone Company
+130943,DSL,0,2719,Northern Telephone and Data Corp.
+130943,FTTH,1,715,Northern Telephone and Data Corp.
+130943,Other,0,18879,Northern Telephone and Data Corp.
+130944,DSL,0,77,Northern Telephone Company/Wilderness Valley Telephone Company
+130945,DSL,0,2062,"Northern Telephone Cooperative, Inc."
+130945,FTTH,0,2426,"Northern Telephone Cooperative, Inc."
+130949,DSL,0,221529,North-State Telephone Co. (NC)
+130949,FTTH,1,246408,North-State Telephone Co. (NC)
+130950,DSL,0,3007,Northwest Communications Cooperative
+130950,FTTH,1,5388,Northwest Communications Cooperative
+130950,Other,0,1987,Northwest Communications Cooperative
+130953,DSL,0,4595,Northwest Telephone Cooperative
+130953,FTTH,0,2275,Northwest Telephone Cooperative
+130953,Other,0,27354,Northwest Telephone Cooperative
+130955,DOCSIS,0,2889,"Nova Cablevision, Inc."
+130956,DSL,0,4942,Dunnell Telephone Company
+130962,DSL,0,2466,Nucla-Naturita Telephone Company
+130962,FTTH,0,139,Nucla-Naturita Telephone Company
+130962,Other,0,254,Nucla-Naturita Telephone Company
+130963,DSL,0,16,Nunn Telephone Company
+130963,FTTH,0,1875,Nunn Telephone Company
+130964,DOCSIS,0,2034,"Nushagak Electric & Telephone Cooperative, Inc."
+130964,DSL,0,2381,"Nushagak Electric & Telephone Cooperative, Inc."
+130967,Other,0,241562,OACYS Technology
+130968,Other,1,6397,Odessa Office Equipment
+130969,FTTH,1,3688,Ogden Telephone Company
+130973,DSL,0,8207,Oklahoma Western Telephone Company
+130974,DSL,0,560,"Olin Telephone Company, Inc."
+130974,FTTH,1,1377,"Olin Telephone Company, Inc."
+130974,Other,0,134,"Olin Telephone Company, Inc."
+130976,DSL,0,5392,Oneida County Rural Telephone
+130976,FTTH,0,5800,Oneida County Rural Telephone
+130977,DSL,0,485,"Oneida Telephone Exchange, Inc."
+130977,FTTH,0,1107,"Oneida Telephone Exchange, Inc."
+130979,FTTH,0,488,Onslow Cooperative Telephone Association
+130982,DSL,0,46089,"Zayo Group, LLC"
+130982,FTTH,0,9721,"Zayo Group, LLC"
+130983,FTTH,0,1491,Oran Mutual Telephone Company
+130986,DOCSIS,0,128072,"May, Bott et al."
+130986,DSL,0,186302,"May, Bott et al."
+130986,FTTH,1,168456,"May, Bott et al."
+130986,Other,0,4540,"May, Bott et al."
+130988,DOCSIS,1,76043,"Orlando Telephone Company, Inc."
+130988,DSL,1,7677,"Orlando Telephone Company, Inc."
+130988,FTTH,1,101190,"Orlando Telephone Company, Inc."
+130989,DOCSIS,1,3995,Osage Municipal Utilities
+130989,FTTH,1,148,Osage Municipal Utilities
+130989,Other,0,1592,Osage Municipal Utilities
+130993,DSL,0,57503,Oxford Telephone and Telegraph
+131003,DSL,0,567,Palmer Mutual Telephone Company
+131003,FTTH,0,196,Palmer Mutual Telephone Company
+131005,DSL,0,11768,"Palmetto Rural Telephone Cooperative, Inc."
+131005,FTTH,1,61107,"Palmetto Rural Telephone Cooperative, Inc."
+131006,FTTH,0,9035,Palo Cooperative Telephone Association
+131007,DOCSIS,0,15622,"Panhandle Telephone Cooperative, Inc."
+131007,DSL,0,23381,"Panhandle Telephone Cooperative, Inc."
+131007,FTTH,1,13205,"Panhandle Telephone Cooperative, Inc."
+131007,Other,0,31970,"Panhandle Telephone Cooperative, Inc."
+131008,DOCSIS,0,1219,Panora Communications Cooperative
+131008,FTTH,1,6141,Panora Communications Cooperative
+131008,Other,0,3991,Panora Communications Cooperative
+131009,DSL,0,29004,Park Region Mutual Telephone Company
+131009,FTTH,0,9911,Park Region Mutual Telephone Company
+131009,Other,0,3730,Park Region Mutual Telephone Company
+131010,DOCSIS,0,3438,Partner Communications Cooperative
+131010,DSL,0,5244,Partner Communications Cooperative
+131010,FTTH,1,3415,Partner Communications Cooperative
+131011,DSL,0,8733,"PATHWAYZ Communications, Inc."
+131011,FTTH,0,170,"PATHWAYZ Communications, Inc."
+131011,Other,0,672,"PATHWAYZ Communications, Inc."
+131013,DSL,0,3523,Pattersonville Telephone Company (NY)
+131014,DSL,0,38951,Paul Bunyan Rural Telephone Cooperative
+131014,FTTH,1,65456,Paul Bunyan Rural Telephone Cooperative
+131016,Other,0,3809836,"PCC Holdings, Inc."
+131017,FTTH,0,3046,"PCI Systems, Inc."
+131017,Other,0,422360,"PCI Systems, Inc."
+131019,DSL,0,1675,Peace Valley Telephone Company
+131021,DSL,0,521,The Peetz Cooperative Telephone Company
+131021,Other,0,3616,The Peetz Cooperative Telephone Company
+131023,FTTH,1,10700,"Pembroke Telephone Company, Inc."
+131024,DSL,0,5751,Pembroke Telephone Cooperative
+131025,DOCSIS,0,18413,"Penasco Valley Telephone Cooperative, Inc."
+131025,DSL,0,6286,"Penasco Valley Telephone Cooperative, Inc."
+131025,FTTH,0,8496,"Penasco Valley Telephone Cooperative, Inc."
+131025,Other,0,103495,"Penasco Valley Telephone Cooperative, Inc."
+131026,DOCSIS,1,2028900,"Pencor Services, Inc."
+131026,DSL,0,27625,"Pencor Services, Inc."
+131026,FTTH,1,2021477,"Pencor Services, Inc."
+131027,DSL,0,3393,Pennsylvania Telephone Company
+131029,FTTH,1,26455,"Peoples Rural Telephone Cooperative Corporation, Inc."
+131030,DSL,0,7125,"Peoples Telecommunications, LLC"
+131030,FTTH,1,7125,"Peoples Telecommunications, LLC"
+131031,DSL,0,42352,"Peoples Telephone Cooperative, Inc./Peoples FiberCom"
+131031,FTTH,0,11627,"Peoples Telephone Cooperative, Inc./Peoples FiberCom"
+131031,Other,0,71068,"Peoples Telephone Cooperative, Inc./Peoples FiberCom"
+131032,DSL,0,11028,"Perry-Spencer Rural Telephone Cooperative, Inc."
+131032,FTTH,1,31239,"Perry-Spencer Rural Telephone Cooperative, Inc."
+131032,Other,0,29814,"Perry-Spencer Rural Telephone Cooperative, Inc."
+131034,DOCSIS,0,5392,Phillips County Telephone Co.
+131034,FTTH,1,3249,Phillips County Telephone Co.
+131034,Other,0,3917,Phillips County Telephone Co.
+131035,DOCSIS,0,895,"Pickwick Cablevision, Inc."
+131036,DSL,0,25335,"Piedmont Rural Telephone Cooperative, Inc."
+131036,FTTH,0,15702,"Piedmont Rural Telephone Cooperative, Inc."
+131037,DSL,0,4474,"Pierce Telecommunications, Inc."
+131037,FTTH,0,299,"Pierce Telecommunications, Inc."
+131038,DOCSIS,0,5590,Pine Belt Communications Co. Inc.
+131038,DSL,0,6429,Pine Belt Communications Co. Inc.
+131038,FTTH,0,613,Pine Belt Communications Co. Inc.
+131038,Other,0,0,Pine Belt Communications Co. Inc.
+131039,DSL,0,13635,Pine Telephone Company
+131039,FTTH,0,4945,Pine Telephone Company
+131039,Other,0,13635,Pine Telephone Company
+131041,FTTH,1,43607,"Pineland Telephone Cooperative, Inc."
+131042,DSL,0,3753,Town of Pineville
+131042,FTTH,0,3335,Town of Pineville
+131043,DOCSIS,0,514,"Pinpoint Holdings, Inc."
+131043,DSL,0,8456,"Pinpoint Holdings, Inc."
+131043,FTTH,1,15073,"Pinpoint Holdings, Inc."
+131043,Other,0,84992,"Pinpoint Holdings, Inc."
+131044,DOCSIS,0,15514,"Pioneer Telephone Association, Inc."
+131044,DSL,0,15719,"Pioneer Telephone Association, Inc."
+131044,FTTH,0,10854,"Pioneer Telephone Association, Inc."
+131045,DSL,0,100242,Pioneer Telephone Cooperative (OK)
+131045,FTTH,1,19464,Pioneer Telephone Cooperative (OK)
+131045,Other,0,108691,Pioneer Telephone Cooperative (OK)
+131046,DSL,0,23821,Pioneer Telephone Cooperative (OR)
+131046,FTTH,0,2014,Pioneer Telephone Cooperative (OR)
+131047,DSL,0,856,Pioneer Telephone Holding Company
+131047,FTTH,0,82,Pioneer Telephone Holding Company
+131047,Other,0,11,Pioneer Telephone Holding Company
+131048,Other,0,3327534,Pixius Communications LLC
+131049,FTTH,0,2552,"Plains Cooperative Telephone Association, Inc."
+131050,FTTH,1,2104,Plainview Telephone Co. Inc.
+131050,Other,0,203,Plainview Telephone Co. Inc.
+131051,DOCSIS,1,25515,Plant Telephone Company
+131051,DSL,0,23024,Plant Telephone Company
+131051,FTTH,0,113,Plant Telephone Company
+131052,DSL,0,4157,"Planters Rural Telephone Cooperative, Inc."
+131052,FTTH,1,49221,"Planters Rural Telephone Cooperative, Inc."
+131055,DSL,0,7447,"Poka Lambro Telephone Cooperative, Inc."
+131055,FTTH,0,12106,"Poka Lambro Telephone Cooperative, Inc."
+131055,Other,0,4755,"Poka Lambro Telephone Cooperative, Inc."
+131056,FTTH,1,17699,Polar Communication Mutual Aid Corporation
+131056,Other,0,15404,Polar Communication Mutual Aid Corporation
+131057,DSL,0,26372,"Ponderosa Communications, Inc."
+131057,FTTH,1,4346,"Ponderosa Communications, Inc."
+131057,Other,0,600,"Ponderosa Communications, Inc."
+131060,DSL,0,9023,"Postco, Inc."
+131060,FTTH,1,15994,"Postco, Inc."
+131066,DSL,0,2020,"Prairieburg Telephone Company, Inc."
+131066,Other,0,2020,"Prairieburg Telephone Company, Inc."
+131071,DSL,0,1783,Preston Telephone Company
+131071,FTTH,0,2867,Preston Telephone Company
+131072,DSL,0,9275,Price County Telephone Company
+131072,FTTH,1,1155,Price County Telephone Company
+131073,DSL,0,7860,"Progressive Rural Telephone Co-Op., Inc."
+131073,FTTH,0,8195,"Progressive Rural Telephone Co-Op., Inc."
+131074,DSL,0,844,"Progressive Voice & Data, Inc."
+131074,FTTH,1,3060,"Progressive Voice & Data, Inc."
+131075,DSL,0,30388,"Project Mutual Telephone Cooperative Association, Inc."
+131075,FTTH,1,1974,"Project Mutual Telephone Cooperative Association, Inc."
+131075,Other,0,27256,"Project Mutual Telephone Cooperative Association, Inc."
+131076,DOCSIS,0,27750,"Public Service Communications, Inc."
+131076,DSL,0,29913,"Public Service Communications, Inc."
+131076,Other,0,29703,"Public Service Communications, Inc."
+131078,DOCSIS,0,4594,"Pulaski White Rural Telephone Coop., Inc."
+131078,DSL,0,4028,"Pulaski White Rural Telephone Coop., Inc."
+131078,FTTH,1,4008,"Pulaski White Rural Telephone Coop., Inc."
+131078,Other,0,62,"Pulaski White Rural Telephone Coop., Inc."
+131081,FTTH,1,723144,Metronet Holdings LLC
+131081,Other,0,299190,Metronet Holdings LLC
+131085,FTTH,1,1251,Radcliffe Telephone Company
+131086,DSL,0,3216,"Ragland Telephone Company, Inc."
+131086,FTTH,0,2150,"Ragland Telephone Company, Inc."
+131087,DOCSIS,0,15240,"Rainbow Telecommunications Association, Inc."
+131087,FTTH,0,4153,"Rainbow Telecommunications Association, Inc."
+131087,Other,0,39640,"Rainbow Telecommunications Association, Inc."
+131089,DSL,0,37559,Randolph Telephone Membership Corporation
+131089,FTTH,0,59762,Randolph Telephone Membership Corporation
+131090,DSL,1,42398,"Range Telephone Cooperative, Inc."
+131090,FTTH,1,21159,"Range Telephone Cooperative, Inc."
+131090,Other,0,3319,"Range Telephone Cooperative, Inc."
+131096,FTTH,0,2535,Readlyn Telephone Company
+131096,Other,0,2535,Readlyn Telephone Company
+131097,DSL,0,122,Red River Rural Telephone Association
+131097,FTTH,1,10236,Red River Rural Telephone Association
+131097,Other,0,17073,Red River Rural Telephone Association
+131100,FTTH,1,16229,Reedsburg Utility Commission
+131102,DSL,0,11107,Reservation Telephone Cooperative
+131102,FTTH,1,14461,Reservation Telephone Cooperative
+131103,DOCSIS,1,90080,"Reserve Holdings, Inc."
+131104,DSL,0,3747,"Respond Communications, Inc."
+131104,Other,0,2865,"Respond Communications, Inc."
+131106,DSL,0,266,Reynolds Telephone Company
+131106,FTTH,1,1423,Reynolds Telephone Company
+131106,Other,0,2157,Reynolds Telephone Company
+131108,DSL,0,33475,"Smithville Holding Company, Inc."
+131108,FTTH,1,57220,"Smithville Holding Company, Inc."
+131109,DSL,0,6384,"Richland-Grant Telephone Cooperative, Inc."
+131109,FTTH,1,3499,"Richland-Grant Telephone Cooperative, Inc."
+131113,DSL,0,28082,Ringgold Telephone Company
+131113,FTTH,1,24191,Ringgold Telephone Company
+131114,DSL,0,1154,Ringsted Telephone Company
+131114,FTTH,0,1074,Ringsted Telephone Company
+131116,DSL,0,12131,River Valley Telephone Coop.
+131116,Other,0,21015,River Valley Telephone Coop.
+131117,DSL,0,2118,"Riviera Telephone Company, Inc."
+131117,FTTH,0,15,"Riviera Telephone Company, Inc."
+131117,Other,0,6999,"Riviera Telephone Company, Inc."
+131118,DOCSIS,0,19476,RJB Telecommunications Corp.
+131118,DSL,0,2145,RJB Telecommunications Corp.
+131118,FTTH,1,13178,RJB Telecommunications Corp.
+131122,DSL,1,4654,Roberts County Telephone Cooperative Association
+131122,FTTH,1,911,Roberts County Telephone Cooperative Association
+131122,Other,0,47428,Roberts County Telephone Cooperative Association
+131123,DSL,0,2769,Robinson Communications Corporation
+131123,FTTH,0,208,Robinson Communications Corporation
+131124,FTTH,0,16564,"Rochester Telephone Co., Inc."
+131124,Other,0,30092,"Rochester Telephone Co., Inc."
+131125,DOCSIS,1,296856,"Comporium, Inc."
+131125,DSL,0,300569,"Comporium, Inc."
+131125,FTTH,1,161853,"Comporium, Inc."
+131126,DOCSIS,0,6227,Rock Port Telephone Company
+131126,DSL,0,2132,Rock Port Telephone Company
+131126,FTTH,0,164,Rock Port Telephone Company
+131126,Other,0,10684,Rock Port Telephone Company
+131127,DSL,0,13796,Rockwell Cooperative Telephone Association
+131127,FTTH,0,13796,Rockwell Cooperative Telephone Association
+131128,Other,0,11461,Roggen Telephone Cooperative Company
+131129,DOCSIS,0,11954,"CommunityTel, Inc."
+131129,DSL,0,8069,"CommunityTel, Inc."
+131129,Other,0,20930,"CommunityTel, Inc."
+131130,DOCSIS,0,888,Roome Telecommunications Inc.
+131130,DSL,0,792,Roome Telecommunications Inc.
+131131,DSL,0,2357,"Roosevelt County Rural Telephone Cooperative, Inc."
+131131,FTTH,1,18118,"Roosevelt County Rural Telephone Cooperative, Inc."
+131131,Other,0,20198,"Roosevelt County Rural Telephone Cooperative, Inc."
+131135,FTTH,0,778,Royal Telephone Company
+131139,DSL,0,4946,Runestone Telephone Association
+131139,FTTH,1,7539,Runestone Telephone Association
+131141,DOCSIS,0,4704,"Rural Telephone Service Co., Inc."
+131141,DSL,0,8461,"Rural Telephone Service Co., Inc."
+131141,FTTH,1,72976,"Rural Telephone Service Co., Inc."
+131141,Other,0,125776,"Rural Telephone Service Co., Inc."
+131142,Other,0,2731,"Rural Waves, LLC"
+131145,DOCSIS,0,10552,S&T Telephone Cooperative Association
+131145,DSL,0,10552,S&T Telephone Cooperative Association
+131145,FTTH,1,6927,S&T Telephone Cooperative Association
+131145,Other,0,15295,S&T Telephone Cooperative Association
+131146,DSL,0,1693,Sac County Mutual Telephone Company
+131148,DSL,0,3465,Saddleback Communications
+131148,FTTH,0,3379,Saddleback Communications
+131152,DSL,0,13539,"Salina Spavinaw Telephone Co., Inc."
+131152,FTTH,0,7275,"Salina Spavinaw Telephone Co., Inc."
+131157,DSL,0,3227,Sand Creek Communications Company
+131157,FTTH,0,1370,Sand Creek Communications Company
+131158,DOCSIS,0,16597,"Sandhill Telephone Cooperative, Inc."
+131158,DSL,0,35905,"Sandhill Telephone Cooperative, Inc."
+131158,FTTH,0,2004,"Sandhill Telephone Cooperative, Inc."
+131161,DSL,0,8283,"Sandwich Isles Communications, Inc."
+131161,FTTH,0,8770,"Sandwich Isles Communications, Inc."
+131162,DSL,0,10936,"Santa Rosa Telephone Cooperative, Inc."
+131162,FTTH,1,19809,"Santa Rosa Telephone Cooperative, Inc."
+131162,Other,0,13744,"Santa Rosa Telephone Cooperative, Inc."
+131163,DSL,0,5873,Santel Communications Cooperative
+131163,FTTH,1,4954,Santel Communications Cooperative
+131163,Other,0,37823,Santel Communications Cooperative
+131165,DSL,0,15804,Scatter Creek Ltd.
+131165,FTTH,0,1404,Scatter Creek Ltd.
+131166,DSL,0,3120,Schaller Telephone Company
+131166,FTTH,1,40,Schaller Telephone Company
+131167,DOCSIS,1,201691,"Schurz Communications, Inc."
+131167,FTTH,1,9183,"Schurz Communications, Inc."
+131168,FTTH,1,4098,Scio Mutual Telephone Association
+131169,DSL,0,800,"Scott County Telephone Company, LLC"
+131170,DSL,0,10702,Scott County Telephone Cooperative
+131170,FTTH,0,27281,Scott County Telephone Cooperative
+131171,FTTH,0,834,Scranton Telephone Company
+131172,DSL,0,392,Searsboro Telephone Company
+131172,FTTH,0,1765,Searsboro Telephone Company
+131173,DSL,0,29024,Sebastian Enterprises
+131173,FTTH,0,25746,Sebastian Enterprises
+131173,Other,0,34730,Sebastian Enterprises
+131175,DSL,0,39253,Selectronics Corporation
+131175,FTTH,1,17859,Selectronics Corporation
+131177,DSL,0,28794,"Seneca Telephone Company, Inc."
+131177,FTTH,1,1692,"Seneca Telephone Company, Inc."
+131179,DSL,0,5935,Sharon Telephone Company (IL & WI)
+131179,FTTH,1,1546,Sharon Telephone Company (IL & WI)
+131180,FTTH,0,14128,Shawnee Telephone Company
+131180,Other,0,41885,Shawnee Telephone Company
+131181,DOCSIS,1,412257,Shenandoah Telecommunications Company
+131181,DSL,0,46756,Shenandoah Telecommunications Company
+131181,FTTH,1,31011,Shenandoah Telecommunications Company
+131183,FTTH,0,3139,"Sherwood Mutual Telephone Association, Inc."
+131186,DSL,0,35733,Sierra Tel Communications Group
+131186,FTTH,0,3859,Sierra Tel Communications Group
+131190,DOCSIS,0,3054,Silver Star Telephone
+131190,DSL,1,19246,Silver Star Telephone
+131190,FTTH,1,34499,Silver Star Telephone
+131190,Other,0,26689,Silver Star Telephone
+131191,Other,0,1010864,"Simply Bits, LLC"
+131194,DSL,0,3188,"Siren Telephone Company, Inc."
+131194,FTTH,0,2926,"Siren Telephone Company, Inc."
+131194,Other,0,1283,"Siren Telephone Company, Inc."
+131195,DSL,0,4271,Siskiyou Telephone Company
+131195,FTTH,0,3360,Siskiyou Telephone Company
+131197,DOCSIS,0,22539,Sjoberg's Inc.
+131197,FTTH,0,2266,Sjoberg's Inc.
+131199,DOCSIS,0,13227,Skyline Telephone Membership Corporation
+131199,DSL,0,57275,Skyline Telephone Membership Corporation
+131199,FTTH,1,67927,Skyline Telephone Membership Corporation
+131204,DSL,1,16436,"Smart City Finance, LLC"
+131204,FTTH,1,11922,"Smart City Finance, LLC"
+131204,Other,1,1937,"Smart City Finance, LLC"
+131206,DSL,0,11007,"Smartcom Telephone, LLC"
+131206,FTTH,1,92009,"Smartcom Telephone, LLC"
+131206,Other,0,1507,"Smartcom Telephone, LLC"
+131207,Other,0,111811,"SmarterBroadband, Inc."
+131208,Other,0,15150,"Smith Bagley, Inc."
+131214,DSL,0,7767,"TLB, Inc."
+131214,FTTH,1,3068,"TLB, Inc."
+131216,DSL,0,66744,South Central Rural Telephone Cooperative Corporation
+131216,FTTH,1,58097,South Central Rural Telephone Cooperative Corporation
+131218,DSL,0,10549,"South Central Telephone Association, Inc."
+131218,FTTH,0,8633,"South Central Telephone Association, Inc."
+131218,Other,0,9826,"South Central Telephone Association, Inc."
+131219,DOCSIS,1,17503,"South Central Utah Telephone Association, Inc."
+131219,DSL,0,27391,"South Central Utah Telephone Association, Inc."
+131219,FTTH,1,11559,"South Central Utah Telephone Association, Inc."
+131219,Other,1,45560,"South Central Utah Telephone Association, Inc."
+131221,DSL,0,2428,"South Plains Telephone Cooperative, Inc."
+131221,FTTH,1,11168,"South Plains Telephone Cooperative, Inc."
+131222,DSL,0,18815,"South Slope Cooperative Telephone Company, Inc."
+131222,FTTH,1,46493,"South Slope Cooperative Telephone Company, Inc."
+131223,FTTH,0,6804,"Southeast Nebraska Communications, Inc."
+131225,DSL,0,19142,Southeastern Indiana Rural Telephone Cooperative
+131225,FTTH,1,4103,Southeastern Indiana Rural Telephone Cooperative
+131226,DOCSIS,1,21787,American Broadband Communications et al.
+131226,DSL,0,91622,American Broadband Communications et al.
+131226,FTTH,1,64955,American Broadband Communications et al.
+131226,Other,0,188449,American Broadband Communications et al.
+131230,DOCSIS,0,9033,Southern Kansas Telephone Company
+131230,DSL,0,7055,Southern Kansas Telephone Company
+131230,FTTH,1,4205,Southern Kansas Telephone Company
+131231,DSL,0,324,Southern Montana Telephone Company
+131231,FTTH,0,1231,Southern Montana Telephone Company
+131232,DSL,0,8010,"Southwest Arkansas Telephone Cooperative, Inc."
+131232,FTTH,1,15766,"Southwest Arkansas Telephone Cooperative, Inc."
+131232,Other,0,458,"Southwest Arkansas Telephone Cooperative, Inc."
+131233,DSL,0,1577,Southwest Oklahoma Telephone Company
+131233,Other,0,148904,Southwest Oklahoma Telephone Company
+131234,DSL,0,6958,"Southwest Texas Telcom, Inc."
+131234,FTTH,0,4880,"Southwest Texas Telcom, Inc."
+131234,Other,0,322,"Southwest Texas Telcom, Inc."
+131235,DOCSIS,0,144,"Spectrotel, Inc."
+131235,DSL,0,375,"Spectrotel, Inc."
+131239,DOCSIS,0,11959,Spencer Municipal Communications Utility
+131239,FTTH,1,11959,Spencer Municipal Communications Utility
+131240,FTTH,0,2599,Spring Grove Communications
+131241,DOCSIS,0,488,"Spring Valley Telephone Company, Inc."
+131241,DSL,0,1596,"Spring Valley Telephone Company, Inc."
+131241,FTTH,0,1016,"Spring Valley Telephone Company, Inc."
+131242,DOCSIS,0,5576,"Springcom, Inc."
+131242,DSL,0,6289,"Springcom, Inc."
+131242,FTTH,0,351,"Springcom, Inc."
+131243,DSL,0,3158,"Springville Cooperative Telephone Association, Inc."
+131243,FTTH,1,1276,"Springville Cooperative Telephone Association, Inc."
+131245,FTTH,0,7186,"Spruce Knob Seneca Rocks Telephone, Inc."
+131246,DSL,0,57020,"SRT Communications, Inc."
+131246,FTTH,1,17864,"SRT Communications, Inc."
+131247,DOCSIS,0,3224,St. John Telephone Company
+131247,FTTH,1,3765,St. John Telephone Company
+131248,DSL,0,2100,St. Paul Cooperative Telephone
+131248,FTTH,0,780,St. Paul Cooperative Telephone
+131249,DOCSIS,0,18430,"Standard Tobacco Company, Inc."
+131250,FTTH,0,2466,"Stanton Telecom, Inc."
+131250,Other,0,3385,"Stanton Telecom, Inc."
+131252,DSL,0,61532,Star Telephone Membership Corporation
+131252,FTTH,0,32215,Star Telephone Membership Corporation
+131255,DOCSIS,0,14121,"StarVision, Inc."
+131255,FTTH,0,13473,"StarVision, Inc."
+131255,Other,0,2639,"StarVision, Inc."
+131257,DSL,0,10801,"State Telephone Company, Inc."
+131257,FTTH,0,9629,"State Telephone Company, Inc."
+131259,DSL,0,13916,Stayton Cooperative Telephone Company
+131259,FTTH,1,14922,Stayton Cooperative Telephone Company
+131260,DSL,0,9287,"Steelville Telephone Exchange, Inc."
+131261,Other,0,103,Stelle Telephone Company
+131265,FTTH,0,171,Stoneham Cooperative Telephone Corporation
+131267,DOCSIS,0,2712,Stratford Mutual Telephone Company
+131267,FTTH,0,1167,Stratford Mutual Telephone Company
+131272,DSL,0,5945,"Sunflower Enterprises, Inc."
+131276,DSL,0,2014,Superior Telephone Cooperative
+131283,DOCSIS,0,17973,Surry Telephone Membership Corporation
+131283,DSL,0,51716,Surry Telephone Membership Corporation
+131283,FTTH,1,54265,Surry Telephone Membership Corporation
+131285,DOCSIS,0,8052,Swayzee Telephone Company
+131285,DSL,0,2098,Swayzee Telephone Company
+131285,FTTH,1,3976,Swayzee Telephone Company
+131285,Other,0,3012,Swayzee Telephone Company
+131286,DSL,0,3694,"Sweetser Rural Telephone Company, Inc."
+131286,FTTH,1,2224,"Sweetser Rural Telephone Company, Inc."
+131286,Other,0,3303,"Sweetser Rural Telephone Company, Inc."
+131290,DSL,0,5510,Sycamore Telephone Company
+131290,FTTH,0,3911,Sycamore Telephone Company
+131295,DOCSIS,0,0,Taloga Cable
+131296,DSL,0,18800,"Taylor Telephone Cooperative, Inc."
+131296,FTTH,1,22838,"Taylor Telephone Cooperative, Inc."
+131299,DSL,0,5292,"Tech-Com, Inc."
+131299,FTTH,1,1003,"Tech-Com, Inc."
+131302,DSL,0,29244,"Callis Communications, Inc."
+131302,FTTH,1,1093378,"Callis Communications, Inc."
+131303,DSL,0,6670,"TelAtlantic, Inc."
+131303,FTTH,0,3398,"TelAtlantic, Inc."
+131310,DOCSIS,1,620344,"Telephone and Data Systems, Inc."
+131310,DSL,0,1396624,"Telephone and Data Systems, Inc."
+131310,FTTH,1,478674,"Telephone and Data Systems, Inc."
+131310,Other,0,2055174,"Telephone and Data Systems, Inc."
+131311,DSL,0,378526,Telephone Electronics Corporation
+131311,FTTH,0,8434,Telephone Electronics Corporation
+131315,DSL,0,2051,Templeton Telephone Company
+131315,FTTH,0,353,Templeton Telephone Company
+131320,FTTH,0,1556,Terral Telephone Company
+131320,Other,0,2258,Terral Telephone Company
+131321,DSL,0,1462,Terril Telephone Cooperative
+131321,FTTH,0,1462,Terril Telephone Cooperative
+131328,DOCSIS,0,49100,"Thacker-Grigsby Telephone Company, Inc."
+131328,DSL,0,12325,"Thacker-Grigsby Telephone Company, Inc."
+131328,FTTH,1,23521,"Thacker-Grigsby Telephone Company, Inc."
+131329,DSL,0,24639,The Champaign Telephone Company
+131329,FTTH,0,5234,The Champaign Telephone Company
+131329,Other,0,13672,The Champaign Telephone Company
+131330,DSL,0,17139,The Champlain Telephone Company
+131330,FTTH,1,25906,The Champlain Telephone Company
+131332,DOCSIS,0,12859,The Conneaut Telephone Company
+131332,DSL,0,5918,The Conneaut Telephone Company
+131332,FTTH,0,8919,The Conneaut Telephone Company
+131337,DSL,0,2462,The Hancock Telephone Company
+131337,FTTH,0,47,The Hancock Telephone Company
+131339,DSL,0,20958,The Middleburgh Telephone Company
+131339,FTTH,1,2358,The Middleburgh Telephone Company
+131340,DSL,0,16723,The Nebraska Central Telephone Co.
+131340,FTTH,0,2090,The Nebraska Central Telephone Co.
+131341,DSL,0,22692,The North-Eastern Pennsylvania Telephone Company
+131341,FTTH,1,18635,The North-Eastern Pennsylvania Telephone Company
+131342,FTTH,0,3706,The Ottoville Mutual Telephone Company
+131344,DOCSIS,0,4095,The Ridgeville Telephone Company
+131344,FTTH,0,3003,The Ridgeville Telephone Company
+131347,FTTH,1,4380,The Toledo Telephone Company
+131349,DOCSIS,0,8809,Three River Telco
+131349,DSL,0,1996,Three River Telco
+131349,FTTH,0,3686,Three River Telco
+131354,DSL,0,959,Titonka Telephone Company
+131354,FTTH,0,961,Titonka Telephone Company
+131357,DSL,0,2679,Tohono O'Odham Utility Authority
+131357,FTTH,0,3848,Tohono O'Odham Utility Authority
+131358,DSL,0,1138,"Tonica Technologies, Inc."
+131358,FTTH,0,261,"Tonica Technologies, Inc."
+131359,DSL,0,10836,"Totah Communications, Inc."
+131359,Other,0,18165,"Totah Communications, Inc."
+131361,DOCSIS,0,35608,Town of Shrewsbury
+131362,DSL,0,65297,"Townes Telecommunications, Inc."
+131362,FTTH,0,1590,"Townes Telecommunications, Inc."
+131363,DSL,0,942,"Traceroad, Inc."
+131363,FTTH,0,2071,"Traceroad, Inc."
+131365,DSL,0,11705,Trenton Telephone Co.
+131365,FTTH,1,9263,Trenton Telephone Co.
+131366,DOCSIS,0,8163,"Tri County Telephone Association, Inc."
+131366,DSL,0,12481,"Tri County Telephone Association, Inc."
+131366,FTTH,1,29769,"Tri County Telephone Association, Inc."
+131366,Other,0,40838,"Tri County Telephone Association, Inc."
+131367,DSL,0,13776,"Triangle Telephone Cooperative Assn., Inc."
+131367,FTTH,1,23251,"Triangle Telephone Cooperative Assn., Inc."
+131367,Other,0,24817,"Triangle Telephone Cooperative Assn., Inc."
+131368,DOCSIS,0,26953,"Tri-County Communications Cooperative, Inc."
+131368,DSL,0,10102,"Tri-County Communications Cooperative, Inc."
+131368,FTTH,0,10833,"Tri-County Communications Cooperative, Inc."
+131370,DSL,0,7360,Tri-County Telephone Membership Corporation
+131370,FTTH,0,11450,Tri-County Telephone Membership Corporation
+131370,Other,0,1428,Tri-County Telephone Membership Corporation
+131378,DSL,0,21003,"Trumansburg Telephone Co., Inc./Ontario Telephone Co., Inc."
+131378,FTTH,0,924,"Trumansburg Telephone Co., Inc./Ontario Telephone Co., Inc."
+131379,DOCSIS,0,26310,"Trustees of the City of Muscatine, Iowa"
+131379,FTTH,1,8593,"Trustees of the City of Muscatine, Iowa"
+131379,Other,0,3611,"Trustees of the City of Muscatine, Iowa"
+131383,DSL,0,35574,"Tularosa Basin Telephone Company, Inc."
+131383,FTTH,0,35574,"Tularosa Basin Telephone Company, Inc."
+131383,Other,0,35574,"Tularosa Basin Telephone Company, Inc."
+131384,DSL,0,79262,Twin Lakes Telephone Cooperative Corporation
+131384,FTTH,1,63921,Twin Lakes Telephone Cooperative Corporation
+131387,DOCSIS,0,23966,UBTA-UBET Communications
+131387,DSL,0,49131,UBTA-UBET Communications
+131387,FTTH,1,26740,UBTA-UBET Communications
+131387,Other,0,60712,UBTA-UBET Communications
+131388,DSL,0,0,Union River Telephone Company
+131388,FTTH,0,2116,Union River Telephone Company
+131389,DSL,0,7123,Union Telephone Company
+131389,FTTH,0,1960,Union Telephone Company
+131394,FTTH,0,1091,Evertek Enterprises
+131394,Other,0,36437,Evertek Enterprises
+131395,DOCSIS,0,2796,"United Telephone Association, Inc."
+131395,DSL,0,5699,"United Telephone Association, Inc."
+131395,FTTH,1,4512,"United Telephone Association, Inc."
+131395,Other,0,144175,"United Telephone Association, Inc."
+131396,DSL,1,73265,United Communication Holding LLC
+131396,FTTH,1,23936,United Communication Holding LLC
+131396,Other,0,246527,United Communication Holding LLC
+131397,DSL,0,11503,"UniTek, Inc."
+131397,FTTH,1,7447,"UniTek, Inc."
+131397,Other,0,8355,"UniTek, Inc."
+131400,DSL,1,1293,Unwired Ltd.
+131400,Other,0,56417,Unwired Ltd.
+131401,DSL,0,367,Upsala Cooperative Telephone Association
+131401,FTTH,0,3168,Upsala Cooperative Telephone Association
+131404,DOCSIS,0,69977,"USA Companies, L.P."
+131404,FTTH,1,7522,"USA Companies, L.P."
+131404,Other,0,5225,"USA Companies, L.P."
+131407,DSL,0,5986,UTMA
+131407,FTTH,1,21684,UTMA
+131407,Other,0,754,UTMA
+131408,DSL,0,52810,VAL-ED Joint Venture L.L.P.
+131408,FTTH,1,11618,VAL-ED Joint Venture L.L.P.
+131408,Other,0,64743,VAL-ED Joint Venture L.L.P.
+131409,FTTH,1,4802,"Valley Telecommunications Cooperative Association, Inc."
+131411,DSL,0,20081,"Valley Telephone Cooperative, Inc."
+131411,FTTH,1,17598,"Valley Telephone Cooperative, Inc."
+131411,Other,0,8986,"Valley Telephone Cooperative, Inc."
+131412,DSL,0,4595,"Valliant Telephone Company, Inc."
+131412,Other,0,5005,"Valliant Telephone Company, Inc."
+131413,DOCSIS,1,185291,Windstream Corporation
+131413,DSL,1,8484043,Windstream Corporation
+131413,FTTH,1,503187,Windstream Corporation
+131413,Other,0,232,Windstream Corporation
+131414,DSL,0,1975,"Van Buren Telephone Co., Inc."
+131414,FTTH,0,2057,"Van Buren Telephone Co., Inc."
+131415,FTTH,0,5535,Van Horne Cooperative Telephone Company
+131416,DSL,0,2967,"VARCOMM, Inc."
+131418,DSL,0,1071,Vaughnsville Telephone Company
+131421,Other,1,35209,"Velociter Wireless, Inc."
+131422,DSL,0,505,"Venture Communications Cooperative, Inc./Western Telephone Company"
+131422,FTTH,1,26153,"Venture Communications Cooperative, Inc./Western Telephone Company"
+131423,FTTH,0,3542,Venus Telephone Corporation
+131425,DSL,0,49143586,Verizon Communications Inc.
+131425,FTTH,1,34765005,Verizon Communications Inc.
+131426,DSL,0,29635,"Vermont National Telephone Company, Inc."
+131426,FTTH,1,29635,"Vermont National Telephone Company, Inc."
+131427,DSL,0,702,"Vernon Telephone Cooperative, Inc."
+131427,FTTH,1,22111,"Vernon Telephone Cooperative, Inc."
+131431,DSL,0,1653,Viola Home Telephone Company
+131431,FTTH,0,1281,Viola Home Telephone Company
+131431,Other,0,3118,Viola Home Telephone Company
+131441,DOCSIS,0,12016,Volcano Communications Company
+131441,DSL,0,17074,Volcano Communications Company
+131441,FTTH,0,2296,Volcano Communications Company
+131441,Other,0,24403,Volcano Communications Company
+131444,DSL,0,1850,Wabash Mutual Telephone Company
+131444,FTTH,1,23277,Wabash Mutual Telephone Company
+131444,Other,0,81424,Wabash Mutual Telephone Company
+131445,DOCSIS,0,3457,"Wabash Telephone Cooperative, Inc."
+131445,FTTH,1,31162,"Wabash Telephone Cooperative, Inc."
+131448,DSL,0,1575,"Wamego Telephone Company, Inc."
+131448,FTTH,1,20161,"Wamego Telephone Company, Inc."
+131448,Other,0,2089,"Wamego Telephone Company, Inc."
+131451,DSL,0,10752,Washington County Rural Telephone Cooperative
+131451,FTTH,1,876,Washington County Rural Telephone Cooperative
+131451,Other,0,138,Washington County Rural Telephone Cooperative
+131453,FTTH,1,1120,Wave Wireless LLC
+131453,Other,0,27970,Wave Wireless LLC
+131454,DOCSIS,1,1908564,"WaveDivision Holdings, LLC"
+131454,DSL,1,100188,"WaveDivision Holdings, LLC"
+131454,FTTH,1,17,"WaveDivision Holdings, LLC"
+131457,FTTH,0,9689,Webster-Calhoun Cooperative Telephone Association
+131458,FTTH,0,7470,Wellman Cooperative Telephone Association
+131458,Other,0,796,Wellman Cooperative Telephone Association
+131459,DSL,1,11627,"West Carolina Rural Telephone Cooperative, Inc."
+131459,FTTH,1,28116,"West Carolina Rural Telephone Cooperative, Inc."
+131460,FTTH,1,10639,West Central Telephone Assn.
+131461,DSL,0,4243,West Iowa Telephone Company
+131461,FTTH,1,9431,West Iowa Telephone Company
+131463,DSL,0,9046,West Liberty Telephone Company
+131463,FTTH,1,7895,West Liberty Telephone Company
+131463,Other,0,31875,West Liberty Telephone Company
+131465,DSL,0,6292,West River Telecommunications Cooperative
+131465,FTTH,1,30498,West River Telecommunications Cooperative
+131466,DSL,0,8594,"West Texas Rural Telephone Coop., Inc."
+131466,FTTH,0,19546,"West Texas Rural Telephone Coop., Inc."
+131466,Other,0,481,"West Texas Rural Telephone Coop., Inc."
+131467,DSL,0,16968,"West Wisconsin Telcom Cooperative, Inc."
+131467,FTTH,1,17472,"West Wisconsin Telcom Cooperative, Inc."
+131469,DSL,0,41029,"Westelcom Network, Inc."
+131472,DOCSIS,0,1436,Western Iowa Telephone Association
+131472,DSL,0,2741,Western Iowa Telephone Association
+131472,FTTH,1,5240,Western Iowa Telephone Association
+131473,Other,0,3532,Western Sonoma County Internet Cooperative Corporation
+131475,DSL,0,2193,Western Wahkiakum County Telephone Company
+131475,FTTH,0,2193,Western Wahkiakum County Telephone Company
+131476,DSL,0,260,"Wes-Tex Telephone Cooperative, Inc."
+131476,FTTH,1,8983,"Wes-Tex Telephone Cooperative, Inc."
+131476,Other,0,29070,"Wes-Tex Telephone Cooperative, Inc."
+131478,DSL,0,18792,Whidbey Telephone Company
+131478,FTTH,1,9835,Whidbey Telephone Company
+131480,DOCSIS,1,7116916,WideOpenWest
+131480,DSL,0,6079,WideOpenWest
+131480,FTTH,1,2116873,WideOpenWest
+131481,FTTH,0,10230,Wiggins Telephone Association
+131482,DOCSIS,0,340,"Wikstrom Telephone Company, Inc."
+131482,DSL,0,11075,"Wikstrom Telephone Company, Inc."
+131482,FTTH,1,5747,"Wikstrom Telephone Company, Inc."
+131482,Other,0,23135,"Wikstrom Telephone Company, Inc."
+131485,FTTH,1,20311,"Dycom Holding, Inc."
+131486,DSL,0,10250,Wilkes Telecommunications
+131486,FTTH,1,65437,Wilkes Telecommunications
+131487,FTTH,0,189,Willard Telephone Company
+131492,DOCSIS,0,2065,WinDBreak Cable
+131493,DSL,0,13009,Winn Telephone Company
+131493,FTTH,1,42680,Winn Telephone Company
+131494,DSL,0,1629,Winnebago Cooperative Telephone Association
+131494,FTTH,0,27349,Winnebago Cooperative Telephone Association
+131497,DOCSIS,0,8941,"Wired or Wireless, Inc."
+131497,Other,0,716289,"Wired or Wireless, Inc."
+131505,DSL,0,1288,"Woodhull Communications, Inc."
+131505,FTTH,0,2503,"Woodhull Communications, Inc."
+131506,FTTH,0,3428,Woodstock Telephone Company
+131506,Other,0,2456,Woodstock Telephone Company
+131507,DSL,0,46836,Woolstock Mutual Telephone Assoc.
+131507,Other,0,46836,Woolstock Mutual Telephone Assoc.
+131510,FTTH,1,1170,Wyoming Mutual Telephone Company
+131512,DOCSIS,0,201,"XIT Rural Telephone Cooperative, Inc."
+131512,DSL,0,11921,"XIT Rural Telephone Cooperative, Inc."
+131512,FTTH,0,4911,"XIT Rural Telephone Cooperative, Inc."
+131512,Other,0,180,"XIT Rural Telephone Cooperative, Inc."
+131516,DSL,0,64605,Yadkin Valley Telephone Membership Corporation
+131516,FTTH,1,68831,Yadkin Valley Telephone Membership Corporation
+131517,DSL,0,25916,"Yankee Telecom, Inc."
+131517,FTTH,0,19039,"Yankee Telecom, Inc."
+131518,DOCSIS,0,3770,"Yelcot Holding Group, Inc."
+131518,DSL,0,22962,"Yelcot Holding Group, Inc."
+131518,FTTH,1,23897,"Yelcot Holding Group, Inc."
+131520,DSL,0,2221,Yeoman Telephone Company
+131520,Other,0,389,Yeoman Telephone Company
+131611,FTTH,1,63022,"Highland Telephone Cooperative, Inc. (KY & TN)"
+131612,DSL,0,11532,Sharon Telephone Company (IA)
+131612,FTTH,0,11532,Sharon Telephone Company (IA)
+131613,DSL,0,10928,Sully Telephone Association
+131613,FTTH,0,1765,Sully Telephone Association
+131613,Other,0,10928,Sully Telephone Association
+131900,DOCSIS,0,15643,"Cunningham Management, Inc."
+131900,FTTH,0,2461,"Cunningham Management, Inc."
+140001,DOCSIS,0,40434,"Access Cable Television, Inc."
+140012,DSL,0,891,Axiom Technologies
+140012,FTTH,0,907,Axiom Technologies
+140012,Other,0,22087,Axiom Technologies
+140016,FTTH,0,229,"Border to Border Communications, Inc."
+140016,Other,0,13790,"Border to Border Communications, Inc."
+140018,DOCSIS,1,144579,CableAmerica
+140020,FTTH,1,62845,Chelan County PUD
+140030,DSL,0,47421,Fail Telecommunication Corporation
+140030,FTTH,1,18818,Fail Telecommunication Corporation
+140032,FTTH,0,748,Farber Telephone Company
+140033,DSL,0,2948,Filer Mutual Telephone Company
+140033,FTTH,1,4610,Filer Mutual Telephone Company
+140033,Other,0,28098,Filer Mutual Telephone Company
+140036,DSL,0,2227,Ft. Jennings Telephone Company
+140036,FTTH,0,4686,Ft. Jennings Telephone Company
+140036,Other,0,2514,Ft. Jennings Telephone Company
+140043,DSL,0,9596,"Hopi Telecommunications, Inc."
+140043,Other,0,9596,"Hopi Telecommunications, Inc."
+140048,Other,1,17599749,"JAB Wireless, Inc."
+140050,Other,0,13033,JC Mickelson Inc.
+140055,Other,0,15431,LAT Inc.
+140059,FTTH,0,9045,Lonsdale Telephone Company
+140063,Other,0,123714,Mercury Network Corporation
+140064,FTTH,0,8352,"Defiance Holdings, LLC"
+140064,Other,0,535934,"Defiance Holdings, LLC"
+140076,DSL,0,2214,Reasnor Telephone Company
+140078,Other,1,45263,"Royell Communications, Inc."
+140080,DOCSIS,1,969100,Service Electric Cable TV Inc.
+140084,Other,0,27048,SPITwSPOTS Inc.
+140092,DSL,0,4668,"Twin Valley Management, Inc."
+140092,FTTH,1,17884,"Twin Valley Management, Inc."
+140092,Other,0,1092,"Twin Valley Management, Inc."
+140097,DSL,0,1895,"Velocity Telephone, Inc."
+140097,FTTH,0,6222,"Velocity Telephone, Inc."
+140097,Other,0,0,"Velocity Telephone, Inc."
+140101,DSL,0,392,West River Cooperative Telephone Company
+140101,FTTH,0,6776,West River Cooperative Telephone Company
+140105,Other,0,2395988,Wisper ISP Inc.
+140106,DOCSIS,0,4571,"WTC Communications, Inc."
+140106,DSL,0,4571,"WTC Communications, Inc."
+150119,DSL,0,1234,Pattersonville Telephone Company (OH)
+150119,Other,0,10885,Pattersonville Telephone Company (OH)
+150120,DOCSIS,0,683,Mutual Telephone Company (KS)
+150120,FTTH,1,2571,Mutual Telephone Company (KS)
+150120,Other,0,15827,Mutual Telephone Company (KS)
+150206,DOCSIS,1,595728,Vyve Broadband
+150206,Other,0,5851,Vyve Broadband
+150221,DSL,1,59124,"Benchmark Communications, LLC"
+150221,FTTH,1,28167,"Benchmark Communications, LLC"
+150221,Other,0,17495,"Benchmark Communications, LLC"
+150225,DSL,0,2889,Buckland Telephone Co.
+150225,FTTH,1,3021,Buckland Telephone Co.
+150229,DSL,0,1539,"Bush-Tell, Inc."
+150235,DOCSIS,0,11194,City of Camilla
+150236,DOCSIS,0,19603,City of Moultrie
+150237,FTTH,1,4208,City of North Kansas
+150244,DOCSIS,0,354,Copper Mountain Consolidated Metro District
+150245,Other,0,749,"CresComm WiFi, LLC"
+150249,Other,0,42418,"DC Access, LLC"
+150250,DOCSIS,0,1592,Diller Telephone Company
+150250,DSL,0,407,Diller Telephone Company
+150250,FTTH,0,1458,Diller Telephone Company
+150250,Other,0,78556,Diller Telephone Company
+150258,DOCSIS,1,71927,Ellijay Telephone Company
+150258,DSL,0,29771,Ellijay Telephone Company
+150258,FTTH,1,1752,Ellijay Telephone Company
+150262,DSL,0,1143,"Gamewood, Inc."
+150262,FTTH,1,7409,"Gamewood, Inc."
+150262,Other,0,6997,"Gamewood, Inc."
+150266,DOCSIS,0,17222,"Hanson Communications, Inc."
+150266,DSL,0,37561,"Hanson Communications, Inc."
+150266,FTTH,1,41862,"Hanson Communications, Inc."
+150266,Other,0,17543,"Hanson Communications, Inc."
+150270,FTTH,1,4105,"Intelliwave, LLC"
+150270,Other,0,65508,"Intelliwave, LLC"
+150272,Other,0,18,Iowa Connect Inc.
+150281,FTTH,0,2661,Mayfield Electric & Water Systems
+150281,Other,0,6091,Mayfield Electric & Water Systems
+150287,DSL,0,8253,"Moapa Valley Telecommunications, Inc."
+150287,FTTH,1,3091,"Moapa Valley Telecommunications, Inc."
+150292,DOCSIS,0,551531,Northland Communications Corp.
+150296,DOCSIS,0,12099,Otelco Inc.
+150296,DSL,0,132392,Otelco Inc.
+150296,FTTH,1,18692,Otelco Inc.
+150296,Other,0,35341,Otelco Inc.
+150312,FTTH,1,9943,Russellville Electric Plant Board
+150312,Other,0,14754,Russellville Electric Plant Board
+150313,DSL,0,20216,"Sacred Wind Communications, Inc."
+150313,Other,0,36432,"Sacred Wind Communications, Inc."
+150316,DSL,0,149932,Socket Telecom LLC
+150316,FTTH,1,27438,Socket Telecom LLC
+150317,DSL,0,18750,Wood County Telephone Company
+150317,FTTH,1,33952,Wood County Telephone Company
+150323,Other,0,2216,TecInfo
+150325,Other,0,93780,"Tivcorp, Inc."
+150327,FTTH,1,27324,"United Electric Cooperative, Inc."
+150327,Other,0,4428,"United Electric Cooperative, Inc."
+150330,Other,0,12220,"Upward Access, LLC"
+150334,DOCSIS,0,365917,"WEHCO Video, Inc."
+150335,Other,0,23927,"Wharton County Electric Cooperative, Inc."
+150336,Other,0,156898,"Whiz to Coho, Inc."
+150340,DOCSIS,0,806,"NTS, Inc."
+150340,DSL,0,59589,"NTS, Inc."
+150340,FTTH,1,76942,"NTS, Inc."
+150340,Other,0,6815,"NTS, Inc."
+150341,Other,0,1282,Yellowstone Media Design
+150344,FTTH,0,15183,"M.C. Dean, Inc."
+160101,Other,0,11916,"2Geton Net, Inc."
+160103,FTTH,0,3193,Allband Communications Cooperative
+160103,Other,0,29,Allband Communications Cooperative
+160108,FTTH,1,156823,Bristol Tennessee Essential Services
+160110,DOCSIS,0,41098,"Cablevision of Marion County, LLC"
+160113,Other,0,26794,"Data Truck, LLC"
+160115,Other,0,1033737,"E-Vergent.com, LLC"
+160116,DSL,0,974466,"ECSIS.NET, LLC"
+160116,Other,0,54321,"ECSIS.NET, LLC"
+160118,DOCSIS,0,4731,Eastern Cable Corporation
+160118,FTTH,0,664,Eastern Cable Corporation
+160127,DOCSIS,0,84337,LICT Corporation
+160127,DSL,0,159086,LICT Corporation
+160127,FTTH,1,13895,LICT Corporation
+160127,Other,0,97341,LICT Corporation
+160129,DOCSIS,0,1529,Manning Municipal Communications and Television Systems Utility
+160135,FTTH,0,1793,"Ogden Communications, Inc."
+160135,Other,0,789,"Ogden Communications, Inc."
+160141,DSL,0,9191,Plumas-Sierra Rural Electric Cooperative
+160141,FTTH,1,8998,Plumas-Sierra Rural Electric Cooperative
+160141,Other,0,9952,Plumas-Sierra Rural Electric Cooperative
+160146,FTTH,0,10518,"Ralls Technologies, LLC"
+160151,FTTH,0,613,"Southeastern Services, Inc."
+160151,Other,0,5522,"Southeastern Services, Inc."
+160157,DOCSIS,1,287140,"Zito Media, LP"
+160160,DOCSIS,0,66319,"ImOn Communications, LLC"
+160160,FTTH,1,32282,"ImOn Communications, LLC"
+160162,Other,0,1587,"TerraNovaNet, Inc."
+170014,DSL,0,2571,Atkins Telephone Company
+170014,FTTH,0,2608,Atkins Telephone Company
+170025,DOCSIS,1,1930,CMS Internet LLC
+170025,FTTH,1,866,CMS Internet LLC
+170025,Other,0,232183,CMS Internet LLC
+170040,DSL,0,3193,"Dixie-Net, Inc."
+170040,Other,0,4824,"Dixie-Net, Inc."
+170044,DSL,0,236,Fishers Island Telephone Company
+170047,Other,0,20547,"GMN Tri-County CAC, Inc."
+170050,DOCSIS,0,5124,Harlan Municipal Utilities
+170050,FTTH,0,2317,Harlan Municipal Utilities
+170054,Other,0,192250,"InfoWest, Inc."
+170058,FTTH,1,76235,Jackson Energy Authority
+170062,FTTH,0,4375,La Porte City Telephone Company
+170064,DOCSIS,1,20396,"Litestream Holdings, LLC"
+170066,FTTH,1,18637,Monmouth Independence Network
+170071,DOCSIS,0,84,"Newmax, LLC"
+170071,FTTH,0,10,"Newmax, LLC"
+170071,Other,0,43893,"Newmax, LLC"
+170102,Other,0,0,"KC Online, Inc."
+180006,DOCSIS,0,5288,Blue Mountain TV Cable Company
+180009,FTTH,0,2232,Choicetel LLC
+180010,FTTH,1,14840,City of Auburn
+180012,DOCSIS,1,13752,"City of Elberton, Georgia"
+180026,FTTH,1,130,"Front Range Internet, Inc."
+180026,Other,0,1808,"Front Range Internet, Inc."
+180039,FTTH,0,8128,"OneTone Telecom, Inc."
+180039,Other,0,10348,"OneTone Telecom, Inc."
+180048,Other,0,68442,"Rapid Systems, Inc."
+180057,FTTH,0,5830,The T1 Company LLC
+180061,FTTH,0,749,Velocity Online
+180061,Other,0,338,Velocity Online
+180064,DSL,0,0,"Web Fire Communications, Inc."
+180064,Other,0,16373,"Web Fire Communications, Inc."
+190002,Other,0,181178,101Netlink
+190008,DOCSIS,1,23320,AM3 Holding Corp.
+190008,DSL,1,29746,AM3 Holding Corp.
+190008,FTTH,0,173,AM3 Holding Corp.
+190013,DOCSIS,1,1867,Adams CATV Inc.
+190015,DOCSIS,0,3235,"Aeneas Communications, LLC"
+190015,DSL,0,16727,"Aeneas Communications, LLC"
+190015,FTTH,1,25902,"Aeneas Communications, LLC"
+190025,Other,0,10272,America Internet & Communications
+190036,DSL,0,9906,"Aurora Communications, Inc."
+190045,Other,0,2126,BeaDun Communications
+190046,DOCSIS,0,3839,Beaver Valley Cable Company
+190047,DOCSIS,0,31148,"Bee Line, Inc."
+190053,DSL,0,27,"Bluebird Wireless Broadband Services, LLC"
+190053,Other,0,13495,"Bluebird Wireless Broadband Services, LLC"
+190056,Other,0,22910,"Blueriver Communications, Inc."
+190058,FTTH,1,102599,"Board of Water, Light & Sinking Fund Commissioners"
+190059,DOCSIS,0,16339,"Boycom Cablevision, Inc./Partel Broadband Telecommunications, Inc."
+190059,FTTH,0,592,"Boycom Cablevision, Inc./Partel Broadband Telecommunications, Inc."
+190059,Other,0,324,"Boycom Cablevision, Inc./Partel Broadband Telecommunications, Inc."
+190066,FTTH,1,51913,Burlington Telecom
+190069,DOCSIS,0,1999,"Cable Communications of Willsboro, Inc."
+190069,FTTH,0,177,"Cable Communications of Willsboro, Inc."
+190070,DOCSIS,1,32001,"CCI Systems, Inc."
+190071,DOCSIS,0,6642,Cable Co-Op
+190075,DOCSIS,0,3714,Catalina Broadband Solutions LLC
+190080,FTTH,0,3067,City of Bellevue
+190080,Other,0,3525,City of Bellevue
+190081,FTTH,1,189200,City of Bristol
+190083,Other,0,2436,City of Coffeyville
+190084,FTTH,1,264,City of Glenwood Springs
+190085,DOCSIS,0,2553,City of Hawarden
+190089,DOCSIS,0,5948,City of Williamstown
+190089,Other,0,9740,City of Williamstown
+190093,Other,0,39836,Cloud Alliance LLC
+190096,DOCSIS,0,15751,Coldwater Board of Public Utilities
+190101,DOCSIS,0,5184,Community Cable Television Agency of O'Brien County
+190101,FTTH,1,5184,Community Cable Television Agency of O'Brien County
+190101,Other,0,16894,Community Cable Television Agency of O'Brien County
+190102,DOCSIS,0,8232,Community Telecom Services
+190103,Other,0,29227,"Computer Dynamics of NW Illinois, LLC"
+190104,DSL,0,950,Comspan Communications
+190104,FTTH,1,11571,Comspan Communications
+190104,Other,0,1438,Comspan Communications
+190107,DSL,0,211725,Connectto Communications Inc.
+190108,DOCSIS,1,1392,Coon Rapids Municipal Utilities
+190118,DSL,0,7076,"Delta Telecom, Inc."
+190123,Other,0,282851,"DigitalPath, Inc."
+190126,DSL,0,64870,Douglas Electric Cooperative Inc.
+190126,FTTH,1,113544,Douglas Electric Cooperative Inc.
+190126,Other,0,48016,Douglas Electric Cooperative Inc.
+190130,DOCSIS,0,127,"Eastern Oregon Net, Inc."
+190130,DSL,0,18709,"Eastern Oregon Net, Inc."
+190130,FTTH,1,793,"Eastern Oregon Net, Inc."
+190130,Other,0,16189,"Eastern Oregon Net, Inc."
+190131,DOCSIS,1,19628,Easton Utilities Commission
+190131,FTTH,1,750,Easton Utilities Commission
+190134,FTTH,1,359879,Electric Power Board
+190142,DSL,0,16436,e-Tel
+190150,DSL,0,92032,FiberComm L.C.
+190150,FTTH,1,7987,FiberComm L.C.
+190150,Other,0,116436,FiberComm L.C.
+190155,Other,0,1760,"Fisher Wireless Services, Inc."
+190163,Other,0,1349,"Fulair, LLC"
+190166,DSL,1,20693,Futurum Communications Corp.
+190166,FTTH,1,277,Futurum Communications Corp.
+190169,Other,0,100627,"Geneva On-Line, Inc."
+190172,DOCSIS,0,13916,Golden Rain Foundation
+190180,DOCSIS,0,2502,Grundy Center Municipal Light & Power
+190181,DOCSIS,0,25067,Haefele TV Inc.
+190181,FTTH,1,9269,Haefele TV Inc.
+190182,DOCSIS,0,16093,Harlan Community Television Inc.
+190184,Other,0,35308,Henderson Municipal Power & Light
+190185,Other,0,2600,"Hidden Lake Wireless, Inc."
+190187,FTTH,1,6243,Hopkinsville Electric System
+190187,Other,0,32034,Hopkinsville Electric System
+190188,Other,0,815238,Hudson Valley Wireless
+190189,DSL,0,800647,"Huntleigh Telecommunications Group, Inc."
+190192,DSL,0,76358,iLOKA Inc.
+190193,Other,0,4224,"Indian Creek Internet Services, Inc."
+190204,Other,0,1584,"IPacket Networks, LLC"
+190207,DSL,0,4009,Jaguar Communications
+190207,FTTH,0,69333,Jaguar Communications
+190207,Other,0,16077,Jaguar Communications
+190208,Other,0,31829,JB-Nets
+190211,FTTH,1,8849,"Joink, LLC"
+190211,Other,1,24076,"Joink, LLC"
+190215,DOCSIS,0,32113,"Kings Bay Communications, Inc."
+190218,DOCSIS,0,131,"Kuhn Communications, Inc."
+190219,FTTH,1,117911,Lafayette City Parish Consolidated Government
+190220,Other,0,4642,Landmark Wireless LLC
+190223,FTTH,0,2871,Lenox Municipal Utilities
+190227,DSL,0,10640,"Lightspeed Networks, Inc"
+190227,FTTH,0,140,"Lightspeed Networks, Inc"
+190232,Other,0,47872,"Martineer Wireless, Inc."
+190233,DOCSIS,0,7909,Hilliary Communications
+190233,DSL,0,1764,Hilliary Communications
+190233,FTTH,1,4734,Hilliary Communications
+190236,Other,0,1727018,"Mercury Wireless, Inc."
+190239,DOCSIS,1,104611,MI Connection Communications System
+190239,FTTH,1,6919,MI Connection Communications System
+190244,Other,0,311372,Minnesota Valley Television Improvement Corporation
+190265,DOCSIS,1,48257,Nittany Media Inc.
+190265,FTTH,1,48257,Nittany Media Inc.
+190265,Other,0,4430,Nittany Media Inc.
+190281,DSL,0,3635,"OTZ Telephone Cooperative, Inc."
+190282,FTTH,1,11867,Owensboro Municipal Utilities
+190285,DOCSIS,0,11845,Parish Communications
+190303,DSL,1,30182,Public Utility District No. 1 of Douglas County
+190303,Other,0,5108,Public Utility District No. 1 of Douglas County
+190304,FTTH,1,197,Pulaski Electric System
+190305,DSL,0,139535,"Quantum Telecommunications, Inc."
+190305,FTTH,0,3049,"Quantum Telecommunications, Inc."
+190305,Other,1,134641,"Quantum Telecommunications, Inc."
+190307,Other,1,13385,"QX Networking and Design, Inc."
+190308,DOCSIS,1,83932,"R. M. Greene, Inc."
+190311,Other,0,1316602,"Razzo Link, Inc."
+190312,DOCSIS,0,18314,Reach Broadband
+190312,Other,0,9901,Reach Broadband
+190313,FTTH,0,1198,Rebeltec Communications LLC
+190313,Other,0,34249,Rebeltec Communications LLC
+190320,Other,0,47096,"SAA bright.net, Inc."
+190323,DOCSIS,0,20005,Savage Communications Inc.
+190335,Other,0,1564,Southern Ohio Communication Services Inc.
+190336,Other,0,7757,Southern Tier Wireless
+190337,DOCSIS,0,4730,Southern Vermont Cable Company
+190341,Other,0,1542,Starlite Consulting Inc.
+190342,Other,0,425363,StarTouch Broadband
+190365,DOCSIS,0,10910,"Tel-Star Cablevision, Inc."
+190367,FTTH,0,2153,The Utilities Board of the City of Sylacauga
+190367,Other,0,38382,The Utilities Board of the City of Sylacauga
+190370,FTTH,0,735,"Tim Ron Enterprises, LLC"
+190380,DOCSIS,0,46441,"Troy Cablevision, Inc."
+190380,DSL,0,12403,"Troy Cablevision, Inc."
+190380,FTTH,1,137325,"Troy Cablevision, Inc."
+190405,FTTH,1,23057,Westfield Gas and Electric
+190406,DSL,0,72,Westgate Communications LLC
+190407,Other,0,57584,"Wheatland Electric Cooperative, Inc."
+190410,FTTH,1,9872,"IdeaTek Systems, Inc."
+190416,Other,0,20747,"YHTI, Inc."
+190419,Other,0,106315,Benton Rural Electric Association
+190425,DSL,0,2855212,"Sonic Telecom, LLC"
+190425,FTTH,1,441617,"Sonic Telecom, LLC"
+190428,DSL,0,8350,"San Carlos Apache Telecommunications Utility, Inc."
+190428,FTTH,0,5097,"San Carlos Apache Telecommunications Utility, Inc."
+190429,DOCSIS,0,9407,Barbourville Utility Commission
+190435,DSL,0,1082,"Citynet, LLC"
+190435,FTTH,1,10409,"Citynet, LLC"
+190435,Other,0,11942,"Citynet, LLC"
+190438,DSL,0,61876,"Eaglenet, Inc."
+190438,FTTH,0,1890,"Eaglenet, Inc."
+190443,DOCSIS,1,16587,"Inside Connect Cable, LLC"
+190448,DOCSIS,0,23948,"Sumner Cable TV, Inc."
+190448,Other,0,234778,"Sumner Cable TV, Inc."
+190501,FTTH,0,660,4 SIWI LLC
+190501,Other,0,24785,4 SIWI LLC
+190503,Other,0,16835,"Ken-Tenn Wireless, L.L.C."
+190504,DSL,0,21482,Allo Communications LLC
+190504,FTTH,1,122012,Allo Communications LLC
+190506,DSL,0,29741,Cyber Mesa
+190506,FTTH,0,327,Cyber Mesa
+190506,Other,0,36405,Cyber Mesa
+190508,DSL,0,18018,"Atlantech Online, Inc."
+190508,FTTH,0,15057,"Atlantech Online, Inc."
+200006,Other,0,47681,"Blip Networks, LLC"
+200010,FTTH,0,7178,"Bulldog Cable Georgia, LLC"
+200020,Other,0,1088462,Fire2Wire
+200022,FTTH,1,27456,Gainesville Regional Utilities
+200025,Other,0,264,"LTO Communications, LLC"
+200026,Other,0,5142,"Lazernet, Inc."
+200027,DSL,0,27948,McMinnville Access Company
+200027,FTTH,1,11458,McMinnville Access Company
+200027,Other,1,501116,McMinnville Access Company
+200029,DOCSIS,0,137207,Morris Broadband LLC
+200029,FTTH,1,127966,Morris Broadband LLC
+200032,DSL,0,3953,"Nextera Holdings, LLC"
+200032,FTTH,0,2081,"Nextera Holdings, LLC"
+200032,Other,0,2589030,"Nextera Holdings, LLC"
+200039,FTTH,1,522,QualityLife Intergovernmental Agency
+200041,DSL,0,820487,"Raw Bandwidth Telecom, Inc."
+200046,Other,0,97821,The Home Town Network Inc.
+200048,DOCSIS,0,7369,Wire Tele View Corp.
+200057,Other,0,6199,"Orcas Online, Inc."
+200065,Other,0,48881,"DLS Computer Services, Inc."
+210001,Other,0,1177,3 Rooms Communications LLC
+210006,Other,0,74302,AllureTech/Coffeynet
+210017,Other,0,283,"MVWiFi, LLC"
+210018,Other,1,258903,"Cherry Capital Connection, LLC"
+210019,FTTH,1,53630,City of Wilson
+210020,FTTH,0,14256,Communications Access Cooperative Holding Enterprise
+210020,Other,0,14256,Communications Access Cooperative Holding Enterprise
+210040,Other,0,20041,Hallettsville Communications
+210042,Other,0,47960,Imagine Networks
+210046,Other,0,7555,"JCMM Ventures, LLC"
+210061,FTTH,1,834,"Pavlov Media, Inc."
+210063,Other,1,13738,"Precision Data Solutions, LLC"
+210075,DSL,0,621,"Telephone Associates, Inc."
+210080,Other,0,495,Traer Municipal Utilities
+210087,FTTH,1,29136,Wintek Corporation
+210090,DSL,0,1260,Magna5 Holdings LLC
+210092,Other,0,94945,"C&W Enterprises, Inc."
+210095,Other,0,42715,Edgar Rental Corporation
+210101,DSL,0,292601,Xchange Telecom Corp.
+210101,FTTH,1,8209,Xchange Telecom Corp.
+210101,Other,1,2650014,Xchange Telecom Corp.
+210103,Other,0,21273,Aloha Broadband
+210105,Other,0,2662,LVWifi.com
+220002,DOCSIS,0,600,"A+ Wireless, Inc."
+220002,DSL,0,443,"A+ Wireless, Inc."
+220002,FTTH,1,1007,"A+ Wireless, Inc."
+220002,Other,0,1107,"A+ Wireless, Inc."
+220007,Other,1,18025,BreezeAir Networks LLC
+220008,DOCSIS,0,5979,Bayou Cable Inc.
+220012,Other,0,2219,BySky Inc.
+220013,Other,0,17283,CIS LLC
+220016,DOCSIS,1,20791,City of Morganton
+220016,FTTH,1,61,City of Morganton
+220017,FTTH,1,2199,Conexiz Corporation
+220017,Other,0,318,Conexiz Corporation
+220027,Other,0,189301,"Fourway Computer Products, Inc."
+220028,DSL,0,4271,Full Service Network LP
+220031,FTTH,1,6527,"IsoFusion, Inc."
+220036,Other,0,5047,LeapStream
+220046,FTTH,0,123,NTInet Inc.
+220046,Other,0,21418,NTInet Inc.
+220048,FTTH,0,81,Netwurx
+220048,Other,0,249468,Netwurx
+220052,FTTH,1,10405,"QCOL, Inc."
+220056,Other,0,41149,RadioWire.net
+220058,Other,0,9307,Rocky Ridge Wireless
+220061,Other,0,274442,Speed of Light Broadband
+220064,Other,0,12860,TexasData
+220066,Other,0,30762,Seimitsu Corporation
+220071,DOCSIS,0,1863,Vogtmann Engineering Inc.
+220071,FTTH,0,975,Vogtmann Engineering Inc.
+220073,DSL,0,175,WERCS Communications Inc.
+220073,Other,0,43117,WERCS Communications Inc.
+220075,Other,0,11100,"Wilson Creek Communications, LLC"
+220076,Other,0,2232,"laser image, Inc."
+220078,DOCSIS,0,3249,Crystal Broadband Networks
+220079,DOCSIS,0,14076,"Eastern Oregon Telecom, LLC"
+220079,DSL,0,35907,"Eastern Oregon Telecom, LLC"
+220079,FTTH,1,13996,"Eastern Oregon Telecom, LLC"
+220079,Other,0,45476,"Eastern Oregon Telecom, LLC"
+230006,FTTH,1,9479,City of Chanute Kansas
+230010,FTTH,1,80605,"Crystal Automation Systems, Inc."
+230010,Other,0,513640,"Crystal Automation Systems, Inc."
+230017,Other,0,275015,"Great Basin Internet Services, Inc."
+230018,DSL,0,12803,HCI Telcom Inc.
+230021,DOCSIS,0,41849,"Indco Cable TV, Inc."
+230021,Other,0,38488,"Indco Cable TV, Inc."
+230025,Other,0,12422,"Konceptio Data Services, LLC"
+230026,DOCSIS,0,1020,Master Vision Cable
+230028,Other,0,44946,Miles Wireless
+230036,Other,0,7412,"Rebus Communications, LLC"
+230043,FTTH,1,9732,Southeast Colorado Power Association
+230043,Other,0,59725,Southeast Colorado Power Association
+230044,FTTH,0,14897,Stewart Computer Services
+230044,Other,0,101490,Stewart Computer Services
+230050,DSL,0,263,"USFon, Inc."
+230051,FTTH,1,250374,Utah Telecommunication Open Infrastructure Agency
+230052,DSL,1,302439,Veracity Networks
+230052,FTTH,1,436260,Veracity Networks
+230062,Other,0,243096,"HillBilly Wireless Internet, Inc."
+230064,DSL,0,55767,"Nebraska Technology & Telecommunications, Inc."
+230074,DSL,0,6894,"Vantage Telecom, LLC"
+230074,FTTH,1,318,"Vantage Telecom, LLC"
+240003,Other,0,250353,AirLink Internet Services
+240004,Other,0,176365,"American Wireless, Inc."
+240008,DOCSIS,1,25253,Big Sandy Broadband Inc.
+240009,Other,0,175072,Bolt Internet
+240010,Other,0,5008202,"Brevard Wireless, Inc."
+240011,DOCSIS,0,793,Bridger Cable TV
+240012,DOCSIS,0,8947,Bryan Municipal Light & Water Utilities
+240012,FTTH,0,8947,Bryan Municipal Light & Water Utilities
+240014,DOCSIS,0,19141,"CalNeva Broadband, LLC"
+240016,DOCSIS,0,7713,"Centre TV, Inc."
+240017,Other,0,3466,Chaparral Holding Co. Inc.
+240021,DSL,0,835,Clearcom Inc.
+240021,FTTH,0,1546,Clearcom Inc.
+240022,DOCSIS,0,16125,CND Acquisition Corp.
+240025,DOCSIS,0,2220,"Community Antenna System, Inc."
+240031,DOCSIS,0,18702,Davis Communications Inc.
+240032,FTTH,1,31768,DayStarr LLC
+240035,Other,0,7089,"Fast-Air Internet, Inc."
+240036,Other,0,64682,"FireServe, LLC"
+240041,FTTH,1,2254884,Google Fiber Inc.
+240041,Other,1,216753,Google Fiber Inc.
+240044,FTTH,1,9978,Highland Communication Services
+240046,Other,0,4021,"Hughes Computer Services, Inc."
+240051,DOCSIS,0,3978,"Karban TV Systems, Inc."
+240055,DOCSIS,1,1542,"Lone Pine Television, Inc."
+240055,Other,0,320,"Lone Pine Television, Inc."
+240056,DSL,0,52,LTD Broadband LLC
+240056,Other,1,78397,LTD Broadband LLC
+240058,DOCSIS,1,64971,Mid-Hudson Cablevision
+240058,FTTH,1,2084,Mid-Hudson Cablevision
+240058,Other,0,176549,Mid-Hudson Cablevision
+240060,DSL,0,5243,"Missouri Telecom, Inc."
+240060,FTTH,0,11,"Missouri Telecom, Inc."
+240061,FTTH,1,40558,Montana Opticom LLC
+240062,FTTH,0,112,"Mountain Communications, LLC"
+240063,DOCSIS,0,198,Murray Electric System
+240064,DOCSIS,1,1346,Nelson County Cablevision Corp.
+240064,FTTH,1,1346,Nelson County Cablevision Corp.
+240065,DOCSIS,0,22751,Nelsonville TV Cable
+240065,FTTH,0,809,Nelsonville TV Cable
+240066,FTTH,1,2348,netBlazr Inc.
+240066,Other,1,543965,netBlazr Inc.
+240068,DOCSIS,0,9203,"Neu Ventures, Inc."
+240068,Other,0,10108,"Neu Ventures, Inc."
+240074,Other,0,842172,"Nysys Wireless, LLC"
+240077,DOCSIS,0,3511,"Powhatan Point Cable Co., Inc."
+240080,DOCSIS,0,2841,"Red River Cable TV, Inc."
+240081,DOCSIS,0,1667,Reinbeck Municipal Telecommunications Utility
+240081,Other,0,1468,Reinbeck Municipal Telecommunications Utility
+240085,DOCSIS,0,14570,Scottsboro Electric Power Board
+240085,FTTH,0,14570,Scottsboro Electric Power Board
+240086,DOCSIS,0,4,"Signal, Inc."
+240088,DOCSIS,0,17421,"Southern Coastal Cable, LLC"
+240089,DSL,0,5347,Spiral Communications
+240089,FTTH,1,24988,Spiral Communications
+240089,Other,0,64804,Spiral Communications
+240090,DOCSIS,0,6186,"Stowe Cablevision, Inc."
+240094,DOCSIS,0,38,Trenton TV Cable Company
+240099,Other,0,154291,"Valnet Holdings, LLC"
+240101,DOCSIS,0,3300,Village of Woodsfield
+240102,DOCSIS,0,28070,VoiceLite
+240103,DOCSIS,0,686,VS Enterprises
+240105,Other,0,11809,"WIFI Midwest, Inc."
+240106,FTTH,1,3,Wireless Investments LLC
+240106,Other,0,1123,Wireless Investments LLC
+240109,DSL,1,311650,Montana Internet
+240109,FTTH,1,5011,Montana Internet
+240109,Other,1,176822,Montana Internet
+240110,FTTH,1,73622,"Public Utility District #2 of Grant County, WA"
+240110,Other,0,26810,"Public Utility District #2 of Grant County, WA"
+240300,DSL,0,10824,"Consolidated Companies, Inc."
+240300,FTTH,0,2048,"Consolidated Companies, Inc."
+250004,Other,0,7299,Ultimate Broadband
+250007,Other,0,67491,"Ag Prospects, LLC"
+250009,Other,0,297047,AireBeam
+250014,Other,0,150057,"Arbuckle Communications, Inc."
+250020,Other,0,13873,B3
+250025,Other,0,5683,Capshaw Enterprises
+250027,Other,0,34962,City of Lebanon Utilities
+250028,Other,0,23215,"Collins Communications, Inc."
+250035,Other,1,1956,Cyber Broadband Inc.
+250045,Other,0,16,Gunby Communications Inc.
+250052,Other,0,689,Lindalink LLC
+250053,DSL,0,3398,"Lobo Internet Services, Ltd."
+250053,Other,0,23428,"Lobo Internet Services, Ltd."
+250057,Other,0,5181,"Native American Telecom, LLC"
+250066,Other,0,3543,"Ridgetop Networks, LLC"
+250069,DOCSIS,0,2941,Satellite Operations Inc.
+250078,DOCSIS,0,7521,Trinity Cable LLC
+250081,DSL,0,565,"Urban Communications, Inc."
+250081,FTTH,0,291,"Urban Communications, Inc."
+250081,Other,0,9907,"Urban Communications, Inc."
+250085,Other,0,32409,"Wireless Data Net, LLC"
+250090,DSL,0,141499,Wyoming.Com
+250090,FTTH,1,485,Wyoming.Com
+250090,Other,0,194745,Wyoming.Com
+250092,Other,0,1902,"Zero Error Networks, LLC"
+250099,Other,0,4129,Resonance Broadband
+250100,Other,0,18208,Arizona Nevada Tower Corporation
+250102,Other,0,1210,Rural Farm Networks LLC
+260000,DSL,0,49325,"Farmers Telecommunications Cooperative, Inc. (AL)"
+260000,FTTH,1,80792,"Farmers Telecommunications Cooperative, Inc. (AL)"
+260000,Other,0,45711,"Farmers Telecommunications Cooperative, Inc. (AL)"
+260004,Other,0,47778,Blu Sky Wireless
+260007,FTTH,1,1503,City of Burbank/Burbank Water and Power
+260008,DOCSIS,0,2539,Cloverland Electric Cooperative
+260008,FTTH,0,464,Cloverland Electric Cooperative
+260008,Other,0,10845,Cloverland Electric Cooperative
+260009,DOCSIS,0,32002,Columbia Power and Water Systems
+260010,DOCSIS,0,6029,Concept Communication Corp.
+260010,FTTH,1,339,Concept Communication Corp.
+260016,Other,0,198330,DCTexas Internet
+260019,Other,0,8316,"G5 Internet, LLC"
+260021,FTTH,0,336,Harris Broadband LP
+260025,Other,0,61934,Kentucky Wimax
+260026,Other,0,16660,"Lakeway Publishers, Inc."
+260027,Other,0,396,"Lexsar Solutions, Inc."
+260038,FTTH,1,196411,Radio Link Internet
+260038,Other,1,196411,Radio Link Internet
+260049,DOCSIS,0,74,SMR Communications
+260050,Other,0,453920,SpeedConnect LLC
+260051,Other,0,6042,Spry Wireless Communications Inc.
+260052,Other,1,23490,Succeed.Net
+260056,FTTH,1,883,Total Highspeed LLC
+260056,Other,1,754194,Total Highspeed LLC
+260059,FTTH,1,5075,Vergennes Broadband LLC
+260059,Other,0,21217,Vergennes Broadband LLC
+260062,Other,0,153365,WVVA.net Inc.
+260068,Other,0,192,"Southeast Communications Services, LLC"
+260069,DOCSIS,1,43511,Spanish Fork City
+260070,Other,0,4282,Warm Springs Telecommunications Company
+270001,DOCSIS,0,19338,"Anne Arundel Broadband, LLC"
+270001,FTTH,1,105,"Anne Arundel Broadband, LLC"
+270002,FTTH,0,344,1 Point Communications
+270002,Other,0,830,1 Point Communications
+270006,Other,0,80986,AFES Network Services LLC
+270009,Other,0,114611,AirRunner Networks LLC
+270011,DSL,0,48994,Alyrica
+270011,FTTH,1,533,Alyrica
+270011,Other,0,634002,Alyrica
+270012,Other,0,212891,Aristotle
+270016,Other,0,2969,Bethesda Wireless
+270018,Other,0,5623,"CCS Wireless, Inc."
+270020,Other,0,538165,"Cal.net, Inc."
+270023,FTTH,0,5,"City of Richmond, Indiana"
+270023,Other,0,32459,"City of Richmond, Indiana"
+270025,Other,0,9898,Clearsky Systems Inc.
+270027,FTTH,0,211731,Columbia Energy LLC
+270027,Other,0,157429,Columbia Energy LLC
+270028,Other,0,42079,Cooperative Light & Power
+270032,DSL,0,80000,Desert Winds Wireless LLC
+270032,FTTH,0,39,Desert Winds Wireless LLC
+270032,Other,1,356002,Desert Winds Wireless LLC
+270033,Other,1,1453225,Directlink LLC
+270038,Other,0,159926,"Excel.Net, Inc."
+270044,Other,0,6593,"FreedomNet Solutions, LLC"
+270045,Other,0,237307,Getwireless.net
+270051,DSL,0,2481,"Impulse Internet Services, LLC"
+270051,Other,0,16792,"Impulse Internet Services, LLC"
+270052,Other,0,56446,"Info Link Wireless, Inc."
+270061,Other,0,141,Maxwire Inc.
+270062,FTTH,0,73,"Medicine Wheel Website Design, Inc."
+270062,Other,0,3604,"Medicine Wheel Website Design, Inc."
+270063,DSL,0,99511,MontanaSky West LLC
+270063,FTTH,0,9683,MontanaSky West LLC
+270063,Other,0,68893,MontanaSky West LLC
+270064,Other,1,33033,"NGL Connection, LLC"
+270065,Other,0,239596,Noize Communications LLC
+270068,Other,0,462,Orchard Wireless
+270073,Other,0,37222,Sky Valley Network LLC
+270074,FTTH,0,1056,"Skywave Wireless, Inc."
+270074,Other,0,16582,"Skywave Wireless, Inc."
+270077,Other,0,35956,SonicNet Inc.
+270078,Other,0,76531,"Southwestern Wireless, Inc."
+270083,Other,1,4852,"Symplified Technologies, LLC"
+270084,DOCSIS,0,1024,TC LLC
+270084,Other,0,5307,TC LLC
+270085,Other,0,186784,"TGM Pinnacle Network Solutions, LLC"
+270090,DSL,0,3241,The Computer Works
+270090,FTTH,1,3689,The Computer Works
+270090,Other,0,53780,The Computer Works
+270096,Other,0,1345,"Velocity Broadband Internet, Inc."
+270099,Other,0,113147,"Western Communications, Inc."
+270101,Other,0,54955,"WireFree Communications, Inc."
+270115,Other,0,4056,Webhiway Communications LLC
+280001,DOCSIS,1,1633422,Acquistions Cogecco Cable Holdings II Inc.
+280004,Other,0,1279,"Air Link Rural Broadband, LLC"
+280005,DSL,0,16531,"Alliance Connect, LLC"
+280007,Other,0,5095,ALSAT Wireless
+280009,Other,0,28959,Banc Central Financial Services Corp.
+280010,FTTH,0,7797,Borough of Kutztown
+280011,Other,0,21544,BrazosWiFi
+280014,FTTH,1,84282,City of Longmont
+280015,DOCSIS,0,385303,City of Tacoma
+280017,FTTH,1,67188,"Co-Mo Electric Cooperative, Inc."
+280018,Other,0,764,Digital Example LLC
+280020,FTTH,1,1383,"Eastern Shore Communications, LLC"
+280020,Other,0,27365,"Eastern Shore Communications, LLC"
+280024,Other,0,913,FractalVision
+280027,Other,0,177246,"Gower Computer Support, Inc."
+280028,DOCSIS,0,1304,Guiness Communications Inc.
+280031,DSL,0,6227,"IP Global, LLC"
+280035,DSL,0,79,Mile High Networks
+280035,Other,0,29513,Mile High Networks
+280042,Other,0,87142,Outback Internet LLC
+280047,Other,0,8039,"Rayfield Communications, Inc."
+280051,Other,0,14253,Rural Enterprises Inc.
+280054,Other,0,5918,Skylink Wireless Internet LLC
+280057,FTTH,1,1086,"Tekify, LLC"
+280057,Other,0,470364,"Tekify, LLC"
+280063,DSL,0,17,Veloxnet Inc.
+280063,FTTH,0,318,Veloxnet Inc.
+280063,Other,0,230,Veloxnet Inc.
+280067,Other,0,34540,"Wisper, II LLC"
+280068,Other,0,35623,Zirkel Wireless
+280069,DSL,0,1263,ZMP Holding Company
+280069,FTTH,0,680,ZMP Holding Company
+280069,Other,0,13861,ZMP Holding Company
+280071,Other,0,7291,Eagle One Wireless
+280072,Other,0,29739,"Fastnet Wireless, LLC"
+280073,FTTH,1,9,LARIAT
+280073,Other,1,34877,LARIAT
+280074,FTTH,1,23197,Valu-Net LLC
+280075,Other,0,623,EastSierra.Net
+280078,DOCSIS,0,2985,"Horizon Cable TV, Inc."
+290002,DOCSIS,0,3138,"Bellaire Television Cable Company, Inc."
+290003,Other,0,140038,"HydroSoft Internet, Inc."
+290004,FTTH,1,294,"@Link Services, LLC"
+290004,Other,1,27544,"@Link Services, LLC"
+290005,Other,1,44512,"A Better Wireless, NISP, LLC"
+290006,Other,0,98274,AirFiber
+290007,Other,0,41896,Alamo Broadband Inc.
+290008,Other,0,69389,"AlignTec, LLC"
+290009,Other,0,1829797,ALTIUS Communications LLC
+290010,FTTH,1,1745,AMG Technology Investment Group
+290010,Other,0,3965486,AMG Technology Investment Group
+290014,Other,0,68400,"B2X Online, Inc."
+290015,Other,0,2028,"Bear River Communications, LLC"
+290016,Other,0,2017,"Believe Wireless, LLC"
+290017,DSL,0,609,"Bitcom, LLC"
+290018,Other,0,229936,Bloosurf LLC
+290019,Other,0,469,BounceLinx
+290021,Other,0,890,Bspeedy Wireless Inc.
+290023,Other,0,35824,Celerity Networks LLC
+290024,Other,0,38,Cherokee Broadband Enterprise
+290025,Other,0,1064735,"Cibola, LLC"
+290028,FTTH,1,26401,City of Opelika
+290031,FTTH,1,14868,"Computer Techniques, Inc."
+290037,FTTH,1,1691,"Digital Connections, Inc"
+290039,Other,0,142797,"DMCI Broadband, LLC"
+290042,Other,0,57143,"Electronic Corporate Pages, Inc."
+290048,DOCSIS,0,354,Extreme Broadband
+290050,Other,0,1100252,Future Technologies
+290051,Other,0,6367,Grand County Internet Services Inc.
+290052,Other,0,21857,In The Stix Broadband LLC
+290053,Other,1,4489,Innovative Financial Technologies LLC
+290054,Other,0,3077,"InnovativeAir, LLC"
+290057,Other,0,11251,"Interstate Wireless, Inc."
+290058,FTTH,0,6436,JMZ Corporation
+290058,Other,0,587060,JMZ Corporation
+290061,FTTH,0,17266,"Lake Region Electric Cooperative, Inc."
+290062,Other,0,15546,Leader Communications LLC
+290065,Other,0,9960,LV.Net
+290066,Other,0,167,"M-22 Internet Project, LLC"
+290074,Other,1,34406,Wind River Internet
+290077,DOCSIS,1,23539,"Origin Networks, LLC"
+290077,DSL,0,38193,"Origin Networks, LLC"
+290077,FTTH,1,8331,"Origin Networks, LLC"
+290077,Other,0,3697,"Origin Networks, LLC"
+290079,Other,0,21625,Portative Technologies
+290081,Other,0,89595,RidgeComms
+290083,Other,0,6522,Rio Verde Wireless
+290086,Other,0,12085,Rowe Wireless Networks LLC
+290087,Other,0,360608,Rural Broadband Network Services LLC
+290088,Other,0,1072654,San Diego Broadband
+290089,Other,0,31612,ShoreWaves
+290091,Other,0,3190,SmartBurst LLC
+290092,FTTH,1,100907,Smiling J LLC
+290093,DOCSIS,0,8586,"Sound Internet Services, Inc."
+290093,DSL,1,6354,"Sound Internet Services, Inc."
+290093,FTTH,1,5506,"Sound Internet Services, Inc."
+290093,Other,0,241193,"Sound Internet Services, Inc."
+290099,Other,0,32937,"Taos Net, LLC"
+290103,Other,0,13281,TELE-PAGE Inc.
+290105,DOCSIS,0,1378,Television Association of Republic
+290105,DSL,0,13,Television Association of Republic
+290105,FTTH,0,32,Television Association of Republic
+290105,Other,0,2196,Television Association of Republic
+290106,Other,0,599107,The Junction Internet LLC
+290108,Other,1,8370,"Tnet Broadband Internet, LLC"
+290109,Other,0,9582,Unwired LLC
+290113,FTTH,1,0,Village of Moose Lake
+290114,Other,0,1136,Vision Network
+290118,Other,0,175276,Webformix Company
+290121,Other,0,3858,"The Tahlequah, LLC"
+290127,Other,0,1732,Balatize
+290128,Other,0,13890,Kern Valley Wireless
+300004,Other,0,44195,"ADT Systems, Inc."
+300005,DSL,0,46186,"Acme Communications, Inc."
+300005,FTTH,1,5923,"Acme Communications, Inc."
+300008,Other,0,26766,"Airosurf Communications, Inc."
+300010,Other,0,11037,Anvil
+300015,DOCSIS,0,1647,City of Bagley
+300016,Other,0,35727,"Basin 2 Way Radio, Inc."
+300017,Other,0,0,BelWave Communications
+300019,Other,0,41850,"Bluespan Wireless, LLC"
+300020,Other,0,275446,Borealis Broadband Inc
+300023,Other,0,10307,Broadlinc Communications LLC
+300024,Other,0,9535,Brolly Communications Inc
+300025,Other,0,335429,"Bug Tussel Wireless, LLC"
+300026,Other,0,8554,CCAonline
+300027,Other,0,253040,CTI Network
+300029,Other,0,1918117,Cirra Networks
+300031,FTTH,1,11663,none
+300037,Other,0,137034,Connecting Point
+300040,FTTH,0,12823,County of Lake
+300043,Other,0,3024653,"Cruzio Holdings, LLC"
+300047,Other,0,12219,"Door County Broadband, LLC."
+300049,FTTH,1,31724,Eastern Shore of Virginia Broadband Authority
+300053,Other,0,170778,Electronics Service Company of Hamlet
+300059,DOCSIS,0,16673,Fusion Media
+300059,FTTH,0,15158,Fusion Media
+300061,Other,0,16797,Gaslight Media
+300063,DSL,0,6852,"Gutierrez-Palmenberg, Inc."
+300063,Other,0,3554271,"Gutierrez-Palmenberg, Inc."
+300065,Other,0,38998,"Hocking Internet Technologies, Ltd."
+300067,Other,0,11371,IguanaNet L.L.C.
+300069,Other,0,266,International Power Systems LLC
+300073,Other,0,42834,"JTM Broadband, LLC"
+300074,FTTH,1,2489,"Jo-Carroll Energy, NFP"
+300074,Other,0,19761,"Jo-Carroll Energy, NFP"
+300076,Other,0,522,Jump Wireless LLC
+300077,Other,0,30926,"Kansas Broadband Internet, Inc."
+300078,Other,0,653321,Windfield Enterprises
+300083,DSL,0,23680,LISCO
+300083,FTTH,0,17559,LISCO
+300085,Other,0,118008,"Limitless Mobile Holdings, LLC"
+300087,FTTH,1,13711,Marshall Municipal Utilities
+300088,Other,0,403,Maximum Broadband Solutions
+300090,Other,0,1001,MicroTek-Solutions LLC
+300091,FTTH,1,76847,Midwest Energy Cooperative
+300092,Other,0,58775,Mission Valley Communications
+300093,FTTH,0,92,Mosier WiNet LLC
+300093,Other,0,1829,Mosier WiNet LLC
+300095,Other,0,4275,Mountain Mesh
+300101,FTTH,0,8712,Eastlight L.C. dba Natel
+300101,Other,0,122779,Eastlight L.C. dba Natel
+300105,Other,0,32784,Network Computers L L C
+300106,FTTH,0,159,NexGen Wireless LLC
+300106,Other,0,2890,NexGen Wireless LLC
+300107,Other,0,4661,"Night Owl Wireless, LLC"
+300110,FTTH,0,4212,North Country Broadband
+300110,Other,0,3533,North Country Broadband
+300111,Other,0,27271,Northern Network Concepts
+300112,FTTH,0,17519,OKPUD
+300112,Other,0,28306,OKPUD
+300116,Other,0,5523,"Pasty.net,Inc."
+300117,Other,0,16483,"PeakWiFi, LLC"
+300119,DOCSIS,0,5422,Privatel Inc.
+300119,FTTH,0,384,Privatel Inc.
+300119,Other,0,150,Privatel Inc.
+300120,Other,0,243514,Professional Value Internet Service Inc
+300122,Other,0,1984,RACC2000
+300123,Other,0,21669,Razer Wireless inc.
+300124,Other,0,12561,Redbird Internet
+300125,Other,0,47622,"Richon, Inc."
+300126,Other,0,465,"RidgeTop Internet, LLC"
+300128,Other,0,1081,Rio Cities
+300131,Other,0,42581,"Router12 Networks, LLC"
+300132,Other,0,47641,Royce's Electronics Inc.
+300133,Other,0,34088,S&B Technology Consultants
+300136,Other,0,325222,SDWisp
+300137,Other,0,21601,SMS llc
+300138,Other,0,3326,"SS Ventures, Inc"
+300144,Other,0,14490,Siuslaw Broadband
+300146,Other,0,6278,SkytechBB Internet
+300147,Other,0,1793,Slopeside Internet LLC
+300149,FTTH,1,8592,Southwest Minnesota Broadband Services
+300158,Other,0,315113,Texas Broadband Inc
+300159,Other,0,15392,"Texas Cellnet, Inc"
+300160,Other,0,12009,"Texhoma Wireless, LLC"
+300164,DOCSIS,0,3540,U
+300164,FTTH,0,1079,U
+300164,Other,0,66332,U
+300168,DOCSIS,0,2219,VVD Funding LLC
+300168,DSL,0,2102,VVD Funding LLC
+300168,FTTH,0,617,VVD Funding LLC
+300168,Other,0,39825,VVD Funding LLC
+300170,FTTH,1,3376,"Virginia Everywhere, LLC"
+300170,Other,0,1572610,"Virginia Everywhere, LLC"
+300171,DSL,0,14625,Mammoth Networks
+300171,Other,0,115401,Mammoth Networks
+300172,Other,0,804157,WIRELESS INTERNET CORP
+300173,Other,0,727,WISPRENN
+300175,DSL,0,11,"XL Broadband, Inc."
+300175,Other,0,15814,"XL Broadband, Inc."
+300176,Other,0,3660,"XSTREAM WIRELESS, LLC"
+300179,Other,0,502,Qrowireless of idaho inc
+300180,Other,0,21138,"rNetworks, LLC"
+300181,Other,0,19720,"BEH Communications, LLC"
+300182,Other,0,4694,Bridger Valley Electric
+300184,DOCSIS,0,21992,COMMUNITY COMMUNICATIONS COMPANY
+300186,DSL,1,31064,"Internet Consulting Services, LLC"
+300186,FTTH,1,893,"Internet Consulting Services, LLC"
+300186,Other,0,10388,"Internet Consulting Services, LLC"
+300187,Other,0,915,RC Wireless
+300190,DSL,0,4571,Lynch Interactive Corporation
+300190,FTTH,0,846,Lynch Interactive Corporation
+300191,DSL,0,83621,"NTELOS, Inc."
+300191,FTTH,1,47013,"NTELOS, Inc."
+300192,DOCSIS,0,46835,U.S. Connect
+300192,DSL,0,79434,U.S. Connect
+300192,FTTH,1,71800,U.S. Connect
+300192,Other,0,36078,U.S. Connect
+300194,Other,0,10273,Interlakes Wireless LLC
+300198,Other,0,8736,Wasatch Broadband
+300199,Other,0,13841,Encore Business Systems
+300205,Other,0,1430,Ruhl Moore Technologies
+310000,DSL,0,63409,Brick Skirt Holdings
+310000,FTTH,0,405,Brick Skirt Holdings
+310000,Other,0,67533,Brick Skirt Holdings
+310001,Other,1,785207,"Vivint Wireless, Inc."
+310006,Other,1,9053,Ampersand Technologies LLC
+310010,Other,0,64733,Back 40 Wireless LLC
+310013,FTTH,0,42128,Blue Ridge Mountain Electric Membership Corporation
+310015,Other,1,153713,California Internet
+310016,Other,0,2159,"Cape Ann Communications, Inc."
+310019,Other,0,13892,"Chaffee County Telecom, LLC"
+310020,DOCSIS,0,266,"Chesapeake Bay Communications, LLC"
+310020,FTTH,0,27,"Chesapeake Bay Communications, LLC"
+310020,Other,0,3559,"Chesapeake Bay Communications, LLC"
+310021,FTTH,1,37743,City of Salisbury
+310023,DOCSIS,1,285556,"Clarity Telecom, LLC DBA Vast Broadband"
+310023,DSL,0,11044,"Clarity Telecom, LLC DBA Vast Broadband"
+310023,FTTH,1,18331,"Clarity Telecom, LLC DBA Vast Broadband"
+310023,Other,0,1412,"Clarity Telecom, LLC DBA Vast Broadband"
+310024,FTTH,1,162,Clearnetworx LLC
+310024,Other,0,13781,Clearnetworx LLC
+310027,Other,0,26327,"Conifer Communications, Inc."
+310028,Other,0,7530,Consolidated Broadband Systems LLC
+310030,Other,0,3572,Coulee Internet Services Company
+310031,FTTH,1,2754,County of Nelson
+310035,Other,0,423552,"DSLbyAir, LLC"
+310036,DOCSIS,0,2943,E.L. Automation Inc.
+310036,Other,0,10490,E.L. Automation Inc.
+310040,Other,0,18272,Gtek Communications
+310041,FTTH,1,11585,Habersham Electric Membership Corporation
+310042,Other,0,262960,Helmsco Inc
+310044,FTTH,1,82,Innovative Tech Pros
+310045,DOCSIS,0,4310,Iron River TV
+310052,Other,0,10482,"Network Professionals, Inc."
+310053,Other,0,56665,New Source Broadband
+310054,FTTH,0,9,"North Georgia Network Cooperative, Inc."
+310054,Other,0,913,"North Georgia Network Cooperative, Inc."
+310055,DSL,1,3128,"Port Networks, Inc."
+310055,FTTH,1,1974,"Port Networks, Inc."
+310055,Other,0,31145,"Port Networks, Inc."
+310058,FTTH,0,169,Ptera Inc
+310058,Other,0,527206,Ptera Inc
+310059,Other,1,10778,"Redburn Infrastructure, LLC"
+310060,Other,0,3347,Ripflo Network
+310061,DSL,0,12043,"Salish Networks, Inc."
+310061,FTTH,1,404,"Salish Networks, Inc."
+310062,FTTH,1,1901,Sebewaing Light and Water
+310063,Other,0,7344,Signal West LLC
+310065,Other,0,179731,"Softcom Internet Communications, Inc."
+310066,Other,0,782427,"Surf Air Wireless, LLC"
+310067,Other,0,7424,Surfnet Communications
+310079,Other,1,43022,Verso Networks
+310081,Other,0,2550,Visual Link
+310082,Other,0,47519,WAVELINC COMMUNICATIONS
+310083,FTTH,1,4703,WiValley
+310083,Other,0,5078,WiValley
+310084,Other,0,16703,WLanJV Inc.
+310085,Other,0,104812,Xtream Internet
+310088,DSL,0,338,Zulu
+310088,Other,0,16786,Zulu
+310090,DSL,0,54,"Block Line Systems, LLC"
+310092,FTTH,1,17668,Town of Concord MA
+310096,Other,0,141449,"VisiCom Group, Inc."
+320004,Other,0,3525,Agile Networks
+320013,Other,0,196857,"B&B Communications, Ltd."
+320014,Other,0,45826,Backroads Broadband
+320016,FTTH,1,286,"Bethune Company, LLC"
+320016,Other,1,33332,"Bethune Company, LLC"
+320018,Other,0,1832464,Brown Dog Networks LLC
+320022,Other,0,2369,"Cityless Internet Services, LLC"
+320028,DOCSIS,0,45834,"CoomZoom Communications, LLC"
+320031,Other,0,163955,"Country Wireless, LLC"
+320037,Other,0,15864,"Echo Wireless Broadband, Inc."
+320042,Other,0,51707,Fort Code Inc.
+320045,DOCSIS,1,79795,Giggle Fiber LLC
+320047,FTTH,1,93740,"Greenlight Networks, LLC"
+320049,FTTH,0,716,"High Mountain Farm, LLC"
+320049,Other,0,2540,"High Mountain Farm, LLC"
+320050,DSL,0,64,Hilltown Networks
+320050,Other,0,1283,Hilltown Networks
+320051,Other,0,21697,"HPAZ.net, LLC"
+320053,FTTH,0,3309,Illinois Electric Cooeprative
+320053,Other,0,31050,Illinois Electric Cooeprative
+320055,Other,0,1447,"Internet Services, LLC"
+320056,DSL,0,15756,Island Network LLC
+320056,FTTH,1,12665,Island Network LLC
+320056,Other,0,15756,Island Network LLC
+320057,Other,0,9223,iWiSP LLC
+320059,Other,0,311,"Last Mile Wireless, LLC"
+320062,Other,0,13266,Mojavewifi.com LLC
+320068,Other,0,19171,Northern Community Investment Corporation
+320074,Other,0,2271,PennWisp LLC
+320075,Other,1,6570,"Prairie Hills Wireless, LLC"
+320080,Other,0,22473,SBT Internet Incorporated
+320081,Other,0,9603,SkyHi Corp.
+320082,Other,0,10479,SkyNet Communications of Kentucky LLC
+320084,Other,0,99352,Small Business Solutions Group L.L.C.
+320086,Other,0,15322,Sooner Wireless LLC
+320087,Other,1,36169,"Stephouse Holdings Company, LLC"
+320088,Other,0,70242,"Stratosnet Technologies, Inc."
+320090,Other,0,14788,T G Ferguson Company
+320091,DOCSIS,0,555003,Tabco Services
+320091,Other,0,555003,Tabco Services
+320092,FTTH,0,97,"Tennessee Wireless, LLC"
+320092,Other,0,32878,"Tennessee Wireless, LLC"
+320093,Other,0,7063,The Laffoon Corporation
+320094,Other,0,2928,"Total Radio Service, Inc."
+320096,Other,0,12219,Tristate Internet
+320100,FTTH,1,21995,"Valleynet, Inc."
+320105,Other,0,19844,Wilderness Wireless
+320112,Other,0,17891,"Declaration Networks Group, Inc."
+320113,Other,0,481,"New Era Broadband, LLC"
+320114,Other,0,46475,"TISD, Inc."
+320116,DSL,1,23812,"Hawaii Dialogix Telecom, LLC"
+320116,FTTH,0,1194,"Hawaii Dialogix Telecom, LLC"
+320116,Other,0,1561,"Hawaii Dialogix Telecom, LLC"
+320117,Other,0,20166,"Hot Spot Broadband, Inc."
+320124,Other,0,747176,"Telegia Communications, Inc."
+320125,Other,0,81811,BM Service Corp.
+320126,DOCSIS,0,7263,"Spring City Cable TV, Inc."
+320127,FTTH,1,734,Safelink Internet
+320127,Other,0,953637,Safelink Internet
+330001,DSL,0,1798,"Northwest Missouri Holdings, Inc."
+330002,DOCSIS,1,438870,Service Electric Television Inc.
+330003,Other,0,119958,Red Shift Internet Services
+330004,Other,0,11311,"AIRFIBER WISP, LLC"
+330005,Other,0,8373,"American Wireless, Inc. (MO)"
+330006,Other,0,8805,"ANTS-Technology, Inc."
+330008,Other,0,545,Ayacht Technology Solutions
+330010,DSL,1,425,Byte Networking LLC
+330010,FTTH,1,425,Byte Networking LLC
+330010,Other,1,425,Byte Networking LLC
+330013,FTTH,0,66804,City of Ocala
+330018,Other,0,6539,"Cowboy Telephone, Inc."
+330020,DSL,0,4611,CynergyComm.net
+330023,Other,0,35,"Echo IT Consulting, LLC"
+330029,Other,0,356,"Fool Creek Wireless, LLC"
+330031,FTTH,0,96,Franklin Electric Plant Board
+330032,FTTH,1,5916,Fundamental Holdings Corp
+330032,Other,1,19567,Fundamental Holdings Corp
+330034,FTTH,0,248,"Geneva Broadband, LLC"
+330034,Other,0,6834,"Geneva Broadband, LLC"
+330035,Other,0,4513,Go Bee Wireless LLC
+330042,Other,0,35646,Kelly Supply Company
+330044,Other,1,3746,"Legacy ISP, LLC"
+330045,Other,0,31760,"LocaLoop, Inc."
+330052,Other,0,2933,"Nedernet, Inc."
+330053,Other,0,15309,NETEO Inc.
+330054,Other,0,10488,Nez Perce Tribe
+330055,FTTH,1,45634,Northeast Rural Services
+330057,Other,1,705,Paladin Wireless LLC
+330059,Other,0,166002,PrineTime Internet Solutions
+330062,FTTH,1,38095,"Race Telecommunications, Inc."
+330064,FTTH,1,9723,RS Fiber Cooperative
+330064,Other,0,47724,RS Fiber Cooperative
+330066,Other,0,10201,"SeaKay, Inc."
+330067,FTTH,1,183620,Sho-Me Power Electric Cooperative
+330071,Other,0,9363,"Skyweb Networks, INC"
+330072,Other,0,1377,"Smoky Valley Internet, LLC"
+330073,FTTH,1,60,Spark Fiber LLC
+330073,Other,1,822,Spark Fiber LLC
+330074,Other,0,43236,SyncWave LLC
+330076,Other,0,3689,Tekfinity
+330080,Other,0,711,3rd Coast Internet
+330081,Other,0,6653,"Wallowa Valley Networks, LLC"
+330082,Other,0,173819,"Washington Broadband, Inc."
+330083,Other,0,510,Whitestone Community Association
+330084,Other,0,132449,Wireless Internet Solutions Experts LLC
+330085,Other,0,5177,Xoom Link LLC
+330086,DSL,0,282,"LaHarpe Telephone Company, Inc."
+330086,FTTH,0,2012,"LaHarpe Telephone Company, Inc."
+340001,DSL,0,11605,"Valley Telephone Cooperative, Inc. (TX)"
+340001,FTTH,1,54942,"Valley Telephone Cooperative, Inc. (TX)"
+340001,Other,0,4394490,"Valley Telephone Cooperative, Inc. (TX)"
+340002,Other,0,759,Airhawk Wireless
+340003,Other,0,8879,"AiroComm, LLC"
+340004,Other,0,1125,Allamakee-Clayton Electric Cooperative Inc
+340008,DSL,0,14944,ARK-O Holding Company
+340008,FTTH,1,14817,ARK-O Holding Company
+340009,Other,0,17045,AWC LLC
+340012,FTTH,1,21443,"Callabyte Technology, LLC"
+340015,FTTH,1,4808,"Comelec Services, Inc."
+340015,Other,0,119880,"Comelec Services, Inc."
+340019,Other,0,344847,Delmarva WiFi
+340020,Other,0,14409,DesertGate
+340025,Other,0,70647,"Encounter Wireless, LLC"
+340026,FTTH,1,5568,FiberSpark Inc.
+340029,Other,0,280571,"Gallatin Wireless Internet, LLC"
+340031,Other,0,3651,"Hospitality Integrated Services, Inc."
+340032,Other,0,7867,"HUB Electronics, Inc"
+340036,Other,0,33314,Tiger Computer Consulting
+340041,Other,0,34812,"Jefferson State Broadband, Inc."
+340042,Other,0,408,Karuk Tribe
+340043,Other,0,1039,"Leap Communications, LLC"
+340045,Other,0,4282,MJM TELECOM CORP.
+340047,Other,0,463959,"Mobius Internet, I.T. and Communications"
+340048,Other,0,10909,Mtida
+340050,Other,0,18918,"Netlive Networks, LLC"
+340053,FTTH,1,4049,"Ohio Telecom, Inc."
+340055,Other,1,2523,"OsoInternet Solutions, lLC"
+340058,FTTH,0,5188,"Pend Oreille Valley Networks, Inc."
+340058,Other,0,51658,"Pend Oreille Valley Networks, Inc."
+340059,Other,1,5085,"Plains Internet, LLC"
+340061,Other,1,25921,"Resound Networks, LLC"
+340066,Other,1,60576,Sail Internet
+340068,Other,0,261857,"Skynet Country, LLC"
+340069,FTTH,0,112,"Starwire Technologies, LLC"
+340069,Other,0,16186,"Starwire Technologies, LLC"
+340070,FTTH,1,47822,"Sunset Digital Communications, Inc."
+340071,Other,0,4172,SylverNet
+340076,FTTH,1,523446,"Ultimate Internet Access, Inc"
+340079,DSL,0,2,Vertical Broadband LLC
+340079,Other,0,2313,Vertical Broadband LLC
+340083,FTTH,1,321,Whitewater Wideband LLC
+340083,Other,0,9998,Whitewater Wideband LLC
+340084,Other,1,751,Wide Open Networks
+340085,Other,0,6949,"Winters Broadband, LLC"
+340088,DSL,0,4,"Zoom Broadband, LLC"
+340088,Other,0,17587,"Zoom Broadband, LLC"
+340089,Other,0,16460,RoadRunner wireless
+340091,Other,0,10353,Aroostook Technologies Inc.
+340093,Other,1,9,Dillon Beach Internet Service
+340094,Other,0,6746,Fastlink Communications
+340095,Other,0,11035,"Keltgen Technology, Inc."
+340096,Other,0,108898,Mechcom Dot Net LLC
+340098,Other,0,3777889,unWired Broadband
+350004,FTTH,1,3473,A1 Fiber
+350005,DSL,0,703,Advanced Wireless
+350005,FTTH,0,8169,Advanced Wireless
+350006,Other,0,182,"Advantenon, Inc."
+350008,Other,0,10085,Aerolink Networks
+350011,Other,0,3826,"Arx Technologies, LLC"
+350012,DSL,0,1068,"ATV Holdings, LLC"
+350012,FTTH,1,15324,"ATV Holdings, LLC"
+350014,DSL,0,626,Bays ET Highspeed Internet Service
+350014,FTTH,1,680,Bays ET Highspeed Internet Service
+350014,Other,0,58522,Bays ET Highspeed Internet Service
+350015,DOCSIS,0,5275,"Belzoni Cable, LLC"
+350015,Other,0,8216,"Belzoni Cable, LLC"
+350017,Other,0,29485,BlueBit Networks LLC
+350018,Other,0,180900,"Byhalia.net, LLC"
+350019,Other,0,205689,"CASCO Communications, Inc."
+350020,Other,0,2717,Cedar Creek Wireless
+350021,Other,0,8590,Centex Web Access
+350025,FTTH,1,17576,Waverly Utilities
+350030,Other,0,156179,Corridor Wireless
+350032,FTTH,1,28222,CVIN LLC
+350033,DOCSIS,0,5,"D4US, LLC"
+350033,DSL,0,0,"D4US, LLC"
+350033,FTTH,0,178,"D4US, LLC"
+350034,Other,0,6725,Denton Commercial Internet Inc.
+350036,Other,0,2290,"Digital Aurora Radio Technologies, LLC"
+350037,Other,0,81,Dry Creek Internet and Communications LLC
+350039,Other,0,2533,"EBTX Wireless, LLC"
+350041,DSL,0,27,"Enqwest, LLC"
+350041,FTTH,0,3097,"Enqwest, LLC"
+350043,Other,0,1892,Flatwater Wireless
+350045,Other,0,318,"GOCO Wireless, Inc."
+350046,Other,0,6473,Grand Avenue Broadband
+350047,Other,0,56665,"H.I. Cable, LLC"
+350048,DSL,1,313,Hammer Fiber Optic Investments Ltd.
+350048,Other,1,31226,Hammer Fiber Optic Investments Ltd.
+350051,Other,0,272237,"iGo Technology, Inc."
+350055,Other,1,5699,"Invisalink Wireless Missouri, Inc."
+350058,Other,0,10180,"Jenco Wireless, LLC"
+350060,Other,0,71566,Killians Electronics LLC
+350063,Other,0,99223,Media Net Wifi
+350064,Other,0,682,Mid MO Micro Computers
+350067,FTTH,0,171,Monster Broadband Inc
+350067,Other,0,221305,Monster Broadband Inc
+350068,Other,0,78967,"MR Systems Wireless, LLC"
+350069,Other,0,116118,NCI Datacom
+350070,Other,0,82590,"Net Liquidations, Inc."
+350071,Other,0,1258,North Central Kansas Community Network
+350072,Other,0,7018,North Coast Internet
+350073,Other,0,49284,"NuWave Technology, Inc."
+350076,FTTH,1,4787,"PowerComm Broadband, LLC"
+350078,Other,0,93526,RAA Data
+350079,Other,0,5076,RainWare LLC
+350080,Other,0,153659,Ranch WiFi LLC
+350081,Other,1,563,River Valley Internet
+350082,FTTH,1,11080,Rocket Fiber LLC
+350085,DSL,0,4886,"Seaport/CWB iTV-3 Holdco, LLC"
+350085,FTTH,1,92989,"Seaport/CWB iTV-3 Holdco, LLC"
+350087,Other,0,2962,Seymour Channels Satellite
+350088,Other,0,144148,Shelby Electric Cooperative Inc
+350089,Other,0,13792,Simply Cyber Inc
+350091,FTTH,1,554,"Skyrunner, Inc."
+350091,Other,1,132979,"Skyrunner, Inc."
+350093,Other,0,605793,SOS Communications LLC
+350094,DSL,0,51601,South Valley Internet
+350094,Other,0,44867,South Valley Internet
+350095,Other,0,1593991,Southern California Telephone Co
+350099,Other,1,7369,"Taneynet Broadband, Inc."
+350100,Other,0,2654,Telecom West Inc.
+350104,Other,0,1060,TRANSWAVE
+350105,Other,1,37355,"Triad Wireless, LLC"
+350106,DOCSIS,0,230,"Tri-Co Technologies, LLC"
+350106,DSL,0,1229,"Tri-Co Technologies, LLC"
+350106,FTTH,1,1698,"Tri-Co Technologies, LLC"
+350110,DOCSIS,0,3599,"Velocity Communications, Inc."
+350110,Other,0,245279,"Velocity Communications, Inc."
+350111,FTTH,0,16,Verona Networks LLC
+350111,Other,0,10697,Verona Networks LLC
+350117,Other,0,16432,"Wireless Internet Services, Inc."
+350118,Other,0,3621,"Workable Programs & Systems, Inc."
+350120,Other,0,15547,Xtreme Enterprises LLC
+350123,DOCSIS,1,186435,Blue Stream
+350128,Other,0,1453,"CNSP, Internet, dba NMSURF"
+350129,DOCSIS,1,2403,"Apps Communications, Inc."
+350131,Other,1,4261,"AiroNet, LLC"
+350132,Other,0,40804,"Common Networks, Inc."
+350133,Other,0,3610,Grace Communications
+350134,Other,0,564,AVISP
+350140,Other,0,3127,"Northern Nevada High Speed, LLC"
+350200,Other,0,1037,Wifi Squared LLV
+360002,Other,0,13674,"ABG Wireless, LLC"
+360005,FTTH,0,372,"B&B Communications, LLC"
+360006,FTTH,1,13435,"Bandera Electric Cooperative, Inc."
+360007,FTTH,1,4143,Barry Electric Cooperative
+360008,Other,1,1001,Beyond Media Inc.
+360009,FTTH,1,70891,"BG Networking, LLC"
+360010,Other,0,107695,Blue Pulse Networks LLC
+360011,Other,0,22962,Blue Zoom Inc.
+360012,Other,0,2595,"Breeze Broadband Communications, Inc."
+360013,Other,0,9274,Cajun Broadband Inc.
+360014,FTTH,1,68358,"CarolinaConnect Cooperative, Inc."
+360018,Other,0,5079,Click Computers Inc.
+360021,Other,0,746,Cyber Protection Group LLC
+360022,Other,0,30967,"Desert iNET, LLC"
+360025,DOCSIS,0,3325,EagleZip.com LLC
+360025,Other,0,47284,EagleZip.com LLC
+360029,FTTH,1,10939,Erwin Utilities
+360030,Other,1,6032943,"Etheric Networks, Inc."
+360032,Other,0,102083,Georgia Highspeed Country Internet
+360033,Other,0,99,Gifford Wireless Inc.
+360038,Other,0,6902,"High Rapid Networks, LLC"
+360043,Other,1,12415,Invisalink Wireless Enterprises LLC
+360044,Other,0,2032,iSpeed Internet LLC
+360048,Other,1,5014,Kix Internet
+360049,Other,0,68674,"Local TV & Electronics, Inc."
+360052,FTTH,1,22584,Maquoketa Valley Rural Electric Cooperative
+360055,FTTH,1,62544,Morristown Utility Commission
+360056,Other,0,21292,Necto Inc.
+360061,DSL,0,13994,"One Ring Networks, Inc."
+360064,Other,1,5403,OptimERA Inc.
+360065,FTTH,1,62753,"Ozarks Electric Cooperative, Inc."
+360068,DSL,0,16319,"Pioneer Wireless, Inc."
+360068,FTTH,1,11811,"Pioneer Wireless, Inc."
+360069,FTTH,0,2493,Prince George Electric Cooperative
+360071,Other,0,625,Rocket Connect
+360073,Other,0,1414,"Scott Technologies & Telecom, Inc."
+360075,Other,0,4945,St. Maries Gazette Record
+360077,DSL,0,1,StraightUpNet LLC
+360077,Other,0,3522,StraightUpNet LLC
+360078,Other,0,640,Stream It Networks LLC
+360080,Other,0,507,"Tarkus Enterprises, LLC"
+360085,Other,0,130604,"Texoma Communications, LLC"
+360086,Other,1,859,"theWISP.net, Inc."
+360087,FTTH,1,59675,"Ting, Inc."
+360089,Other,0,69736,"Tower Net Communications, Inc."
+360090,Other,0,715,Town of Warwick
+360092,Other,0,52,"Two Tin Cans, LLC"
+360093,FTTH,1,0,Unggoy Broadband LLC
+360093,Other,0,8065,Unggoy Broadband LLC
+360094,FTTH,1,2597,"Valley Communications Association, LLC"
+360094,Other,0,38197,"Valley Communications Association, LLC"
+360097,Other,0,9,Wells Community Internet Project
+360100,Other,0,2813,Zetalink LP
+360101,Other,1,9721,"Apps Communications, Inc."
+360103,DOCSIS,0,7430,"WestPAnet, Inc."
+360103,FTTH,0,16279,"WestPAnet, Inc."
+360104,Other,1,5565,"Ethoplex, LLC"
+360105,Other,1,709118,"CNSP, Internet, dba NMSURF"
+360106,FTTH,0,4758,LakeNet LLC
+360106,Other,0,19957,LakeNet LLC
+360109,DOCSIS,1,420,Iroute Inc DBA 12Global.com
+360109,DSL,1,7172,Iroute Inc DBA 12Global.com
+360109,Other,1,13414,Iroute Inc DBA 12Global.com
+360111,FTTH,1,165,Greenfield Community Energy & Technology (GCET)
+360111,Other,1,703,Greenfield Community Energy & Technology (GCET)
+360113,Other,1,1298,"Smiling J, LLC"
+360114,DSL,0,9991,Union Holding Corp.
+360115,Other,0,3200,AIRCELL INC
+360116,Other,0,2495,Emerald Cable
+360118,Other,0,3367,"Good Connections, LLC"
+360119,Other,0,71,Hankins Information Technology
+360122,Other,0,4863,Cameron McCurday
+360123,Other,0,183,Pueblo of Laguna
+360124,FTTH,0,1906,Red Spectrum Communications LLC
+360124,Other,0,2927,Red Spectrum Communications LLC
+360125,Other,1,146929,"Redzone Wireless, LLC"
+360128,FTTH,1,0,Net Vision Communications LLC
+360128,Other,0,8929,Net Vision Communications LLC
+360132,Other,0,9201,"Big Sky Internet, Inc."
+360134,FTTH,1,2099,Fybercom
+360134,Other,1,89413,Fybercom
+370001,Other,0,177,"325 Internet, LLC"
+370003,Other,1,13534,"432 Internet, LLC"
+370004,Other,0,10,"600Amps Internet Services, Inc."
+370005,Other,0,502,A.C.T.S LLC
+370007,Other,0,1711,Aeron Wireless
+370008,Other,0,5037,Affinity Technology Solutions LLC
+370009,Other,0,111745,"Aire Communications Group, Inc."
+370011,Other,0,1535,Anterior Communications LLC
+370012,Other,0,89,Azure Standard
+370015,DOCSIS,0,0,Bay Country Communications
+370015,FTTH,0,0,Bay Country Communications
+370016,Other,0,8154,"BDA Wireless, LLC"
+370017,FTTH,0,116,Black Mesa Wireless LLC
+370017,Other,1,10383,Black Mesa Wireless LLC
+370019,Other,0,96413,BTWI
+370020,DOCSIS,0,163646,Media 3
+370022,Other,0,257,"Central Nevada AC-DC Electric, Inc"
+370023,Other,0,163,Central Park Systems Corporation
+370026,Other,0,28807,City Wireless
+370027,FTTH,0,2251,"CompassMSP, LLC"
+370028,DOCSIS,1,36277,"Consolidated Smart Broadband Systems, LLC"
+370028,FTTH,1,13783,"Consolidated Smart Broadband Systems, LLC"
+370029,FTTH,0,1054,"Continental Divide Electric Cooperative, Inc."
+370032,FTTH,1,28765,Delta Montrose Electric Association
+370034,Other,1,3219,Echo Broadband
+370035,Other,0,7,"Engineer Austin, LLC"
+370037,DOCSIS,0,6600,"Falcon Broadband, Inc."
+370037,DSL,0,570,"Falcon Broadband, Inc."
+370037,FTTH,1,3549,"Falcon Broadband, Inc."
+370038,Other,1,2281,Falcon Interent
+370039,Other,0,1521,"Florida WiFi, LLC"
+370044,Other,0,72,HCWireless
+370048,Other,0,7269,Hillcom Inc
+370050,FTTH,1,10559,Holland Board of Public Works
+370062,Other,0,181033,"Isotech, Inc"
+370063,Other,0,19342,ISP Management Inc.
+370066,Other,0,356,Lavalink
+370067,Other,0,1758,"Locl-Net, Inc."
+370068,DSL,0,4169,"MCC Network Services, LLC"
+370068,FTTH,1,13898,"MCC Network Services, LLC"
+370069,FTTH,1,481,Megawatt Communications LLC
+370069,Other,1,322,Megawatt Communications LLC
+370071,DSL,0,180,"Native Network, Inc."
+370073,Other,0,1793,NET NV LLC
+370074,FTTH,1,35424,NetSpeed LLC
+370075,Other,0,6625,Newarknet
+370079,DSL,0,1591509,"Nuvision Solutions, LLC."
+370081,Other,0,567021,"Omnipoint Technology, Inc."
+370082,FTTH,0,119,Pacific Lightwave Inc.
+370082,Other,0,22860,Pacific Lightwave Inc.
+370088,DSL,0,8815,PocketiNet Communications Inc.
+370088,FTTH,1,37215,PocketiNet Communications Inc.
+370088,Other,1,603746,PocketiNet Communications Inc.
+370089,Other,0,39672,"Point Broadband, LLC"
+370090,FTTH,1,5577,Premier Satellite
+370099,Other,0,3857,"Roll Call Security & Communications, LLC"
+370102,Other,0,948,SIFIBE
+370106,Other,0,3932,Softworx Incorporated
+370108,FTTH,1,9028,"South Central Communications, Inc."
+370110,FTTH,0,1554,Stealth Broadband
+370110,Other,1,3996,Stealth Broadband
+370115,Other,1,12534,TCC Networks Inc
+370121,Other,0,3431,TellerWifi LLC
+370125,Other,0,69713,Texanet Partners LLC
+370127,FTTH,1,18571,Tullahoma Utilities Authority
+370128,FTTH,1,2444,TUTTLE DEVELOPMENT AUTHORITY
+370129,FTTH,1,1184,Union City Electric System
+370130,FTTH,1,223,"United Datacom Networks, Inc"
+370130,Other,0,1774,"United Datacom Networks, Inc"
+370132,Other,0,927,Upnetwi Llc
+370138,Other,0,1781,Warp Networks Inc.
+370139,Other,0,11287,"Warp2, inc"
+370141,Other,1,14090,"Wi-Fiber, Inc."
+370142,Other,0,21713,"Wifinity, LLC"
+370145,Other,0,218,"XGNET, LLC"
+370146,Other,0,7,"X-Tech, LLC"
+370150,DOCSIS,0,12386,"West Alabama TV Cable Co, Inc"
+370151,Other,1,8286,Aeronet Wireless Broadband LLC
+370155,Other,0,304,Midstate Broadband
+370156,Other,0,6070,Aaris
+370157,Other,0,3426,"Mountain iNet, Inc."
+370158,FTTH,1,487,Bluestem
+370158,Other,0,3483,Bluestem
+370160,Other,0,6855,Smith Internet Solutions
+370161,Other,0,5676,WIFIRUS
+370162,FTTH,1,3440,"San Luis Valley Rural Electric Cooperative,Inc."
+370162,Other,0,2482,"San Luis Valley Rural Electric Cooperative,Inc."
+370163,Other,0,16263,Mitec
+380002,Other,0,142,5D Networks LLC
+380003,Other,0,1472,Acadiana Wireless LLC
+380012,Other,0,89,"Andrena, Inc."
+380013,FTTH,1,6054,"Anza Electric Cooperative, Inc."
+380013,Other,0,440,"Anza Electric Cooperative, Inc."
+380014,Other,0,618,"Ascent Broadband, LLC"
+380015,DOCSIS,0,230,Aurora Cable TV CO
+380016,FTTH,1,16873,BARC Electric Cooperative
+380020,Other,0,17522,Bradford Broadband LLC
+380028,Other,0,3152,Cobalt Ridge LLC
+380030,Other,0,5,Community Broadband Company
+380031,Other,0,28188,Community Internet Providers LLC
+380034,FTTH,1,1486,"Consolidated Electric Cooperative, Inc."
+380038,Other,0,639,ENCO Electronic System LLC
+380039,DOCSIS,0,4887,"Esparto Broadband, Inc."
+380040,FTTH,1,2664,Fast Forward Broadband LLC
+380040,Other,0,6639,Fast Forward Broadband LLC
+380042,Other,0,1236,Fireball Wireless LLC
+380045,FTTH,1,2865,French Broad Electric Membership Corporation
+380047,Other,0,108141,Genesis Technology Communications LLC
+380048,Other,0,164,"Gigabeam, LLC"
+380049,Other,0,14,GigaLinx Communications LLC.
+380051,Other,0,124915,"Grizzly Broadband, LLC"
+380052,Other,0,0,Groot Internet
+380053,Other,0,277,Hidden Valley Broadband
+380054,Other,0,14683,HofNet
+380055,Other,0,2085,"Honeyberry Hill Consulting, LLC"
+380059,FTTH,1,813,Jackson County REMC
+380061,Other,0,1026,Johnco PTP LLC
+380062,Other,1,777,"JORP, LLC"
+380063,Other,0,28892,JTN Communications
+380064,Other,0,326763,"KC Web, Inc."
+380065,Other,0,1281,KGI Communications LLC
+380066,Other,0,12235,KLW Communications Inc.
+380069,Other,0,697,Liberty Broadband LLC
+380070,FTTH,1,224,"LightGig Communications, LLC"
+380071,Other,0,152,Linxus Internet
+380072,Other,0,1072,"LR Communications, Inc."
+380073,Other,0,135,Madison Gigabit Internet
+380075,FTTH,0,762,MARSHALL COUNTY FIBER LLC
+380077,Other,0,1684,MEL AeroFlight
+380078,Other,0,601,Midwest Connections
+380079,Other,0,933,"Mike Gunther Industries, Inc"
+380080,FTTH,1,1195,Mille Lacs Energy Cooperative
+380081,Other,0,2101,"Mimbres Communications, LLC"
+380083,Other,0,64728,Mountain Broadband Networks LLC
+380086,DSL,0,0,"Network Tool and Die Company, Inc."
+380086,Other,0,131,"Network Tool and Die Company, Inc."
+380087,Other,0,270,"Networx Technologies, LLC"
+380089,FTTH,1,7813,"Next, powered by NAEC, LLC"
+380090,Other,0,8040,Next-Level Technology Partners
+380091,DSL,0,151,Nextwave Wireless LLC
+380091,Other,0,15483,Nextwave Wireless LLC
+380093,FTTH,1,22332,North Alabama Electric Cooperative
+380095,Other,0,1377520,"On-Ramp Indiana, Inc."
+380097,Other,0,304,Pacific Independent Technology Alliance LLC
+380098,Other,0,160060,Palomar Broadband
+380099,DOCSIS,0,28238,Paragould Light & Water Commission
+380099,FTTH,1,4702,Paragould Light & Water Commission
+380100,Other,0,14310,"Phoenix Broadband, LLC"
+380104,Other,1,63,Rarity Solutions
+380107,Other,0,80393,Ridgewood Holdings LLC DBA Net 3 isp
+380109,Other,0,17996,"Rising Wireless, Inc."
+380110,Other,0,1336,Roanoke Electric Membership Corp.
+380111,Other,0,25801,RT21.NET
+380112,DOCSIS,1,49612,"Seaport Capital/Countrywide Broadband, LLC"
+380113,Other,0,5234,Sho-Me Technologies
+380117,FTTH,1,2022,Snake River Solutions LLC
+380117,Other,0,9263,Snake River Solutions LLC
+380118,FTTH,1,854,"South Central Tower Co, LLC"
+380118,Other,0,13573,"South Central Tower Co, LLC"
+380119,Other,0,373,"Southern Internet, Inc."
+380120,Other,0,2164,"Southern Network Services, L.L.C."
+380121,DOCSIS,0,320,Spillway Communications Inc
+380124,Other,0,171805,Sureline Broadband LLC
+380129,Other,0,404,"Technically Awesome, LLC"
+380132,Other,0,11385,The Peoples State Bank
+380138,Other,0,67297,Veopoint
+380139,Other,0,9,Verde Valley Internet
+380146,Other,0,15631,W S Electronics LLC
+380148,Other,0,14757,"WHEELER BROTHERS GRAIN CO., INC"
+380149,Other,0,4350,"WiFires Communications, LLC"
+380150,Other,0,25973,WiSpan Internet LLC
+380151,FTTH,1,391711,Yomura Fiber Holdings Inc
+380151,Other,0,391711,Yomura Fiber Holdings Inc
+380153,Other,0,2662,"Zion Broadband, Inc."
+380155,Other,0,89569,Freund Enterprises Inc.
+380157,Other,0,687550,Atlas Broadband
+380158,Other,0,950720,"Ayera Technologies, Inc."
+380159,FTTH,0,293,"xBar7 Communications, LLC"
+380159,Other,0,1792,"xBar7 Communications, LLC"
+380161,Other,0,423,B.J. Ash
+380162,Other,0,510,"Lake Country Internet, LLC"
+380163,Other,0,72,winet
+380164,Other,0,1976,blue ridge internet service company
+380166,Other,0,169510,"Stratos Networks, LLC"
+380167,Other,0,36859,"Net Ops Communications, LLC"
