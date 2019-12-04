@@ -1,0 +1,17 @@
+---
+title: "Subsidies"
+author: "Jorge Guzman & Aishen Li"
+date: "12/3/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(stargazer)
+data <- read_csv("Google Drive/Fall 2019/Capstone/FTTH/Data/new_state_pop_and_sub.csv")
+data$total = data$Initiative+data$Federal
+fit = lm(population~total,data=data)
+stargazer(fit,type="latex")
+```
