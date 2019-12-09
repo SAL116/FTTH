@@ -10,8 +10,32 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ```{r}
 library(stargazer)
-data <- read_csv("Google Drive/Fall 2019/Capstone/FTTH/Data/new_state_pop_and_sub.csv")
-data$total = data$Initiative+data$Federal
-fit = lm(population~total,data=data)
-stargazer(fit,type="latex")
+#data = read_csv("Google Drive/Fall 2019/Capstone/FTTH/Data/new_state_pop_and_sub.csv")
+new_state_pop_and_sub$total = new_state_pop_and_sub$Initiative+new_state_pop_and_sub$Federal
 ```
+
+```{r}
+library(stargazer)
+fit = lm(log(population)~log(total),data=new_state_pop_and_sub)
+fit2 = lm(population~total,data=new_state_pop_and_sub)
+
+stargazer(fit2,type="text")
+```
+
+```{r}
+library(ggplot2)
+f1= ggplot(aes(x=total,y=population), data=new_state_pop_and_sub) + 
+  #geom_smooth(method="loess") +
+  ylab("Increase FTTH Covered Population") +
+  xlab("Government Subsidies") +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+        panel.background = element_blank(), axis.line = element_line(colour = "black"))
+
+```
+```{r}
+f1
+```
+
+
+
+
