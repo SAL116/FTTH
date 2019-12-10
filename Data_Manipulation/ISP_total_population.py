@@ -88,8 +88,8 @@ for state in state_list:
 	df['state'] = state
 	out_list.append(df)
 allstates = pd.concat(out_list)
-allstates.to_csv("/home/analysis/Final/ISP/poplulation/{0}/ISP_overall_pop_each_state.csv".format(year[:7]),index=False)
+allstates.to_csv("/home/analysis/Final/ISP/population/{0}/ISP_overall_pop_each_state.csv".format(year[:7]),index=False)
 out = allstates.groupby(['HocoNum','HighSpeed'])['population'].sum().reset_index()
-out.to_csv("/home/analysis/Final/ISP/poplulation/{0}/ISP_overall_pop.csv".format(year[:7]),index=False)
+out.to_csv("/home/analysis/Final/ISP/population/{0}/ISP_overall_pop.csv".format(year[:7]),index=False)
 
 
