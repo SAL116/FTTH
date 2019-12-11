@@ -86,4 +86,4 @@ for state in state_list:
 allstates = pd.concat(out_list)
 allstates.to_csv("/home/analysis/Final/population/{0}/techtype_each_state.csv".format(year[:7]),index=False)
 out = allstates.groupby(['TechType','HighSpeed'])['population'].sum().reset_index()
-out.to_csv("/home/analysis/Final/ISP/population/{0}/techtype_pop.csv".format(year[:7]),index=False)
+out.to_csv("/home/analysis/Final/population/techtype_pop_{0}.csv".format(year[:7]),index=False)
