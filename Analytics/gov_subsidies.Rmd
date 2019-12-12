@@ -16,10 +16,9 @@ new_state_pop_and_sub$total = new_state_pop_and_sub$Initiative+new_state_pop_and
 
 ```{r}
 library(stargazer)
-fit = lm(log(population)~log(total),data=new_state_pop_and_sub)
-fit2 = lm(population~total,data=new_state_pop_and_sub)
-
-stargazer(fit2,type="text")
+#fit = lm(log(population)~log(total),data=new_state_pop_and_sub)
+fit = lm(population~Initiative+Federal,data=new_state_pop_and_sub)
+stargazer(fit,type="text")
 ```
 
 ```{r}
